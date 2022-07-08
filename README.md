@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/github/stars/fordes123/adg-rule" alt="stars" />
   </a>
   <a href="https://github.com/fordes123/adg-rule/issues/">
-    <img src="https://img.shields.io/github/issuesfordes123/adg-rule" alt="open issues" />
+    <img src="https://img.shields.io/github/issues/fordes123/adg-rule" alt="open issues" />
   </a>
   <a href="https://github.com/fordes123/adg-rule/LICENSE">
     <img src="https://img.shields.io/github/license/fordes123/adg-rule.svg" alt="license" />
@@ -64,16 +64,16 @@
 #### 本地规则
 
 - [mylist](#)
-主要是对上游规则的修正补充，根据日常使用体验，解除一些失误拦截
+>主要是对上游规则的修正补充，根据日常使用体验，解除一些失误拦截
 
 <h2 id="b">🎯 规则订阅</h2>
 
-| 名称       | 说明                               | Github订阅   | jsDelivr加速订阅 |
-|---------- |------------------------------------|------------|--------------|
-| all.txt   | 仅去重的规则合集，适用于AdGuard客户端| [✈️点此查看]() | [🚀点此查看]()   |
-| adgh.txt  | 针对AdGuardHome的规则              | [✈️点此查看]() | [🚀点此查看]()   |
-| hosts.txt | hosts规则，包含一些访问加速         | [✈️点此查看]() | [🚀点此查看]()   |
-| mylist    | 人工修正的补充规则，人工更新         | [✈️点此查看]() | [🚀点此查看]()   |
+| 名称       | 说明                               | Github订阅                                                                            | jsDelivr加速订阅                                                             |
+|---------- |------------------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| all.txt   | 仅去重的规则合集，适用于AdGuard客户端| [✈️点此查看](https://raw.githubusercontent.com/fordes123/adg-rule/main/rule/all.txt) | [🚀点此查看](https://cdn.jsdelivr.net/gh/fordes123/adg-rule/rule/all.txt)           |
+| adgh.txt  | 针对AdGuardHome的规则              | [✈️点此查看](https://raw.githubusercontent.com/fordes123/adg-rule/main/rule/adgh.txt) | [🚀点此查看](https://cdn.jsdelivr.net/gh/fordes123/adg-rule/rule/adgh.txt)   |
+| hosts.txt | hosts规则，包含一些访问加速         | [✈️点此查看](https://raw.githubusercontent.com/fordes123/adg-rule/main/rule/hosts.txt)  | [🚀点此查看](https://cdn.jsdelivr.net/gh/fordes123/adg-rule/rule/hosts.txt)  |
+| mylist    | 人工修正的补充规则，人工更新         | [✈️点此查看](https://raw.githubusercontent.com/fordes123/adg-rule/main/rule/mylist.txt) | [🚀点此查看](https://cdn.jsdelivr.net/gh/fordes123/adg-rule/rule/mylist.txt) |
 
 <h2 id="c">🛠️ 快速开始</h2>
 
