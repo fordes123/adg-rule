@@ -36,6 +36,8 @@ jobs:
           else
             echo "::set-output name=status::success"
             git add .
+            git config --local user.email "ec.cheng.16888@gmail.com"
+            git config --local user.name "fordes123"
             git commit -m "Updated at $(date)" -a
           fi
 
