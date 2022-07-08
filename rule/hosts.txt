@@ -1,4 +1,4 @@
-# Update time: 2022-07-08 11:20:06
+# Update time: 2022-07-08 11:30:27
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 cnhv.co
@@ -7711,18 +7711,11 @@
 127.0.0.1 log-collector.svctr.zynga.com
 0.0.0.0 1oavsblobprodcus350.blob.core.windows.net
 0.0.0.0 37bvsblobprodcus311.blob.core.windows.net
-0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
-0.0.0.0 a.ads2.msn.com
-0.0.0.0 a.rad.msn.com
 0.0.0.0 ac3.msn.com
 0.0.0.0 adnexus.net
-0.0.0.0 adnxs.com
 0.0.0.0 ads.msn.com
-0.0.0.0 ads1.msads.net
-0.0.0.0 ads1.msn.com
 0.0.0.0 aidps.atdmt.com
-0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 alpha.telemetry.microsoft.com
 0.0.0.0 api.cortana.ai
 0.0.0.0 api.edgeoffer.microsoft.com
@@ -7730,7 +7723,6 @@
 0.0.0.0 azwancan.trafficmanager.net
 0.0.0.0 b.ads1.msn.com
 0.0.0.0 b.ads2.msads.net
-0.0.0.0 b.rad.msn.com
 0.0.0.0 bingads.microsoft.com
 0.0.0.0 blobcollector.events.data.trafficmanager.net
 0.0.0.0 bn2-ris-ap-prod-atm.trafficmanager.net
@@ -7774,7 +7766,6 @@
 0.0.0.0 bn4sch101123202.wns.windows.com
 0.0.0.0 bn4sch102110124.wns.windows.com
 0.0.0.0 browser.pipe.aria.microsoft.com
-0.0.0.0 bs.serving-sys.com
 0.0.0.0 c.atdmt.com
 0.0.0.0 c.msn.com
 0.0.0.0 ca.telemetry.microsoft.com
@@ -8002,13 +7993,10 @@
 0.0.0.0 pre.footprintpredict.com
 0.0.0.0 presence.teams.live.com
 0.0.0.0 preview.msn.com
-0.0.0.0 rad.live.com
-0.0.0.0 rad.msn.com
 0.0.0.0 redir.metaservices.microsoft.com
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
 0.0.0.0 romeccs.microsoft.com
 0.0.0.0 schemas.microsoft.akadns.net
-0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.flashtalking.com
 0.0.0.0 services.wes.df.telemetry.microsoft.com
 0.0.0.0 settings-sandbox.data.microsoft.com
@@ -8137,6 +8125,7 @@
 0.0.0.0 on.nimp.org
 0.0.0.0 painolympics.info
 0.0.0.0 painolympics.org
+0.0.0.0 phonejapan.com
 0.0.0.0 pressurespot.com
 0.0.0.0 prolapseman.com
 0.0.0.0 scrollbelow.com
@@ -8773,6 +8762,7 @@
 0.0.0.0 js.revsci.net
 0.0.0.0 justtrck.com
 0.0.0.0 kissmetrics.com
+0.0.0.0 kqzyfj.com
 0.0.0.0 kt4.kliptracker.com
 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 lcprd2.samsungcloudsolution.net
@@ -9404,6 +9394,7 @@
 0.0.0.0 www.iovation.com
 0.0.0.0 www.jellycounter.com
 0.0.0.0 www.kqzyfj.com
+0.0.0.0 www.lansrv050.com
 0.0.0.0 www.leadpub.com
 0.0.0.0 www.linkcounter.com
 0.0.0.0 www.megacounter.de
@@ -10232,6 +10223,7 @@
 0.0.0.0 jbit.cjt1.net
 0.0.0.0 jcollegehumor.cjt1.net
 0.0.0.0 jdownloadacc.cjt1.net
+0.0.0.0 jgen1.cjt1.net
 0.0.0.0 jgen10.cjt1.net
 0.0.0.0 jgen11.cjt1.net
 0.0.0.0 jgen12.cjt1.net
@@ -10445,6 +10437,7 @@
 0.0.0.0 fbkmnr.112.2o7.net
 0.0.0.0 forbesattache.112.2o7.net
 0.0.0.0 forbesauto.112.2o7.net
+0.0.0.0 forbesautos.112.2o7.net
 0.0.0.0 forbescom.112.2o7.net
 0.0.0.0 ford.112.2o7.net
 0.0.0.0 foxcom.112.2o7.net
@@ -10990,6 +10983,7 @@
 0.0.0.0 dowhatyouneed.com
 0.0.0.0 downgradeproduct.com
 0.0.0.0 dramatic-challenge.com
+0.0.0.0 dynamic-dns.net
 0.0.0.0 e-loading.biz
 0.0.0.0 easy-pay.info
 0.0.0.0 effectivespeech.net
@@ -11417,6 +11411,8 @@
 0.0.0.0 a.adorika.net
 0.0.0.0 a.adready.com
 0.0.0.0 a.adroll.com
+0.0.0.0 a.ads1.msn.com
+0.0.0.0 a.ads2.msn.com
 0.0.0.0 a.adstome.com
 0.0.0.0 a.adtng.com
 0.0.0.0 a.applvn.com
@@ -11433,6 +11429,7 @@
 0.0.0.0 a.o333o.com
 0.0.0.0 a.prisacom.com
 0.0.0.0 a.rad.live.com
+0.0.0.0 a.rad.msn.com
 0.0.0.0 a.spolecznosci.net
 0.0.0.0 a.ss34.on9mail.com
 0.0.0.0 a.total-media.net
@@ -11917,6 +11914,7 @@
 0.0.0.0 adnetwork.nextgen.net
 0.0.0.0 adnetwork.rovicorp.com
 0.0.0.0 adnetworkperformance.com
+0.0.0.0 adnxs.com
 0.0.0.0 adnxs.revsci.net
 0.0.0.0 adobe.tt.omtrdc.net
 0.0.0.0 adobee.com
@@ -11975,6 +11973,7 @@
 0.0.0.0 ads.adsonar.com
 0.0.0.0 ads.adsrvmedia.com
 0.0.0.0 ads.adsrvmedia.net
+0.0.0.0 ads.adtegrity.net
 0.0.0.0 ads.adtiger.de
 0.0.0.0 ads.adultfriendfinder.com
 0.0.0.0 ads.advance.net
@@ -12448,6 +12447,8 @@
 0.0.0.0 ads1.destructoid.com
 0.0.0.0 ads1.erotism.com
 0.0.0.0 ads1.jev.co.za
+0.0.0.0 ads1.msads.net
+0.0.0.0 ads1.msn.com
 0.0.0.0 ads1.performancingads.com
 0.0.0.0 ads1.realcities.com
 0.0.0.0 ads1.revenue.net
@@ -12885,6 +12886,7 @@
 0.0.0.0 ak.buyservices.com
 0.0.0.0 ak.maxserving.com
 0.0.0.0 ak.sail-horizon.com
+0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 aka-cdn-ns.adtechus.com
 0.0.0.0 aka-cdn.adtechus.com
 0.0.0.0 aka.ms-ads.co
@@ -13055,6 +13057,7 @@
 0.0.0.0 b.liquidustv.com
 0.0.0.0 b.myspace.com
 0.0.0.0 b.rad.live.com
+0.0.0.0 b.rad.msn.com
 0.0.0.0 b.recwwcc5.info
 0.0.0.0 b1fe8a95ae27823.com
 0.0.0.0 b34rightym.com
@@ -13241,6 +13244,7 @@
 0.0.0.0 browserprotecter.com
 0.0.0.0 browsesentinel.com
 0.0.0.0 brxfinance.com
+0.0.0.0 bs.serving-sys.com
 0.0.0.0 bs.url.tw
 0.0.0.0 bsnj.eyeblaster.akadns.net
 0.0.0.0 btbuyerapp.com
@@ -13570,6 +13574,7 @@
 0.0.0.0 collegiogeometri.it
 0.0.0.0 com.htmlwww.youfck.com
 0.0.0.0 comcastresidentialservices.tt.omtrdc.net
+0.0.0.0 commerce.www.ibm.com
 0.0.0.0 companion.adap.tv
 0.0.0.0 computer-offer.com
 0.0.0.0 computersncs.com
@@ -13674,6 +13679,7 @@
 0.0.0.0 d10.zedo.com
 0.0.0.0 d11.zedo.com
 0.0.0.0 d12.zedo.com
+0.0.0.0 d14.zedo.com
 0.0.0.0 d2.sina.com.cn
 0.0.0.0 d2.zedo.com
 0.0.0.0 d3.sina.com.cn
@@ -14141,6 +14147,7 @@
 0.0.0.0 go.padstm.com
 0.0.0.0 go.pl.bbelements.com
 0.0.0.0 go.spaceshipads.com
+0.0.0.0 go.stirshakead.com
 0.0.0.0 go.verymuchad.com
 0.0.0.0 go2.hit.gemius.pl
 0.0.0.0 go2page.net
@@ -14218,6 +14225,7 @@
 0.0.0.0 hirtop.in
 0.0.0.0 hirturi.blogspot.hu
 0.0.0.0 hirvilag.co
+0.0.0.0 hirzona24.com
 0.0.0.0 histats.com
 0.0.0.0 histock.info
 0.0.0.0 hit.8digits.com
@@ -14514,6 +14522,7 @@
 0.0.0.0 kdconstructionusa.com
 0.0.0.0 keepyoungphone.bid
 0.0.0.0 kelder.nl
+0.0.0.0 kergaukr.com
 0.0.0.0 keys.dmtracker.com
 0.0.0.0 keywordblocks.com
 0.0.0.0 keywords.adtlgc.com
@@ -15000,6 +15009,7 @@
 0.0.0.0 nlink.com.br
 0.0.0.0 no.adserver.yahoo.com
 0.0.0.0 nofreezingmac.space
+0.0.0.0 nofreezingmac.work
 0.0.0.0 nospartenaires.com
 0.0.0.0 notification-browser.com
 0.0.0.0 notify.beap.gemini.yahoo.com
@@ -15074,6 +15084,7 @@
 0.0.0.0 onclickmega.com
 0.0.0.0 onclicksuper.com
 0.0.0.0 onclkds.com
+0.0.0.0 ondermaat.nl
 0.0.0.0 one-drive-ms.com
 0.0.0.0 onedrive-cdn.com
 0.0.0.0 onedrive-download-en.com
@@ -15093,6 +15104,7 @@
 0.0.0.0 onmarshtompor.com
 0.0.0.0 onmypc.net
 0.0.0.0 oopt.fr
+0.0.0.0 openad.travelnow.com
 0.0.0.0 openadext.tf1.fr
 0.0.0.0 openads.dimcab.com
 0.0.0.0 openads.friendfinder.com
@@ -15127,6 +15139,7 @@
 0.0.0.0 overlay.ringtonematcher.com
 0.0.0.0 overstock.tt.omtrdc.net
 0.0.0.0 owabgxis.wp.pl
+0.0.0.0 own-eu-cloud.com
 0.0.0.0 ox-d.hbr.org
 0.0.0.0 ox-d.hulkshare.com
 0.0.0.0 ox-d.hypeads.org
@@ -15460,6 +15473,9 @@
 0.0.0.0 r.turn.com
 0.0.0.0 r.turn.com.akadns.net
 0.0.0.0 r2.adwo.com
+0.0.0.0 r7mediar.com
+0.0.0.0 rad.live.com
+0.0.0.0 rad.msn.com
 0.0.0.0 rads.stackoverflow.com
 0.0.0.0 railroadtomato.com
 0.0.0.0 rassegnavermentino.it
@@ -15636,6 +15652,7 @@
 0.0.0.0 s.moatads.com
 0.0.0.0 s.ntv.io
 0.0.0.0 s.optnx.com
+0.0.0.0 s.oroll.com
 0.0.0.0 s.ppjol.net
 0.0.0.0 s.rev2pub.com
 0.0.0.0 s.skimresources.com
@@ -15706,6 +15723,7 @@
 0.0.0.0 secserv.adtech.us
 0.0.0.0 secure-js.kontera.com
 0.0.0.0 secure.addthis.com
+0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.bidvertiser.com
 0.0.0.0 secure.bidvertiserr.com
 0.0.0.0 secure.netscope.marktest.pt
@@ -15757,6 +15775,7 @@
 0.0.0.0 service002.adtech.fr
 0.0.0.0 service002.adtech.us
 0.0.0.0 service003.adtech.fr
+0.0.0.0 service003.adtech.us
 0.0.0.0 service004.adtech.fr
 0.0.0.0 service004.adtech.us
 0.0.0.0 service00x.adtech.fr
@@ -15776,6 +15795,7 @@
 0.0.0.0 sexzavod.com
 0.0.0.0 seyatosan.iaigiri.com
 0.0.0.0 sfads.osdn.com
+0.0.0.0 sg.adserver.yahoo.com
 0.0.0.0 sg3.beap.gemini.yahoo.com
 0.0.0.0 sgs001.adtech.fr
 0.0.0.0 sgs001.adtech.us
@@ -16054,6 +16074,7 @@
 0.0.0.0 t.mdn2015x3.com
 0.0.0.0 t.silvinst.com
 0.0.0.0 t1.adserver.com
+0.0.0.0 t2.junbi-tracker.com
 0.0.0.0 t8t7frium3.s.ad6media.fr
 0.0.0.0 taboola.com
 0.0.0.0 taboola.com.edgekey.net
@@ -16465,6 +16486,7 @@
 0.0.0.0 wm.baidu.com
 0.0.0.0 wmedia.adk2x.com
 0.0.0.0 wms-eu.amazon-adsystem.com
+0.0.0.0 wms-na.amazon-adsystem.com
 0.0.0.0 wonderlandads.com
 0.0.0.0 worden.samenresultaat.nl
 0.0.0.0 work-offer.com
@@ -17799,6 +17821,7 @@
 0.0.0.0 oascentral.sfweekly.com
 0.0.0.0 oascentral.sina.com
 0.0.0.0 oascentral.sina.com.hk
+0.0.0.0 oascentral.sparknotes.com
 0.0.0.0 oascentral.starbulletin.com
 0.0.0.0 oascentral.surfline.com
 0.0.0.0 oascentral.thechronicleherald.ca
@@ -17813,6 +17836,7 @@
 0.0.0.0 oascentral.trutv.com
 0.0.0.0 oascentral.upi.com
 0.0.0.0 oascentral.villagevoice.com
+0.0.0.0 oascentral.virtualtourist.com
 0.0.0.0 oascentral.washtimes.com
 0.0.0.0 oascentral.wciv.com
 0.0.0.0 oascentral.westword.com
@@ -17837,6 +17861,7 @@
 0.0.0.0 te.newsday.com
 0.0.0.0 te.nytdigital.com
 0.0.0.0 te.scrippsnetworksprivacy.com
+0.0.0.0 te.scrippsnewspapersprivacy.com
 0.0.0.0 te.sfgate.com
 0.0.0.0 te.signonsandiego.com
 0.0.0.0 te.stamfordadvocate.com
@@ -18169,6 +18194,7 @@
 0.0.0.0 paxil.1.p2l.info
 0.0.0.0 payday-loans.now-cash.com
 0.0.0.0 pe.5.p2l.info
+0.0.0.0 peter-north-cum-shot.blogspot.com
 0.0.0.0 pets.finaltips.com
 0.0.0.0 pharmacy-canada.forsearch.net
 0.0.0.0 pharmacy-news.blogspot.com
@@ -18221,6 +18247,7 @@
 0.0.0.0 soma.3xforum.ro
 0.0.0.0 sonata.1.p2l.info
 0.0.0.0 spyware-removers.shengen.ru
+0.0.0.0 sq7.co.uk
 0.0.0.0 stop-smoking.1.p2l.info
 0.0.0.0 supplements.1.p2l.info
 0.0.0.0 sx.nazari.org
@@ -18383,6 +18410,38 @@
 0.0.0.0 cds26.ams9.msecn.net
 0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 statsfe2.ws.microsoft.com
+104.111.167.111 contentstorage.osi.office.net
+13.107.42.13 onedrive.live.com
+20.190.163.19 login.live.com
+20.135.17.16 skyapi.onedrive.live.com
+13.107.42.12 d.docs.live.net
+52.109.48.36 contentsync.onenote.com
+52.109.48.27 hierarchyapi.onenote.com
+52.109.56.86 ocws.officeapps.live.com
+52.109.48.0 www.onenote.com
+13.107.42.16 config.edge.skype.com
+52.109.56.83 roaming.officeapps.live.com
+52.109.48.4 pagecontentsync.onenote.com
+104.111.167.110 api.onedrive.live.com
+104.111.154.24 c1-onenote-15.cdn.office.net
+13.107.42.12 docs.live.net
+40.90.133.97 storage.live.com
+20.197.71.89 skydrive.wns.windows.com
+20.198.162.76 client.wns.windows.com
+20.42.65.89 mobile.pipe.aria.microsoft.com
+23.57.114.164 oneclient.sfx.ms
+40.90.133.112 skydrivesync.policies.live.net
+13.107.42.12 api.onedrive.com
+13.107.42.12 public.bn.files.1drv.com
+13.107.42.12 public.dm.files.1drv.com
+104.111.162.163 cdn.onenote.net
+157.240.199.14 ad.atdmt.com
+117.18.232.200 officeimg.vo.msecnd.net
+13.107.6.171 onenote.officeapps.live.com
+40.99.9.98 outlook.office365.com
+40.100.55.2 substrate.office.com
+13.75.112.108 todo.microsoft.com
+40.99.10.2 to-do.live.com
 23.45.0.161         steamcommunity.com
 23.45.0.161         www.steamcommunity.com
 23.204.30.72        store.steampowered.com
@@ -18393,7 +18452,6 @@
 18.232.35.91        store.akamai.steamstatic.com
 3.239.90.21         cdn.cloudflare.steamstatic.com
 23.66.66.221        steam-chat.com
-23.45.51.162 upos-hz-mirrorakam.akamaized.net #bili番剧CDN
 185.199.111.154              github.githubassets.com
 140.82.113.21                central.github.com
 185.199.110.133              desktop.githubusercontent.com
@@ -18427,35 +18485,4 @@
 185.199.108.133              objects.githubusercontent.com
 185.199.109.133              raw.github.com
 20.109.240.231               copilot-proxy.githubusercontent.com
-104.111.167.111 contentstorage.osi.office.net
-13.107.42.13 onedrive.live.com
-20.190.163.19 login.live.com
-20.135.17.16 skyapi.onedrive.live.com
-13.107.42.12 d.docs.live.net
-52.109.48.36 contentsync.onenote.com
-52.109.48.27 hierarchyapi.onenote.com
-52.109.56.86 ocws.officeapps.live.com
-52.109.48.0 www.onenote.com
-13.107.42.16 config.edge.skype.com
-52.109.56.83 roaming.officeapps.live.com
-52.109.48.4 pagecontentsync.onenote.com
-104.111.167.110 api.onedrive.live.com
-104.111.154.24 c1-onenote-15.cdn.office.net
-13.107.42.12 docs.live.net
-40.90.133.97 storage.live.com
-20.197.71.89 skydrive.wns.windows.com
-20.198.162.76 client.wns.windows.com
-20.42.65.89 mobile.pipe.aria.microsoft.com
-23.57.114.164 oneclient.sfx.ms
-40.90.133.112 skydrivesync.policies.live.net
-13.107.42.12 api.onedrive.com
-13.107.42.12 public.bn.files.1drv.com
-13.107.42.12 public.dm.files.1drv.com
-104.111.162.163 cdn.onenote.net
-157.240.199.14 ad.atdmt.com
-117.18.232.200 officeimg.vo.msecnd.net
-13.107.6.171 onenote.officeapps.live.com
-40.99.9.98 outlook.office365.com
-40.100.55.2 substrate.office.com
-13.75.112.108 todo.microsoft.com
-40.99.10.2 to-do.live.com
+23.45.51.162 upos-hz-mirrorakam.akamaized.net #bili番剧CDN
