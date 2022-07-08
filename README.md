@@ -5,20 +5,20 @@
   </p>
 <!-- Badges -->
 <p>
-  <a href="#">
-    <img src="https://img.shields.io/github/last-commit/fordes123/adg-rule" alt="last update" />
+  <a href="https://github.com/fordes123/adg-rule">
+    <img src="https://img.shields.io/github/last-commit/fordes123/adg-rule?style=flat-square" alt="last update" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/forks/fordes123/adg-rule" alt="forks" />
+  <a href="https://github.com/fordes123/adg-rule">
+    <img src="https://img.shields.io/github/forks/fordes123/adg-rule?style=flat-square" alt="forks" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/stars/fordes123/adg-rule" alt="stars" />
+  <a href="https://github.com/fordes123/adg-rule">
+    <img src="https://img.shields.io/github/stars/fordes123/adg-rule?style=flat-square" alt="stars" />
   </a>
   <a href="https://github.com/fordes123/adg-rule/issues/">
-    <img src="https://img.shields.io/github/issues/fordes123/adg-rule" alt="open issues" />
+    <img src="https://img.shields.io/github/issues/fordes123/adg-rule?style=flat-square" alt="open issues" />
   </a>
-  <a href="https://github.com/fordes123/adg-rule/LICENSE">
-    <img src="https://img.shields.io/github/license/fordes123/adg-rule.svg" alt="license" />
+  <a href="https://github.com/fordes123/adg-rule">
+    <img src="https://img.shields.io/github/license/fordes123/adg-rule?style=flat-square" alt="license" />
   </a>
 </p>
 
@@ -79,7 +79,7 @@
 
 - fork本项目
 - 编辑`src/main/resources/application.yml`文件，在`rule.remote`节点下添加你的上游规则订阅链接，在`rule.local`节点下添加你的本地规则，注意本地规则文件应加入项目根目录`rule`文件夹
-- 编辑`.github/workflows/auto-update.yml` 文件，将`Commit Changes`区块下邮箱与用户名更改为你的
+- 编辑`.github/workflows/auto-update.yml` 文件，更改`Commit Changes`区块下邮箱与用户名
 - 提交所有修改并等待`Github Action`执行，执行完成后相应规则生成在`rule`目录下
 
 <h2 id="d">💬 问题反馈</h2>
