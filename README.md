@@ -84,4 +84,4 @@
 
 <h2 id="d">💬 问题反馈</h2>
 
-- 👉 [issues]()
+- 👉 [issues](https://github.com/fordes123/adg-rule/issues)
