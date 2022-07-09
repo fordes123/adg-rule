@@ -1,4 +1,4 @@
-# Update time: 2022-07-09 15:49:07
+# Update time: 2022-07-09 16:10:41
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 cnhv.co
@@ -15440,6 +15440,7 @@
 0.0.0.0 service002.adtech.fr
 0.0.0.0 service002.adtech.us
 0.0.0.0 service003.adtech.fr
+0.0.0.0 service003.adtech.us
 0.0.0.0 service004.adtech.fr
 0.0.0.0 service004.adtech.us
 0.0.0.0 service00x.adtech.fr
@@ -18409,16 +18410,6 @@
 0.0.0.0 win8.ipv6.microsoft.com
 0.0.0.0 xblgdvrassets3010.blob.core.windows.net
 0.0.0.0 ztd.dds.microsoft.com
-23.45.0.161         steamcommunity.com
-23.45.0.161         www.steamcommunity.com
-23.204.30.72        store.steampowered.com
-23.204.30.72        api.steampowered.com
-3.231.152.252       steamcdn-a.akamaihd.net
-3.237.48.118        cdn.akamai.steamstatic.com
-3.88.114.209        community.akamai.steamstatic.com
-44.202.160.234      store.akamai.steamstatic.com
-44.200.229.175      cdn.cloudflare.steamstatic.com
-23.66.66.221        steam-chat.com
 185.199.108.154              github.githubassets.com
 140.82.112.22                central.github.com
 185.199.110.133              desktop.githubusercontent.com
@@ -18429,7 +18420,6 @@
 140.82.113.3                 gist.github.com
 185.199.109.153              github.io
 140.82.112.3                 github.com
-140.82.113.5                 api.github.com
 185.199.111.133              raw.githubusercontent.com
 185.199.109.133              user-images.githubusercontent.com
 185.199.108.133              favicons.githubusercontent.com
@@ -18452,7 +18442,15 @@
 185.199.108.133              objects.githubusercontent.com
 185.199.111.133              raw.github.com
 20.84.29.177                 copilot-proxy.githubusercontent.com
-23.45.51.162 upos-hz-mirrorakam.akamaized.net #bili番剧CDN
+104.78.121.166      steamcommunity.com
+104.78.121.166      www.steamcommunity.com
+23.63.202.209       api.steampowered.com
+54.201.141.6        steamcdn-a.akamaihd.net
+54.186.150.208      cdn.akamai.steamstatic.com
+35.89.29.20         community.akamai.steamstatic.com
+35.90.6.221         store.akamai.steamstatic.com
+52.36.83.4          cdn.cloudflare.steamstatic.com
+23.66.66.221        steam-chat.com
 104.111.167.111 contentstorage.osi.office.net
 13.107.42.13 onedrive.live.com
 20.190.166.3 login.live.com
@@ -18485,3 +18483,4 @@
 40.99.10.34 substrate.office.com
 13.75.112.108 todo.microsoft.com
 40.99.10.82 to-do.live.com
+23.45.51.162 upos-hz-mirrorakam.akamaized.net #bili番剧CDN
