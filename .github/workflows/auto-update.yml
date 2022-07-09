@@ -49,7 +49,7 @@ jobs:
           branch: ${{ github.ref }}
 
       - name: Mirror Refresh
-        run: sleep 10 && curl 'https://purge.jsdelivr.net/gh/fordes123/adg-rule/rule/all.txt'&& curl 'https://purge.jsdelivr.net/gh/fordes123/adg-rule/rule/adgh.txt'&& curl 'https://purge.jsdelivr.net/gh/fordes123/adg-rule/rule/hosts.txt'&& curl 'https://purge.jsdelivr.net/gh/fordes123/adg-rule/rule/mylist.txt'
+        run: sleep 10 && curl 'https://purge.jsdelivr.net/gh/$GITHUB_REPOSITORY/rule'
 
 
       - name: Delete Workflow Runs
