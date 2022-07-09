@@ -58,6 +58,7 @@
     <li><a href="https://github.com/pboymt/Steam520">Steam Hosts</a></li>
     <li><a href="https://gitlab.com/ineo6/hosts">Github Hosts</a></li>
     <li><a href="https://onedrive-hosts.learningman.top/">OneDrive Hosts</a></li> 
+    <li><a href="https://github.com/privacy-protection-tools/anti-AD">anti-AD(AdGuardHome)</a></li> 
 </ul>
 </details>
 
