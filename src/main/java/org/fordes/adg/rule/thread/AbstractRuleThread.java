@@ -54,7 +54,8 @@ public abstract class AbstractRuleThread implements Runnable {
     @Override
     public void run() {
         try {
-            log.debug("begin~ {}", Thread.currentThread().getName());
+//             log.debug("begin~ {}", Thread.currentThread().getName());
+            log.info("begin~ {}", this.ruleUrl);
             List<String> hosts = new ArrayList<>();
             List<String> block = new ArrayList<>();
             List<String> all = new ArrayList<>();
