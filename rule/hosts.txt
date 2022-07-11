@@ -1,4 +1,4 @@
-# Update time: 2022-07-11 09:24:37
+# Update time: 2022-07-11 14:19:40
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 cnhv.co
@@ -7909,7 +7909,6 @@
 0.0.0.0 eaus2watcab02.blob.core.windows.net
 0.0.0.0 ec.atdmt.com
 0.0.0.0 flex.msn.com
-0.0.0.0 g.msn.com
 0.0.0.0 geo.settings.data.microsoft.com.akadns.net
 0.0.0.0 geo.settings-win.data.microsoft.com.akadns.net
 0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
@@ -10460,7 +10459,6 @@
 0.0.0.0 fbkmnr.112.2o7.net
 0.0.0.0 forbesattache.112.2o7.net
 0.0.0.0 forbesauto.112.2o7.net
-0.0.0.0 forbesautos.112.2o7.net
 0.0.0.0 forbescom.112.2o7.net
 0.0.0.0 ford.112.2o7.net
 0.0.0.0 foxcom.112.2o7.net
@@ -14161,7 +14159,6 @@
 0.0.0.0 go.padstm.com
 0.0.0.0 go.pl.bbelements.com
 0.0.0.0 go.spaceshipads.com
-0.0.0.0 go.stirshakead.com
 0.0.0.0 go.verymuchad.com
 0.0.0.0 go2.hit.gemius.pl
 0.0.0.0 go2page.net
@@ -15023,7 +15020,6 @@
 0.0.0.0 nlink.com.br
 0.0.0.0 no.adserver.yahoo.com
 0.0.0.0 nofreezingmac.space
-0.0.0.0 nofreezingmac.work
 0.0.0.0 nospartenaires.com
 0.0.0.0 notification-browser.com
 0.0.0.0 notify.beap.gemini.yahoo.com
@@ -15098,7 +15094,6 @@
 0.0.0.0 onclickmega.com
 0.0.0.0 onclicksuper.com
 0.0.0.0 onclkds.com
-0.0.0.0 ondermaat.nl
 0.0.0.0 one-drive-ms.com
 0.0.0.0 onedrive-cdn.com
 0.0.0.0 onedrive-download-en.com
@@ -15664,7 +15659,6 @@
 0.0.0.0 s.moatads.com
 0.0.0.0 s.ntv.io
 0.0.0.0 s.optnx.com
-0.0.0.0 s.oroll.com
 0.0.0.0 s.ppjol.net
 0.0.0.0 s.rev2pub.com
 0.0.0.0 s.skimresources.com
@@ -17831,7 +17825,6 @@
 0.0.0.0 oascentral.sfweekly.com
 0.0.0.0 oascentral.sina.com
 0.0.0.0 oascentral.sina.com.hk
-0.0.0.0 oascentral.sparknotes.com
 0.0.0.0 oascentral.starbulletin.com
 0.0.0.0 oascentral.surfline.com
 0.0.0.0 oascentral.thechronicleherald.ca
@@ -18421,46 +18414,45 @@
 0.0.0.0 statsfe2.ws.microsoft.com
 104.78.121.166      steamcommunity.com
 104.78.121.166      www.steamcommunity.com
-23.63.202.209       store.steampowered.com
-23.63.202.209       api.steampowered.com
-184.72.161.63       steamcdn-a.akamaihd.net
-3.239.236.174       cdn.akamai.steamstatic.com
-3.235.17.104        community.akamai.steamstatic.com
-44.192.25.232       store.akamai.steamstatic.com
-44.201.62.5         cdn.cloudflare.steamstatic.com
+23.204.30.72        store.steampowered.com
+23.204.30.72        api.steampowered.com
+100.26.193.73       steamcdn-a.akamaihd.net
+34.204.190.7        cdn.akamai.steamstatic.com
+44.198.179.53       community.akamai.steamstatic.com
+18.206.100.23       store.akamai.steamstatic.com
+3.81.115.47         cdn.cloudflare.steamstatic.com
 23.66.66.221        steam-chat.com
 185.199.109.154              github.githubassets.com
-140.82.112.21                central.github.com
-185.199.110.133              desktop.githubusercontent.com
-185.199.111.153              assets-cdn.github.com
-185.199.110.133              camo.githubusercontent.com
+140.82.114.21                central.github.com
+185.199.108.133              desktop.githubusercontent.com
+185.199.108.153              assets-cdn.github.com
+185.199.108.133              camo.githubusercontent.com
 185.199.111.133              github.map.fastly.net
-151.101.129.194              github.global.ssl.fastly.net
+151.101.1.194                github.global.ssl.fastly.net
 140.82.112.4                 gist.github.com
 185.199.108.153              github.io
-140.82.113.3                 github.com
-140.82.113.6                 api.github.com
-185.199.111.133              raw.githubusercontent.com
+140.82.112.3                 github.com
+140.82.113.5                 api.github.com
+185.199.110.133              raw.githubusercontent.com
 185.199.110.133              user-images.githubusercontent.com
 185.199.108.133              favicons.githubusercontent.com
 185.199.108.133              avatars5.githubusercontent.com
 185.199.111.133              avatars3.githubusercontent.com
-185.199.110.133              avatars2.githubusercontent.com
-185.199.111.133              avatars1.githubusercontent.com
+185.199.111.133              avatars2.githubusercontent.com
 185.199.110.133              avatars0.githubusercontent.com
-185.199.109.133              avatars.githubusercontent.com
-140.82.114.10                codeload.github.com
-52.216.21.179                github-cloud.s3.amazonaws.com
-52.216.135.27                github-com.s3.amazonaws.com
-54.231.165.249               github-production-release-asset-2e65be.s3.amazonaws.com
-54.231.140.137               github-production-user-asset-6210df.s3.amazonaws.com
-54.231.166.25                github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.110.153              githubstatus.com
+185.199.108.133              avatars.githubusercontent.com
+140.82.113.10                codeload.github.com
+52.217.83.220                github-cloud.s3.amazonaws.com
+52.217.38.140                github-com.s3.amazonaws.com
+54.231.136.33                github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.72.20                 github-production-user-asset-6210df.s3.amazonaws.com
+52.217.204.81                github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.111.153              githubstatus.com
 64.71.144.211                github.community
-185.199.111.133              media.githubusercontent.com
+185.199.108.133              media.githubusercontent.com
 185.199.110.133              objects.githubusercontent.com
-185.199.110.133              raw.github.com
-20.109.240.231               copilot-proxy.githubusercontent.com
+185.199.108.133              raw.github.com
+20.84.233.211                copilot-proxy.githubusercontent.com
 23.45.51.162 upos-hz-mirrorakam.akamaized.net #bili番剧CDN
 104.111.167.111 contentstorage.osi.office.net
 13.107.42.13 onedrive.live.com
