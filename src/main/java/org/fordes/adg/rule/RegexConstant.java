@@ -9,6 +9,6 @@ public class RegexConstant {
     public static final String HOSTS = "^\\d+\\.\\d+\\.\\d+\\.\\d+\\s+.*";
 
     //匹配AdGuardHome规则（不包含正则）
-    public static final String BLOCK = "(^\\|\\|[^/]+\\^$)|(^@@.*\\^$)|(^/.*/$)";
+    public static final String BLOCK = "(^\\|\\|.*[\\^,\\^\\$important]$)|(^@@.*[\\^,\\^\\$important]$)|(^/.*/$)";
 
 }
