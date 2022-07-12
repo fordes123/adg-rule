@@ -14,7 +14,7 @@ rule:
     - 'https://cdn.jsdelivr.net/gh/crazy-max/WindowsSpyBlocker/data/hosts/spy.txt' #WindowsSpyBlocker
     - 'https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad-pc.txt' #HalfLife（pc）
     - 'https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt' #Adgk
-    - 'https://github.com/VeleSila/yhosts' #yhosts
+    - 'https://cdn.jsdelivr.net/gh/VeleSila/yhosts/hosts.txt' #yhosts
     - 'https://onedrive-hosts.learningman.top/' #OneDrive Hosts
     - 'https://cdn.jsdelivr.net/gh/pboymt/Steam520/hosts' #Steam Hosts
     - 'https://gitlab.com/ineo6/hosts/-/raw/master/next-hosts' #Github Hosts
