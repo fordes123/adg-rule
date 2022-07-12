@@ -53,8 +53,6 @@ public abstract class AbstractRuleThread implements Runnable {
     @Override
     public void run() {
         try {
-//             log.debug("begin~ {}", Thread.currentThread().getName());
-//            log.info("begin~ {}", this.ruleUrl);
             List<String> hosts = new ArrayList<>();
             List<String> block = new ArrayList<>();
             List<String> all = new ArrayList<>();
@@ -63,28 +61,25 @@ public abstract class AbstractRuleThread implements Runnable {
                     line = StrUtil.trim(HtmlUtil.cleanHtmlTag(line));
                     if (!filter.mightContain(line)) {
                         filter.put(line);
+                        //排除注释
+                        if (!StrUtil.contains(line, "#") && !StrUtil.startWith(line, "!")) {
 
-                        if (ReUtil.isMatch(RegexConstant.HOSTS, line)) {
-                            hosts.add(line);
-                            all.add(line);
-                            block.add(line);
-                        } else if (StrUtil.startWithAny(line, "@@", "||", "/")) {
-                            //正则规则
-                            if (StrUtil.startWith(line, "/") && StrUtil.endWith(line, "/")) {
+                            if (ReUtil.isMatch(RegexConstant.HOSTS, line)) {
+                                //hosts规则
+                                hosts.add(line);
                                 block.add(line);
-                            }else
 
-                            if (StrUtil.containsAny(line, "^", "#", "+", "$", "/")) {
-                                if (StrUtil.endWithAny(line, "^", "|", "^$important")) {
-                                    block.add(line);
-                                }
-                            } else {
+                            } else if (ReUtil.isMatch("^[\\|\\|,@@].*\\$.*|^/[^#]+/$", line)) {
+                                //正则规则
+                                block.add(line);
+
+                            } else if (!StrUtil.contains(line, "/")) {
+                                //拦截规则
                                 block.add(line);
                             }
                             all.add(line);
-                        } else {
-                            all.add(line);
                         }
+
                     }
                 }
             });
