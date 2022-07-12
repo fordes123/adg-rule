@@ -70,11 +70,11 @@ public abstract class AbstractRuleThread implements Runnable {
                             block.add(line);
                         } else if (StrUtil.startWithAny(line, "@@", "||", "/")) {
                             //正则规则
-                            if (StrUtil.endWith(line, "/")) {
+                            if (StrUtil.startWith(line, "/") && StrUtil.endWith(line, "/")) {
                                 block.add(line);
-                            }
+                            }else
 
-                            if (StrUtil.containsAny(line, "^", "#", "+")) {
+                            if (StrUtil.containsAny(line, "^", "#", "+", "$", "/")) {
                                 if (StrUtil.endWithAny(line, "^", "|", "^$important")) {
                                     block.add(line);
                                 }
