@@ -1,4 +1,4 @@
-# Update time: 2022-07-12 14:36:00
+# Update time: 2022-07-12 14:36:36
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 cnhv.co
@@ -8071,9 +8071,6 @@
 127.0.0.1	localhost.localdomain
 255.255.255.255	broadcasthost
 127.0.0.1	local
-0.0.0.0 goatse.cx       # More information on sites such as
-0.0.0.0 www.goatse.cx   # these can be found in this article
-0.0.0.0 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
 0.0.0.0 www.oralse.cx
 0.0.0.0 goatse.ca
 0.0.0.0 www.goatse.ca
@@ -8259,8 +8256,6 @@
 0.0.0.0 ads345.com
 0.0.0.0 www.ads234.com
 0.0.0.0 www.ads345.com
-0.0.0.0 media.fastclick.net	# Likewise, this may interfere with some
-0.0.0.0 cdn.fastclick.net	# sites.
 0.0.0.0 006.free-counter.co.uk
 0.0.0.0 006.freecounters.co.uk
 0.0.0.0 0stats.com
@@ -8279,14 +8274,11 @@
 0.0.0.0 abclnks.com
 0.0.0.0 aboardamusement.com
 0.0.0.0 abscbn.spinbox.net
-0.0.0.0 activity.serving-sys.com	#eyeblaster.com
 0.0.0.0 adadvisor.net
 0.0.0.0 adapi.ragapa.com
 0.0.0.0 adcounter.theglobeandmail.com
 0.0.0.0 addfreestats.com
-0.0.0.0 adelogs.adobe.com	#See http://www.theregister.co.uk/2014/10/07/adobe_digital_editions_4_caught_snooping_into_ebook_collections_of_users/
 0.0.0.0 ademails.com
-0.0.0.0 adlog.com.com # Used by Ziff Davis to serve
 0.0.0.0 admin.iovation.com
 0.0.0.0 adopt.specificclick.net
 0.0.0.0 adpatrof.com
@@ -8339,7 +8331,6 @@
 0.0.0.0 beacon.scorecardresearch.com
 0.0.0.0 belierlaine.com
 0.0.0.0 benchemail.bmetrack.com
-0.0.0.0 best-search.cc	#spyware
 0.0.0.0 beta.easy-hit-counters.com
 0.0.0.0 beta.easyhitcounters.com
 0.0.0.0 bigdata.adfuture.cn
@@ -8414,7 +8405,6 @@
 0.0.0.0 clicks.m4n.nl
 0.0.0.0 clicks.natwest.com
 0.0.0.0 clicks.rbs.co.uk
-0.0.0.0 clickspring.net	#used by a spyware product called PurityScan
 0.0.0.0 clickstatsview.earnmoneycasinos.com
 0.0.0.0 clicktrack.onlineemailmarketing.com
 0.0.0.0 clicktrack.premium-shops.net
@@ -8566,10 +8556,6 @@
 0.0.0.0 counteraport.spylog.com
 0.0.0.0 counterbot.com
 0.0.0.0 countercrazy.com
-0.0.0.0 counters.auctionhelper.com		# comment these
-0.0.0.0 counters.auctionwatch.com		# out to allow
-0.0.0.0 counters.auctiva.com			# tracking by
-0.0.0.0 counters.honesty.com			# ebay users
 0.0.0.0 cs.sexcounter.com
 0.0.0.0 cw.nu
 0.0.0.0 cyberduck.fr
@@ -8589,9 +8575,7 @@
 0.0.0.0 de.sitestat.com
 0.0.0.0 de.tynt.com
 0.0.0.0 def.dev-nano.com
-0.0.0.0 didtheyreadit.com		# email bugs
 0.0.0.0 digistats.westjet.com
-0.0.0.0 dimeprice.com		# "spam bugs"
 0.0.0.0 directads.mcafee.com
 0.0.0.0 dkb01.webtrekk.net
 0.0.0.0 dnsdelegation.io
@@ -8735,22 +8719,18 @@
 0.0.0.0 hits.webstat.com
 0.0.0.0 hst.tradedoubler.com
 0.0.0.0 htm.freelogs.com
-0.0.0.0 i.kissmetrics.com	# http://www.wired.com/epicenter/2011/07/undeletable-cookie/
 0.0.0.0 ic.tynt.com
 0.0.0.0 iccee.com
 0.0.0.0 id.sputniknews.com
 0.0.0.0 idm.hit.gemius.pl
 0.0.0.0 ieplugin.com
 0.0.0.0 iesnare.co.uk
-0.0.0.0 iesnare.com		# See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
 0.0.0.0 ilead.itrack.it
 0.0.0.0 images-aud.freshmeat.net
 0.0.0.0 images-aud.slashdot.org
 0.0.0.0 images-aud.sourceforge.net
-0.0.0.0 images.dailydiscounts.com	# "spam bugs"
 0.0.0.0 images1.paycounter.com
 0.0.0.0 imp.clickability.com
-0.0.0.0 impacts.alliancehub.com # "spam bugs"
 0.0.0.0 impch.tradedoubler.com
 0.0.0.0 impde.tradedoubler.com
 0.0.0.0 impdk.tradedoubler.com
@@ -8824,8 +8804,6 @@
 0.0.0.0 lycoscollect.realmedia.com
 0.0.0.0 m1.nedstatbasic.net
 0.0.0.0 m1.webstats4u.com
-0.0.0.0 mailcheckisp.biz	# "spam bugs"
-0.0.0.0 mailfoogae.appspot.com	# Streak email tracker
 0.0.0.0 mailtrack.me
 0.0.0.0 marketaff.com
 0.0.0.0 mature.xxxcounter.com
@@ -8949,7 +8927,6 @@
 0.0.0.0 prof.estat.com
 0.0.0.0 propeller-tracking.com
 0.0.0.0 quantcast584928381.s.moatpixel.com
-0.0.0.0 quantserve.com #: Ad Tracking, JavaScript, etc.
 0.0.0.0 r1-t.trackedlink.net
 0.0.0.0 redshell.io
 0.0.0.0 rightmedia.net
@@ -8964,7 +8941,6 @@
 0.0.0.0 s.clickability.com
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 s.update.fbsbx.com
-0.0.0.0 s.youtube.com				# Blocking this will interfere with video watching history
 0.0.0.0 s1-tracking.adalyser.com
 0.0.0.0 s1.shinystat.it
 0.0.0.0 s10.histats.com
@@ -9040,7 +9016,6 @@
 0.0.0.0 statcounter.com
 0.0.0.0 static.audienceinsights.net
 0.0.0.0 static.kibboko.com
-0.0.0.0 static.smni.com		# Santa Monica - popunders
 0.0.0.0 static.trackedweb.net
 0.0.0.0 statistics.elsevier.nl
 0.0.0.0 statistics.reedbusiness.nl
@@ -9105,7 +9080,6 @@
 0.0.0.0 stats4all.com
 0.0.0.0 stats5.lightningcast.com
 0.0.0.0 stats6.lightningcast.net
-0.0.0.0 statse.webtrendslive.com	# Fortune.com among others
 0.0.0.0 stl.p.a1.traceworks.com
 0.0.0.0 straighttangerine.cz.cc
 0.0.0.0 sugoicounter.com
@@ -9116,7 +9090,6 @@
 0.0.0.0 t.senaldos.com
 0.0.0.0 t.senaluno.com
 0.0.0.0 t.signaletre.com
-0.0.0.0 t.signauxdeux.com # Another email opentracker from hubspot
 0.0.0.0 t.update.fbsbx.com
 0.0.0.0 t.yesware.com
 0.0.0.0 tag.crsspxl.com
@@ -9124,7 +9097,6 @@
 0.0.0.0 targetnet.com
 0.0.0.0 tates.freestats.com
 0.0.0.0 tcookie.usatoday.com
-0.0.0.0 tcr.tynt.com		# See http://daringfireball.net/2010/05/tynt_copy_paste_jerks
 0.0.0.0 telecharger-openoffice.fr
 0.0.0.0 tgpcounter.freethumbnailgalleries.com
 0.0.0.0 the-counter.net
@@ -9336,7 +9308,6 @@
 0.0.0.0 vidstatb.taboola.com
 0.0.0.0 vip.clickzs.com
 0.0.0.0 vis.sexlist.com
-0.0.0.0 visit.theglobeandmail.com # Visits to theglobeandmail.com
 0.0.0.0 vitals.vercel-analytics.com
 0.0.0.0 voken.eyereturn.com
 0.0.0.0 vs.dmtracker.com
@@ -9346,7 +9317,6 @@
 0.0.0.0 warlog.info
 0.0.0.0 wau.tynt.com
 0.0.0.0 web4.realtracker.com
-0.0.0.0 webbug.seatreport.com	# web bugs
 0.0.0.0 webcounter.com
 0.0.0.0 webcounter.goweb.de
 0.0.0.0 webcounter.together.net
@@ -9365,7 +9335,6 @@
 0.0.0.0 www.addtoany.com
 0.0.0.0 www.ademails.com
 0.0.0.0 www.affiliatesuccess.net
-0.0.0.0 www.bar.ry2002.02-ry014.snpr.hotmx.hair.zaam.net # In spam
 0.0.0.0 www.belstat.nl
 0.0.0.0 www.betcounter.com
 0.0.0.0 www.bluestreak.com
@@ -9375,7 +9344,6 @@
 0.0.0.0 www.c2.thecounter.de
 0.0.0.0 www.cig-arrete.com
 0.0.0.0 www.clickclick.com
-0.0.0.0 www.clickspring.net	#used by a spyware product called PurityScan
 0.0.0.0 www.clixgalore.com
 0.0.0.0 www.connectionlead.com
 0.0.0.0 www.counter.bloke.com
@@ -9412,7 +9380,6 @@
 0.0.0.0 www.hitstats.co.uk
 0.0.0.0 www.iccee.com
 0.0.0.0 www.iesnare.co.uk
-0.0.0.0 www.iesnare.com	# See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
 0.0.0.0 www.iovation.co.uk
 0.0.0.0 www.iovation.com
 0.0.0.0 www.jellycounter.com
@@ -9421,18 +9388,15 @@
 0.0.0.0 www.leadpub.com
 0.0.0.0 www.linkcounter.com
 0.0.0.0 www.megacounter.de
-0.0.0.0 www.metareward.com		# web bugs in spam
 0.0.0.0 www.mnbasd77.com
 0.0.0.0 www.nedstat.com
 0.0.0.0 www.nextgenstats.com
 0.0.0.0 www.ntsearch.com
 0.0.0.0 www.onestat.com
-0.0.0.0 www.originalicons.com	# installs IE extension
 0.0.0.0 www.paycounter.com
 0.0.0.0 www.pointclicktrack.com
 0.0.0.0 www.precisioncounter.com
 0.0.0.0 www.printmail.biz
-0.0.0.0 www.quantserve.com #: Ad Tracking, JavaScript, etc.
 0.0.0.0 www.rightmedia.net
 0.0.0.0 www.rightstats.com
 0.0.0.0 www.searchadv.com
@@ -9450,7 +9414,6 @@
 0.0.0.0 www.toolbarcounter.com
 0.0.0.0 www.tradedoubler.com
 0.0.0.0 www.tradingtactics.win
-0.0.0.0 www.trafficmagnet.net # web bugs in spam
 0.0.0.0 www.trafic.ro
 0.0.0.0 www.trendcounter.com
 0.0.0.0 www.true-counter.com
@@ -9490,7 +9453,6 @@
 0.0.0.0 0.nextyourcontent.com
 0.0.0.0 05tz2e9.com
 0.0.0.0 10tide.com
-0.0.0.0 2006mindfreaklike.blogspot.com	# Facebook trojan
 0.0.0.0 59-106-20-39.r-bl100.sakura.ne.jp
 0.0.0.0 7zip.fr
 0.0.0.0 8hj500ro4t7.groovepages.com
@@ -9515,7 +9477,6 @@
 0.0.0.0 agroeconom.kz
 0.0.0.0 ajouny.com
 0.0.0.0 ale-gratka.pl
-0.0.0.0 allhqpics.com				# Facebook trojan
 0.0.0.0 alocdn.com
 0.0.0.0 ams1.ib.adnxs.com
 0.0.0.0 android.bigresource.com
@@ -9559,7 +9520,6 @@
 0.0.0.0 bobcard.co.in
 0.0.0.0 bopstermedia56.com
 0.0.0.0 brightonclick.com
-0.0.0.0 brunga.at	# Facebook phishing attempt
 0.0.0.0 bt.webwise.org
 0.0.0.0 c.webwise.org
 0.0.0.0 c1i.su
@@ -9572,9 +9532,7 @@
 0.0.0.0 celestia.fr
 0.0.0.0 certifiedwinners.today
 0.0.0.0 cfjln.comfortykive.xyz
-0.0.0.0 changduk26.com			# Facebook trojan
 0.0.0.0 checkfreevideos.net
-0.0.0.0 chelick.net				# Facebook trojan
 0.0.0.0 cicontents.biz
 0.0.0.0 ciiycode.com
 0.0.0.0 cioco-froll.com
@@ -9618,7 +9576,6 @@
 0.0.0.0 eeude.comfortykive.xyz
 0.0.0.0 efreedom.net
 0.0.0.0 en.btc-trader-app.club
-0.0.0.0 en.likefever.org			# Facebook trojan
 0.0.0.0 eol1.egyptonline.com
 0.0.0.0 eslprologmvp.com
 0.0.0.0 eslprotourmvp.com
@@ -9648,17 +9605,14 @@
 0.0.0.0 froling.bee.pl
 0.0.0.0 fromru.su
 0.0.0.0 ftdownload.com
-0.0.0.0 fu.golikeus.net			# Facebook trojan
 0.0.0.0 gadgetsytecnologia.com
 0.0.0.0 gambero3.cs.tin.it
 0.0.0.0 gamelights.ru
 0.0.0.0 gasasthe.freehostia.com
 0.0.0.0 get-answers-fast.com
 0.0.0.0 get24update.link4all.info
-0.0.0.0 gglcash4u.info	# twitter worm
 0.0.0.0 gigaonclick.com
 0.0.0.0 gimp.es
-0.0.0.0 girlownedbypolicelike.blogspot.com	# Facebook trojan
 0.0.0.0 go.deliverymodo.com
 0.0.0.0 goggle.com
 0.0.0.0 goobbe.com
@@ -9675,7 +9629,6 @@
 0.0.0.0 hakuba.janis.or.jp
 0.0.0.0 handbrake.es
 0.0.0.0 hatdfg-rhgreh684.frge.io
-0.0.0.0 hatrecord.ru				# Facebook trojan
 0.0.0.0 hcg82f2b.com
 0.0.0.0 helpmedb.com
 0.0.0.0 hfrni.comfortykive.xyz
@@ -9688,7 +9641,6 @@
 0.0.0.0 how-tosolve.com
 0.0.0.0 howtobuildsoftware.com
 0.0.0.0 hp.myway.com
-0.0.0.0 hsb-canada.com	# phishing site for hsbc.ca
 0.0.0.0 hwgda.comfortykive.xyz
 0.0.0.0 i.ua-passport.top
 0.0.0.0 icecars.com
@@ -9706,16 +9658,13 @@
 0.0.0.0 janezk.50webs.co
 0.0.0.0 jqueryscript.net
 0.0.0.0 jump.ewoss.net
-0.0.0.0 juste.ru	# Twitter trojan
 0.0.0.0 kaytri.com
 0.0.0.0 keepass.com
 0.0.0.0 keepass.fr
 0.0.0.0 keepinfit.net
 0.0.0.0 keybinary.com
 0.0.0.0 kiclq.comfortykive.xyz
-0.0.0.0 kirgo.at	# Facebook phishing attempt
 0.0.0.0 klowns4phun.com
-0.0.0.0 konflow.com				# Facebook trojan
 0.0.0.0 kplusd.far.ru
 0.0.0.0 kpremium.com
 0.0.0.0 krakragames.com
@@ -9726,10 +9675,6 @@
 0.0.0.0 lank.ru
 0.0.0.0 licasd.com
 0.0.0.0 like.likewut.net
-0.0.0.0 likeportal.com			# Facebook trojan
-0.0.0.0 likespike.com				# Facebook trojan
-0.0.0.0 likethis.mbosoft.com			# Facebook trojan
-0.0.0.0 likethislist.biz			# Facebook trojan
 0.0.0.0 lingintirejohny.club
 0.0.0.0 login.creditals-email.space
 0.0.0.0 lp.cleanmymac.online
@@ -9780,7 +9725,6 @@
 0.0.0.0 muwuo.comfortykive.xyz
 0.0.0.0 mv0129.stream
 0.0.0.0 mx1.freemail.ne.jp
-0.0.0.0 mylike.co.uk				# Facebook trojan
 0.0.0.0 myornamenti.com
 0.0.0.0 myprivateemails.com
 0.0.0.0 nactx.com
@@ -9849,7 +9793,6 @@
 0.0.0.0 premium-live-scan.com
 0.0.0.0 premiumvideoupdates.com
 0.0.0.0 prk.roverinvolv.bid
-0.0.0.0 proflashdata.com			# Facebook trojan
 0.0.0.0 projectpoi.com
 0.0.0.0 provenfeedback.com
 0.0.0.0 qbittorrent.com
@@ -9871,7 +9814,6 @@
 0.0.0.0 s3-ap-southeast-2-amazonaws.com
 0.0.0.0 s4d.in
 0.0.0.0 salebestever.su
-0.0.0.0 scottishstuff-online.com	# Canadian bank phishing site
 0.0.0.0 screenaddict.thewhizproducts.com
 0.0.0.0 scribe.ttwitter.com
 0.0.0.0 scyxj.comfortykive.xyz
@@ -9910,19 +9852,16 @@
 0.0.0.0 tahoesup.com
 0.0.0.0 tanieaukcje.com
 0.0.0.0 taniezakupy.pl
-0.0.0.0 tattooshaha.info			# Facebook trojan
 0.0.0.0 tearbelt.com
 0.0.0.0 technicalconsumerreports.com
 0.0.0.0 techques.com
 0.0.0.0 test.ishvara-yoga.com
 0.0.0.0 thailandtravel.live
 0.0.0.0 thebestwebpillplace.com
-0.0.0.0 thedatesafe.com			# Facebook trojan
 0.0.0.0 themusicnetwork.co.uk
 0.0.0.0 thunderbird.es
 0.0.0.0 tiku.io
 0.0.0.0 toknowall.com
-0.0.0.0 tomorrownewstoday.com	# I'm not sure what it does, but it seems to be associated with a phishing attempt on Facebook
 0.0.0.0 toprxshopplace.com
 0.0.0.0 toptypeonlinetheclicks.icu
 0.0.0.0 torjackan.info
@@ -9998,7 +9937,6 @@
 0.0.0.0 www.abetterinternet.com
 0.0.0.0 www.adblock.fr
 0.0.0.0 www.adshufffle.com
-0.0.0.0 www.allhqpics.com			# Facebook trojan
 0.0.0.0 www.anatol.com
 0.0.0.0 www.asianread.com
 0.0.0.0 www.audacity.es
@@ -10013,7 +9951,6 @@
 0.0.0.0 www.caramail.com
 0.0.0.0 www.celestia.es
 0.0.0.0 www.celestia.fr
-0.0.0.0 www.chelick.net			# Facebook trojan
 0.0.0.0 www.clearalgorithm.com
 0.0.0.0 www.clonezilla.es
 0.0.0.0 www.clonezilla.fr
@@ -10051,18 +9988,12 @@
 0.0.0.0 www.knowinteractive.com
 0.0.0.0 www.kpremium.com
 0.0.0.0 www.launchbuffer.com
-0.0.0.0 www.likeportal.com			# Facebook trojan
-0.0.0.0 www.likespike.com			# Facebook trojan
-0.0.0.0 www.likethis.mbosoft.com		# Facebook trojan
-0.0.0.0 www.likethislist.biz			# Facebook trojan
-0.0.0.0 www.lomalindasda.org			# Facebook trojan
 0.0.0.0 www.magento-analytics.com
 0.0.0.0 www.manoces.waw.pl
 0.0.0.0 www.mikras.nl
 0.0.0.0 www.minr.pw
 0.0.0.0 www.monkeyball.osa.pl
 0.0.0.0 www.mshelp247.weebly.com
-0.0.0.0 www.mylike.co.uk			# Facebook trojan
 0.0.0.0 www.mylovecards.com
 0.0.0.0 www.notepad2.com
 0.0.0.0 www.novemberrainx.com
@@ -10078,22 +10009,18 @@
 0.0.0.0 www.portaldimensional.com
 0.0.0.0 www.ppoi.org
 0.0.0.0 www.presidency.site
-0.0.0.0 www.proflashdata.com			# Facebook trojan
 0.0.0.0 www.psychics-readings-for-free.com
 0.0.0.0 www.qbittorrent.com
 0.0.0.0 www.randki-sex.com
 0.0.0.0 www.rickrolling.com
 0.0.0.0 www.russian-sex.com
 0.0.0.0 www.securityscan.us
-0.0.0.0 www.shinilchurch.net	# domain was hacked and had a trojan installed
 0.0.0.0 www.simplyhelper.com
 0.0.0.0 www.sinera.org
 0.0.0.0 www.siom.ac.cn
 0.0.0.0 www.stellarium.fr
 0.0.0.0 www.stopphoulplay.com
 0.0.0.0 www.tanger.com.br
-0.0.0.0 www.tattooshaha.info			# Facebook trojan
-0.0.0.0 www.thedatesafe.com			# Facebook trojan
 0.0.0.0 www.thunderbird.es
 0.0.0.0 www.trucktirehotline.com
 0.0.0.0 www.truecrypt.fr
@@ -10101,7 +10028,6 @@
 0.0.0.0 www.unetbootin.net
 0.0.0.0 www.unetbootin.org
 0.0.0.0 www.upgradebasic.com
-0.0.0.0 www.upi6.pillsstore-c.com		# Facebook trojan
 0.0.0.0 www.uqz.com
 0.0.0.0 www.urldelivery.com
 0.0.0.0 www.venturead.com
@@ -14160,6 +14086,7 @@
 0.0.0.0 go.padstm.com
 0.0.0.0 go.pl.bbelements.com
 0.0.0.0 go.spaceshipads.com
+0.0.0.0 go.stirshakead.com
 0.0.0.0 go.verymuchad.com
 0.0.0.0 go2.hit.gemius.pl
 0.0.0.0 go2page.net
@@ -15021,6 +14948,7 @@
 0.0.0.0 nlink.com.br
 0.0.0.0 no.adserver.yahoo.com
 0.0.0.0 nofreezingmac.space
+0.0.0.0 nofreezingmac.work
 0.0.0.0 nospartenaires.com
 0.0.0.0 notification-browser.com
 0.0.0.0 notify.beap.gemini.yahoo.com
@@ -15661,6 +15589,7 @@
 0.0.0.0 s.moatads.com
 0.0.0.0 s.ntv.io
 0.0.0.0 s.optnx.com
+0.0.0.0 s.oroll.com
 0.0.0.0 s.ppjol.net
 0.0.0.0 s.rev2pub.com
 0.0.0.0 s.skimresources.com
@@ -17893,7 +17822,6 @@
 0.0.0.0 www.xxxnations.com
 0.0.0.0 www.xxxtoolbar.com
 0.0.0.0 www.yourfuckbook.com
-0.0.0.0 123greetings.com	# contains one link to distributor of adware or spyware
 0.0.0.0 2000greetings.com
 0.0.0.0 celebwelove.com
 0.0.0.0 ecard4all.com
@@ -17901,7 +17829,6 @@
 0.0.0.0 freewebcards.com
 0.0.0.0 fukkad.com
 0.0.0.0 fun-e-cards.com
-0.0.0.0 funnyreign.com	# heavy spam (Site Advisor received 1075 e-mails/week)
 0.0.0.0 funsilly.com
 0.0.0.0 myfuncards.com
 0.0.0.0 www.cool-downloads.com
@@ -18415,17 +18342,16 @@
 0.0.0.0 cds26.ams9.msecn.net
 0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 statsfe2.ws.microsoft.com
-23.222.195.237      steamcommunity.com
-23.222.195.237      www.steamcommunity.com
-23.204.30.72        store.steampowered.com
-23.204.30.72        api.steampowered.com
-35.90.15.145        steamcdn-a.akamaihd.net
-54.202.38.228       cdn.akamai.steamstatic.com
-35.90.15.145        community.akamai.steamstatic.com
-54.200.116.140      store.akamai.steamstatic.com
-34.214.240.206      cdn.cloudflare.steamstatic.com
+104.78.121.166      steamcommunity.com
+104.78.121.166      www.steamcommunity.com
+23.61.180.135       store.steampowered.com
+23.61.180.135       api.steampowered.com
+3.234.218.15        steamcdn-a.akamaihd.net
+3.239.75.130        cdn.akamai.steamstatic.com
+3.88.22.0           community.akamai.steamstatic.com
+34.229.237.4        store.akamai.steamstatic.com
+100.27.18.2         cdn.cloudflare.steamstatic.com
 23.66.66.221        steam-chat.com
-23.45.51.162 upos-hz-mirrorakam.akamaized.net
 185.199.108.154              github.githubassets.com
 140.82.112.22                central.github.com
 185.199.110.133              desktop.githubusercontent.com
@@ -18443,6 +18369,7 @@
 185.199.109.133              avatars5.githubusercontent.com
 185.199.111.133              avatars3.githubusercontent.com
 185.199.110.133              avatars2.githubusercontent.com
+185.199.111.133              avatars1.githubusercontent.com
 185.199.110.133              avatars0.githubusercontent.com
 185.199.111.133              avatars.githubusercontent.com
 140.82.113.9                 codeload.github.com
@@ -18457,6 +18384,7 @@
 185.199.109.133              objects.githubusercontent.com
 185.199.110.133              raw.github.com
 20.84.233.211                copilot-proxy.githubusercontent.com
+23.45.51.162 upos-hz-mirrorakam.akamaized.net
 104.111.167.111 contentstorage.osi.office.net
 13.107.42.13 onedrive.live.com
 40.126.35.144 login.live.com
