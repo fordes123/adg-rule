@@ -1,4 +1,4 @@
-# Update time: 2022-07-12 11:51:02
+# Update time: 2022-07-12 14:18:59
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 cnhv.co
@@ -7722,11 +7722,18 @@
 127.0.0.1 log-collector.svctr.zynga.com
 0.0.0.0 1oavsblobprodcus350.blob.core.windows.net
 0.0.0.0 37bvsblobprodcus311.blob.core.windows.net
+0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
+0.0.0.0 a.ads2.msn.com
+0.0.0.0 a.rad.msn.com
 0.0.0.0 ac3.msn.com
 0.0.0.0 adnexus.net
+0.0.0.0 adnxs.com
 0.0.0.0 ads.msn.com
+0.0.0.0 ads1.msads.net
+0.0.0.0 ads1.msn.com
 0.0.0.0 aidps.atdmt.com
+0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 alpha.telemetry.microsoft.com
 0.0.0.0 api.cortana.ai
 0.0.0.0 api.edgeoffer.microsoft.com
@@ -7734,6 +7741,7 @@
 0.0.0.0 azwancan.trafficmanager.net
 0.0.0.0 b.ads1.msn.com
 0.0.0.0 b.ads2.msads.net
+0.0.0.0 b.rad.msn.com
 0.0.0.0 bingads.microsoft.com
 0.0.0.0 blobcollector.events.data.trafficmanager.net
 0.0.0.0 bn2-ris-ap-prod-atm.trafficmanager.net
@@ -7777,6 +7785,7 @@
 0.0.0.0 bn4sch101123202.wns.windows.com
 0.0.0.0 bn4sch102110124.wns.windows.com
 0.0.0.0 browser.pipe.aria.microsoft.com
+0.0.0.0 bs.serving-sys.com
 0.0.0.0 c.atdmt.com
 0.0.0.0 c.msn.com
 0.0.0.0 ca.telemetry.microsoft.com
@@ -8004,10 +8013,13 @@
 0.0.0.0 pre.footprintpredict.com
 0.0.0.0 presence.teams.live.com
 0.0.0.0 preview.msn.com
+0.0.0.0 rad.live.com
+0.0.0.0 rad.msn.com
 0.0.0.0 redir.metaservices.microsoft.com
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
 0.0.0.0 romeccs.microsoft.com
 0.0.0.0 schemas.microsoft.akadns.net
+0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.flashtalking.com
 0.0.0.0 services.wes.df.telemetry.microsoft.com
 0.0.0.0 settings-sandbox.data.microsoft.com
@@ -8038,6 +8050,7 @@
 0.0.0.0 v10.vortex-win.data.microsoft.com
 0.0.0.0 v10-win.vortex.data.microsoft.com.akadns.net
 0.0.0.0 v20.vortex-win.data.microsoft.com
+0.0.0.0 view.atdmt.com
 0.0.0.0 vortex-sandbox.data.microsoft.com
 0.0.0.0 vortex.data.glbdns2.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
@@ -11420,8 +11433,6 @@
 0.0.0.0 a.adorika.net
 0.0.0.0 a.adready.com
 0.0.0.0 a.adroll.com
-0.0.0.0 a.ads1.msn.com
-0.0.0.0 a.ads2.msn.com
 0.0.0.0 a.adstome.com
 0.0.0.0 a.adtng.com
 0.0.0.0 a.applvn.com
@@ -11438,7 +11449,6 @@
 0.0.0.0 a.o333o.com
 0.0.0.0 a.prisacom.com
 0.0.0.0 a.rad.live.com
-0.0.0.0 a.rad.msn.com
 0.0.0.0 a.spolecznosci.net
 0.0.0.0 a.ss34.on9mail.com
 0.0.0.0 a.total-media.net
@@ -11923,7 +11933,6 @@
 0.0.0.0 adnetwork.nextgen.net
 0.0.0.0 adnetwork.rovicorp.com
 0.0.0.0 adnetworkperformance.com
-0.0.0.0 adnxs.com
 0.0.0.0 adnxs.revsci.net
 0.0.0.0 adobe.tt.omtrdc.net
 0.0.0.0 adobee.com
@@ -12456,8 +12465,6 @@
 0.0.0.0 ads1.destructoid.com
 0.0.0.0 ads1.erotism.com
 0.0.0.0 ads1.jev.co.za
-0.0.0.0 ads1.msads.net
-0.0.0.0 ads1.msn.com
 0.0.0.0 ads1.performancingads.com
 0.0.0.0 ads1.realcities.com
 0.0.0.0 ads1.revenue.net
@@ -12895,7 +12902,6 @@
 0.0.0.0 ak.buyservices.com
 0.0.0.0 ak.maxserving.com
 0.0.0.0 ak.sail-horizon.com
-0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 aka-cdn-ns.adtechus.com
 0.0.0.0 aka-cdn.adtechus.com
 0.0.0.0 aka.ms-ads.co
@@ -13066,7 +13072,6 @@
 0.0.0.0 b.liquidustv.com
 0.0.0.0 b.myspace.com
 0.0.0.0 b.rad.live.com
-0.0.0.0 b.rad.msn.com
 0.0.0.0 b.recwwcc5.info
 0.0.0.0 b1fe8a95ae27823.com
 0.0.0.0 b34rightym.com
@@ -13253,7 +13258,6 @@
 0.0.0.0 browserprotecter.com
 0.0.0.0 browsesentinel.com
 0.0.0.0 brxfinance.com
-0.0.0.0 bs.serving-sys.com
 0.0.0.0 bs.url.tw
 0.0.0.0 bsnj.eyeblaster.akadns.net
 0.0.0.0 btbuyerapp.com
@@ -15483,8 +15487,6 @@
 0.0.0.0 r.turn.com.akadns.net
 0.0.0.0 r2.adwo.com
 0.0.0.0 r7mediar.com
-0.0.0.0 rad.live.com
-0.0.0.0 rad.msn.com
 0.0.0.0 rads.stackoverflow.com
 0.0.0.0 railroadtomato.com
 0.0.0.0 rassegnavermentino.it
@@ -15732,7 +15734,6 @@
 0.0.0.0 secserv.adtech.us
 0.0.0.0 secure-js.kontera.com
 0.0.0.0 secure.addthis.com
-0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.bidvertiser.com
 0.0.0.0 secure.bidvertiserr.com
 0.0.0.0 secure.netscope.marktest.pt
@@ -16377,7 +16378,6 @@
 0.0.0.0 videoslots.888.com
 0.0.0.0 vidnline.com
 0.0.0.0 vidroll.ru
-0.0.0.0 view.atdmt.com
 0.0.0.0 view.binlayer.com
 0.0.0.0 view.jamba.de
 0.0.0.0 views.m4n.nl
@@ -18428,37 +18428,36 @@
 34.229.237.4        store.akamai.steamstatic.com
 100.27.18.2         cdn.cloudflare.steamstatic.com
 23.66.66.221        steam-chat.com
-185.199.111.154              github.githubassets.com
-140.82.113.21                central.github.com
-185.199.108.133              desktop.githubusercontent.com
-185.199.109.153              assets-cdn.github.com
-185.199.109.133              camo.githubusercontent.com
-185.199.109.133              github.map.fastly.net
-151.101.193.194              github.global.ssl.fastly.net
-192.30.255.113               gist.github.com
-185.199.108.153              github.io
-192.30.255.113               github.com
-140.82.113.5                 api.github.com
+185.199.108.154              github.githubassets.com
+140.82.112.22                central.github.com
+185.199.110.133              desktop.githubusercontent.com
+185.199.111.153              assets-cdn.github.com
+185.199.108.133              camo.githubusercontent.com
+185.199.110.133              github.map.fastly.net
+151.101.129.194              github.global.ssl.fastly.net
+140.82.112.3                 gist.github.com
+185.199.111.153              github.io
+140.82.114.3                 github.com
+140.82.112.5                 api.github.com
 185.199.110.133              raw.githubusercontent.com
-185.199.111.133              user-images.githubusercontent.com
-185.199.110.133              favicons.githubusercontent.com
+185.199.110.133              user-images.githubusercontent.com
+185.199.111.133              favicons.githubusercontent.com
 185.199.109.133              avatars5.githubusercontent.com
-185.199.109.133              avatars4.githubusercontent.com
-185.199.110.133              avatars3.githubusercontent.com
+185.199.111.133              avatars3.githubusercontent.com
 185.199.110.133              avatars2.githubusercontent.com
-185.199.109.133              avatars1.githubusercontent.com
-185.199.111.133              avatars0.githubusercontent.com
-185.199.109.133              avatars.githubusercontent.com
-140.82.112.10                codeload.github.com
-52.217.67.228                github-cloud.s3.amazonaws.com
-52.217.173.9                 github-com.s3.amazonaws.com
-52.216.178.19                github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.70.124                github-production-user-asset-6210df.s3.amazonaws.com
-52.217.42.76                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.109.153              githubstatus.com
+185.199.111.133              avatars1.githubusercontent.com
+185.199.110.133              avatars0.githubusercontent.com
+185.199.111.133              avatars.githubusercontent.com
+140.82.113.9                 codeload.github.com
+52.217.232.1                 github-cloud.s3.amazonaws.com
+52.217.45.84                 github-com.s3.amazonaws.com
+52.216.205.195               github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.114.171               github-production-user-asset-6210df.s3.amazonaws.com
+52.217.164.41                github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.111.153              githubstatus.com
 64.71.144.211                github.community
-185.199.109.133              media.githubusercontent.com
-185.199.111.133              objects.githubusercontent.com
+185.199.110.133              media.githubusercontent.com
+185.199.109.133              objects.githubusercontent.com
 185.199.110.133              raw.github.com
 20.84.233.211                copilot-proxy.githubusercontent.com
 23.45.51.162 upos-hz-mirrorakam.akamaized.net
