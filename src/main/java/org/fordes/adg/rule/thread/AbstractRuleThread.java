@@ -1,6 +1,5 @@
 package org.fordes.adg.rule.thread;
 
-import cn.hutool.core.collection.CollUtil;
 import cn.hutool.core.exceptions.ExceptionUtil;
 import cn.hutool.core.io.IoUtil;
 import cn.hutool.core.io.LineHandler;
@@ -55,7 +54,7 @@ public abstract class AbstractRuleThread implements Runnable {
     public void run() {
         try {
 //             log.debug("begin~ {}", Thread.currentThread().getName());
-            log.info("begin~ {}", this.ruleUrl);
+//            log.info("begin~ {}", this.ruleUrl);
             List<String> hosts = new ArrayList<>();
             List<String> block = new ArrayList<>();
             List<String> all = new ArrayList<>();
@@ -64,19 +63,33 @@ public abstract class AbstractRuleThread implements Runnable {
                     line = StrUtil.trim(HtmlUtil.cleanHtmlTag(line));
                     if (!filter.mightContain(line)) {
                         filter.put(line);
-                        if (!ReUtil.isMatch(RegexConstant.RULE, line)) {
+
+                        if (ReUtil.isMatch(RegexConstant.HOSTS, line)) {
+                            hosts.add(line);
                             all.add(line);
-                            if (ReUtil.isMatch(RegexConstant.HOSTS, line)) {
-                                hosts.add(line);
-                            } else if (ReUtil.isMatch(RegexConstant.BLOCK, line)) {
+                            block.add(line);
+                        } else if (StrUtil.startWithAny(line, "@@", "||", "/")) {
+                            //正则规则
+                            if (StrUtil.endWith(line, "/")) {
                                 block.add(line);
                             }
+
+                            if (StrUtil.containsAny(line, "^", "#", "+")) {
+                                if (StrUtil.endWithAny(line, "^", "|", "^$important")) {
+                                    block.add(line);
+                                }
+                            } else {
+                                block.add(line);
+                            }
+                            all.add(line);
+                        } else {
+                            all.add(line);
                         }
                     }
                 }
             });
             FileUtils.write(hostsFile, hosts);
-            FileUtils.write(adghFile, CollUtil.addAll(hosts, block));
+            FileUtils.write(adghFile, block);
             FileUtils.write(allFile, all);
         } catch (Exception e) {
             log.error(ExceptionUtil.stacktraceToString(e));
