@@ -1,4 +1,4 @@
-# Update time: 2022-07-12 14:18:59
+# Update time: 2022-07-12 14:36:00
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 cnhv.co
@@ -14160,7 +14160,6 @@
 0.0.0.0 go.padstm.com
 0.0.0.0 go.pl.bbelements.com
 0.0.0.0 go.spaceshipads.com
-0.0.0.0 go.stirshakead.com
 0.0.0.0 go.verymuchad.com
 0.0.0.0 go2.hit.gemius.pl
 0.0.0.0 go2page.net
@@ -15022,7 +15021,6 @@
 0.0.0.0 nlink.com.br
 0.0.0.0 no.adserver.yahoo.com
 0.0.0.0 nofreezingmac.space
-0.0.0.0 nofreezingmac.work
 0.0.0.0 nospartenaires.com
 0.0.0.0 notification-browser.com
 0.0.0.0 notify.beap.gemini.yahoo.com
@@ -15663,7 +15661,6 @@
 0.0.0.0 s.moatads.com
 0.0.0.0 s.ntv.io
 0.0.0.0 s.optnx.com
-0.0.0.0 s.oroll.com
 0.0.0.0 s.ppjol.net
 0.0.0.0 s.rev2pub.com
 0.0.0.0 s.skimresources.com
@@ -18418,16 +18415,17 @@
 0.0.0.0 cds26.ams9.msecn.net
 0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 statsfe2.ws.microsoft.com
-104.78.121.166      steamcommunity.com
-104.78.121.166      www.steamcommunity.com
-23.61.180.135       store.steampowered.com
-23.61.180.135       api.steampowered.com
-3.234.218.15        steamcdn-a.akamaihd.net
-3.239.75.130        cdn.akamai.steamstatic.com
-3.88.22.0           community.akamai.steamstatic.com
-34.229.237.4        store.akamai.steamstatic.com
-100.27.18.2         cdn.cloudflare.steamstatic.com
+23.222.195.237      steamcommunity.com
+23.222.195.237      www.steamcommunity.com
+23.204.30.72        store.steampowered.com
+23.204.30.72        api.steampowered.com
+35.90.15.145        steamcdn-a.akamaihd.net
+54.202.38.228       cdn.akamai.steamstatic.com
+35.90.15.145        community.akamai.steamstatic.com
+54.200.116.140      store.akamai.steamstatic.com
+34.214.240.206      cdn.cloudflare.steamstatic.com
 23.66.66.221        steam-chat.com
+23.45.51.162 upos-hz-mirrorakam.akamaized.net
 185.199.108.154              github.githubassets.com
 140.82.112.22                central.github.com
 185.199.110.133              desktop.githubusercontent.com
@@ -18445,7 +18443,6 @@
 185.199.109.133              avatars5.githubusercontent.com
 185.199.111.133              avatars3.githubusercontent.com
 185.199.110.133              avatars2.githubusercontent.com
-185.199.111.133              avatars1.githubusercontent.com
 185.199.110.133              avatars0.githubusercontent.com
 185.199.111.133              avatars.githubusercontent.com
 140.82.113.9                 codeload.github.com
@@ -18460,7 +18457,6 @@
 185.199.109.133              objects.githubusercontent.com
 185.199.110.133              raw.github.com
 20.84.233.211                copilot-proxy.githubusercontent.com
-23.45.51.162 upos-hz-mirrorakam.akamaized.net
 104.111.167.111 contentstorage.osi.office.net
 13.107.42.13 onedrive.live.com
 40.126.35.144 login.live.com
