@@ -1,4 +1,4 @@
-# Update time: 2022-07-12 11:39:22
+# Update time: 2022-07-12 11:48:36
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 cnhv.co
@@ -14160,6 +14160,7 @@
 0.0.0.0 go.padstm.com
 0.0.0.0 go.pl.bbelements.com
 0.0.0.0 go.spaceshipads.com
+0.0.0.0 go.stirshakead.com
 0.0.0.0 go.verymuchad.com
 0.0.0.0 go2.hit.gemius.pl
 0.0.0.0 go2page.net
@@ -15021,6 +15022,7 @@
 0.0.0.0 nlink.com.br
 0.0.0.0 no.adserver.yahoo.com
 0.0.0.0 nofreezingmac.space
+0.0.0.0 nofreezingmac.work
 0.0.0.0 nospartenaires.com
 0.0.0.0 notification-browser.com
 0.0.0.0 notify.beap.gemini.yahoo.com
@@ -18436,7 +18438,6 @@
 192.30.255.113               gist.github.com
 185.199.108.153              github.io
 192.30.255.113               github.com
-140.82.113.5                 api.github.com
 185.199.110.133              raw.githubusercontent.com
 185.199.111.133              user-images.githubusercontent.com
 185.199.110.133              favicons.githubusercontent.com
