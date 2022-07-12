@@ -1,5 +1,7 @@
 package org.fordes.adg.rule.thread;
 
+import cn.hutool.core.exceptions.ExceptionUtil;
+import cn.hutool.core.io.IoUtil;
 import cn.hutool.http.HttpRequest;
 import cn.hutool.http.HttpResponse;
 import com.google.common.hash.BloomFilter;
@@ -18,15 +20,20 @@ public class RemoteRuleThread extends AbstractRuleThread {
 
     @Override
     InputStream getContentStream() {
-        HttpResponse response = HttpRequest.get(getRuleUrl())
-                .setFollowRedirects(true)
-                .timeout(20000)
-                .execute();
-        if (response.isOk()) {
-            setCharset(Charset.forName(response.charset()));
-            return response.bodyStream();
+        try {
+            HttpResponse response = HttpRequest.get(getRuleUrl())
+                    .setFollowRedirects(true)
+                    .timeout(20000)
+                    .execute();
+            if (response.isOk()) {
+                setCharset(Charset.forName(response.charset()));
+                return response.bodyStream();
+            }
+        }catch (Exception e) {
+            log.error(getRuleUrl());
+            log.error(ExceptionUtil.stacktraceToString(e));
         }
-        return null;
+        return IoUtil.toStream(new byte[0]);
     }
 
 }
