@@ -1,4 +1,4 @@
-# Update time: 2022-07-15 15:18:13
+# Update time: 2022-07-15 20:32:02
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 cnhv.co
@@ -14086,7 +14086,6 @@
 0.0.0.0 go.padstm.com
 0.0.0.0 go.pl.bbelements.com
 0.0.0.0 go.spaceshipads.com
-0.0.0.0 go.stirshakead.com
 0.0.0.0 go.verymuchad.com
 0.0.0.0 go2.hit.gemius.pl
 0.0.0.0 go2page.net
@@ -14948,7 +14947,6 @@
 0.0.0.0 nlink.com.br
 0.0.0.0 no.adserver.yahoo.com
 0.0.0.0 nofreezingmac.space
-0.0.0.0 nofreezingmac.work
 0.0.0.0 nospartenaires.com
 0.0.0.0 notification-browser.com
 0.0.0.0 notify.beap.gemini.yahoo.com
@@ -19188,7 +19186,6 @@
 0.0.0.0 sbeacon.sina.com.cn
 0.0.0.0 slog.sina.com.cn
 0.0.0.0 staticadm.leju.sina.com.cn
-0.0.0.0 pfpip.sina.com
 0.0.0.0 2016.sina.cn
 0.0.0.0 9ibbcq2d.sina.cn
 0.0.0.0 adimg.mobile.sina.cn
@@ -19484,7 +19481,6 @@
 0.0.0.0 mackeeper.com
 0.0.0.0 osfota.cdn.aliyun.com
 0.0.0.0 osupdateservice.yunos.com
-0.0.0.0 tvupgrade.yunos.com
 0.0.0.0 uuidapi.yunos.com
 0.0.0.0 cs02-pps-drcn.dbankcdn.com
 0.0.0.0 ads.gionee.com
@@ -19692,7 +19688,6 @@
 0.0.0.0 agn.aty.cp45.ott.cibntv.net
 0.0.0.0 m.aty.cp45.ott.cibntv.net
 0.0.0.0 mmg.aty.cp45.ott.cibntv.net
-0.0.0.0 agn.aty.snmsohu.aisee.tv
 0.0.0.0 m.aty.snmsohu.aisee.tv
 0.0.0.0 mmg.aty.snmsohu.aisee.tv
 0.0.0.0 g.dtv.cn.miaozhen.com
@@ -19942,7 +19937,6 @@
 0.0.0.0 2012.8684.com
 0.0.0.0 bdfpb1.8684.com
 0.0.0.0 bdfpb2.8684.com
-0.0.0.0 js.2011.8684.com
 0.0.0.0 media.2011.8684.com
 0.0.0.0 ad.12306.cn
 0.0.0.0 newswifiapi.dfshurufa.com
@@ -20187,7 +20181,6 @@
 0.0.0.0 tj.u17t.com
 0.0.0.0 s.cdn.u17t.com
 0.0.0.0 adsapi.manhuaren.com
-0.0.0.0 dps.shouji56.com
 0.0.0.0 tongji.tt.shouji56.com
 0.0.0.0 xz.tongji.shouji56.com
 0.0.0.0 s.abcache.com
@@ -20946,7 +20939,6 @@
 0.0.0.0 anfeng.com
 0.0.0.0 api.aixifan.com
 0.0.0.0 api.hfyhjg.cn
-0.0.0.0 api.ijunhai.com
 0.0.0.0 api.jsfc8.cn
 0.0.0.0 api.mlinks.co
 0.0.0.0 api.ppoi.org
@@ -21404,7 +21396,6 @@
 0.0.0.0 ios.426g.com
 0.0.0.0 ip.ws.126.net
 0.0.0.0 iqiyi.kim
-0.0.0.0 its.fugetech.com
 0.0.0.0 iyfnz.com
 0.0.0.0 j.baminw.cn
 0.0.0.0 j.biquge520.cc
@@ -22562,7 +22553,6 @@
 0.0.0.0 r.pixgold.com
 0.0.0.0 ad.unimhk.com
 0.0.0.0 pixel-hk.pixelinteractivemedia.com
-0.0.0.0 snap.snapmobile.asia
 0.0.0.0 static.snapmobile.asia
 0.0.0.0 adx.adxglobal.com
 0.0.0.0 lndnserror6.wo.com.cn
@@ -22639,7 +22629,6 @@
 0.0.0.0 ss.he9630.com
 0.0.0.0 xs.he9630.com
 0.0.0.0 bcjjg.bugsevent.com
-0.0.0.0 bcjxf.bugsevent.com
 0.0.0.0 adx3.iq39.com
 0.0.0.0 m.cudaojia.com
 0.0.0.0 yun.sifuhe.cn
@@ -22862,7 +22851,6 @@
 0.0.0.0 sdk.open.phone.igexin.com
 0.0.0.0 sdk.open.talk.igexin.com
 0.0.0.0 talk.nz.igexin.com
-0.0.0.0 adirects.com
 0.0.0.0 www.admarket.mobi
 0.0.0.0 58749.admaster.com.cn
 0.0.0.0 79t2.admaster.com.cn
@@ -22920,7 +22908,6 @@
 0.0.0.0 i.adsame.com
 0.0.0.0 ifeng.adsame.com
 0.0.0.0 jfdaily.adsame.com
-0.0.0.0 jrj.adsame.com
 0.0.0.0 jsmedia.adsame.com
 0.0.0.0 mail.adsame.com
 0.0.0.0 material.jfdaily.adsame.com
@@ -23144,7 +23131,6 @@
 0.0.0.0 impression.gridsumdissector.com
 0.0.0.0 recv-vd.gridsumdissector.com
 0.0.0.0 recv-wd.gridsumdissector.com
-0.0.0.0 sso-cas.gridsumdissector.com
 0.0.0.0 static.gridsumdissector.com
 0.0.0.0 api.growingio.com
 0.0.0.0 assets.growingio.com
@@ -23317,7 +23303,6 @@
 0.0.0.0 77kb.qucaigg.com
 0.0.0.0 80s.qucaigg.com
 0.0.0.0 bttt.qucaigg.com
-0.0.0.0 g.qucaigg.com
 0.0.0.0 gg.qucaigg.com
 0.0.0.0 mp4ba.qucaigg.com
 0.0.0.0 ph.qucaigg.com
@@ -23428,7 +23413,6 @@
 0.0.0.0 a3.img.static.youmi.net
 0.0.0.0 au.youmi.net
 0.0.0.0 notifiter.youmi.net
-0.0.0.0 t.youmi.net
 0.0.0.0 youmi.net
 0.0.0.0 www.youmi.net
 0.0.0.0 ad1.img.static.youmi.net
@@ -24079,7 +24063,6 @@
 0.0.0.0 paopao1.qiyipic.com
 0.0.0.0 paopao2.qiyipic.com
 0.0.0.0 paopao3.qiyipic.com
-0.0.0.0 count.game.pps.tv
 0.0.0.0 game.pps.tv
 0.0.0.0 static.g.ppstream.com
 0.0.0.0 qosp.msg.71.am
@@ -24522,41 +24505,6 @@
 3.238.255.198       cdn.cloudflare.steamstatic.com
 23.66.66.221        steam-chat.com
 23.45.51.162 upos-hz-mirrorakam.akamaized.net
-140.82.114.3                  alive.github.com
-140.82.114.3                  live.github.com
-3.218.72.79                   github.githubassets.com
-3.93.239.251                  desktop.githubusercontent.com
-140.82.114.3                  assets-cdn.github.com
-34.235.150.152                camo.githubusercontent.com
-151.101.1.6                   github.map.fastly.net
-151.101.1.6                   github.global.ssl.fastly.net
-140.82.114.3                  gist.github.com
-185.199.108.153               github.io
-140.82.114.3                  github.com
-192.0.66.2                    github.blog
-140.82.114.3                  api.github.com
-52.91.248.164                 user-images.githubusercontent.com
-18.212.254.94                 favicons.githubusercontent.com
-34.238.232.47                 avatars4.githubusercontent.com
-54.144.78.116                 avatars3.githubusercontent.com
-44.193.229.9                  avatars2.githubusercontent.com
-44.201.249.207                avatars1.githubusercontent.com
-34.229.252.162                avatars0.githubusercontent.com
-54.225.21.222                 avatars.githubusercontent.com
-140.82.114.3                  codeload.github.com
-72.21.206.80                  github-cloud.s3.amazonaws.com
-72.21.206.80                  github-com.s3.amazonaws.com
-72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
-72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
-72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.108.153               githubstatus.com
-64.71.144.211                 github.community
-23.100.27.125                 github.dev
-140.82.114.3                  collector.github.com
-54.87.18.202                  pipelines.actions.githubusercontent.com
-54.89.190.254                 media.githubusercontent.com
-34.238.28.89                  cloud.githubusercontent.com
-3.218.72.79                   objects.githubusercontent.com
 104.111.167.111 contentstorage.osi.office.net
 13.107.42.13 onedrive.live.com
 20.190.144.160 login.live.com
@@ -24587,3 +24535,41 @@
 40.99.9.82 outlook.office365.com
 40.99.10.82 substrate.office.com
 40.99.10.82 to-do.live.com
+140.82.113.3                  alive.github.com
+140.82.113.3                  live.github.com
+54.87.150.244                 github.githubassets.com
+140.82.113.3                  central.github.com
+3.84.41.12                    desktop.githubusercontent.com
+140.82.113.3                  assets-cdn.github.com
+44.192.89.181                 camo.githubusercontent.com
+151.101.1.6                   github.map.fastly.net
+151.101.1.6                   github.global.ssl.fastly.net
+140.82.113.3                  gist.github.com
+185.199.108.153               github.io
+140.82.113.3                  github.com
+192.0.66.2                    github.blog
+140.82.113.3                  api.github.com
+18.207.241.115                raw.githubusercontent.com
+3.94.121.174                  user-images.githubusercontent.com
+54.158.13.68                  favicons.githubusercontent.com
+54.175.48.144                 avatars5.githubusercontent.com
+3.236.14.33                   avatars4.githubusercontent.com
+3.239.243.95                  avatars3.githubusercontent.com
+44.201.71.126                 avatars2.githubusercontent.com
+54.204.169.111                avatars1.githubusercontent.com
+18.204.44.248                 avatars0.githubusercontent.com
+44.203.246.37                 avatars.githubusercontent.com
+140.82.113.3                  codeload.github.com
+72.21.206.80                  github-cloud.s3.amazonaws.com
+72.21.206.80                  github-com.s3.amazonaws.com
+72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
+72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
+72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.108.153               githubstatus.com
+64.71.144.211                 github.community
+23.100.27.125                 github.dev
+140.82.113.3                  collector.github.com
+44.203.246.37                 pipelines.actions.githubusercontent.com
+100.24.119.59                 media.githubusercontent.com
+34.238.232.47                 cloud.githubusercontent.com
+18.212.15.40                  objects.githubusercontent.com
