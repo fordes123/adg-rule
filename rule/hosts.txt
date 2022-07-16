@@ -1,4 +1,4 @@
-# Update time: 2022-07-16 14:17:47
+# Update time: 2022-07-16 20:24:36
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 cnhv.co
@@ -8765,7 +8765,6 @@
 0.0.0.0 js.revsci.net
 0.0.0.0 justtrck.com
 0.0.0.0 kissmetrics.com
-0.0.0.0 kqzyfj.com
 0.0.0.0 kt4.kliptracker.com
 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 lcprd2.samsungcloudsolution.net
@@ -9384,7 +9383,6 @@
 0.0.0.0 www.iovation.com
 0.0.0.0 www.jellycounter.com
 0.0.0.0 www.kqzyfj.com
-0.0.0.0 www.lansrv050.com
 0.0.0.0 www.leadpub.com
 0.0.0.0 www.linkcounter.com
 0.0.0.0 www.megacounter.de
@@ -10171,7 +10169,6 @@
 0.0.0.0 jbit.cjt1.net
 0.0.0.0 jcollegehumor.cjt1.net
 0.0.0.0 jdownloadacc.cjt1.net
-0.0.0.0 jgen1.cjt1.net
 0.0.0.0 jgen10.cjt1.net
 0.0.0.0 jgen11.cjt1.net
 0.0.0.0 jgen12.cjt1.net
@@ -10385,7 +10382,6 @@
 0.0.0.0 fbkmnr.112.2o7.net
 0.0.0.0 forbesattache.112.2o7.net
 0.0.0.0 forbesauto.112.2o7.net
-0.0.0.0 forbesautos.112.2o7.net
 0.0.0.0 forbescom.112.2o7.net
 0.0.0.0 ford.112.2o7.net
 0.0.0.0 foxcom.112.2o7.net
@@ -10931,7 +10927,6 @@
 0.0.0.0 dowhatyouneed.com
 0.0.0.0 downgradeproduct.com
 0.0.0.0 dramatic-challenge.com
-0.0.0.0 dynamic-dns.net
 0.0.0.0 e-loading.biz
 0.0.0.0 easy-pay.info
 0.0.0.0 effectivespeech.net
@@ -13511,8 +13506,8 @@
 0.0.0.0 col.mobileads.msn.com
 0.0.0.0 colddry.com
 0.0.0.0 collegiogeometri.it
+0.0.0.0 com.htmlwww.youfck.com
 0.0.0.0 comcastresidentialservices.tt.omtrdc.net
-0.0.0.0 commerce.www.ibm.com
 0.0.0.0 companion.adap.tv
 0.0.0.0 computer-offer.com
 0.0.0.0 computersncs.com
@@ -13617,7 +13612,6 @@
 0.0.0.0 d10.zedo.com
 0.0.0.0 d11.zedo.com
 0.0.0.0 d12.zedo.com
-0.0.0.0 d14.zedo.com
 0.0.0.0 d2.sina.com.cn
 0.0.0.0 d2.zedo.com
 0.0.0.0 d3.sina.com.cn
@@ -14162,11 +14156,11 @@
 0.0.0.0 hirtop.in
 0.0.0.0 hirturi.blogspot.hu
 0.0.0.0 hirvilag.co
-0.0.0.0 hirzona24.com
 0.0.0.0 histats.com
 0.0.0.0 histock.info
 0.0.0.0 hit.8digits.com
 0.0.0.0 hit4.hotlog.ru
+0.0.0.0 hk.adserver.yahoo.com
 0.0.0.0 hlcc.ca
 0.0.0.0 hlok.qertewrt.com
 0.0.0.0 hm.baidu.com
@@ -14458,7 +14452,6 @@
 0.0.0.0 kdconstructionusa.com
 0.0.0.0 keepyoungphone.bid
 0.0.0.0 kelder.nl
-0.0.0.0 kergaukr.com
 0.0.0.0 keys.dmtracker.com
 0.0.0.0 keywordblocks.com
 0.0.0.0 keywords.adtlgc.com
@@ -15019,7 +15012,6 @@
 0.0.0.0 onclickmega.com
 0.0.0.0 onclicksuper.com
 0.0.0.0 onclkds.com
-0.0.0.0 ondermaat.nl
 0.0.0.0 one-drive-ms.com
 0.0.0.0 onedrive-cdn.com
 0.0.0.0 onedrive-download-en.com
@@ -15039,7 +15031,6 @@
 0.0.0.0 onmarshtompor.com
 0.0.0.0 onmypc.net
 0.0.0.0 oopt.fr
-0.0.0.0 openad.travelnow.com
 0.0.0.0 openadext.tf1.fr
 0.0.0.0 openads.dimcab.com
 0.0.0.0 openads.friendfinder.com
@@ -15074,7 +15065,6 @@
 0.0.0.0 overlay.ringtonematcher.com
 0.0.0.0 overstock.tt.omtrdc.net
 0.0.0.0 owabgxis.wp.pl
-0.0.0.0 own-eu-cloud.com
 0.0.0.0 ox-d.hbr.org
 0.0.0.0 ox-d.hulkshare.com
 0.0.0.0 ox-d.hypeads.org
@@ -15408,7 +15398,6 @@
 0.0.0.0 r.turn.com
 0.0.0.0 r.turn.com.akadns.net
 0.0.0.0 r2.adwo.com
-0.0.0.0 r7mediar.com
 0.0.0.0 rads.stackoverflow.com
 0.0.0.0 railroadtomato.com
 0.0.0.0 rassegnavermentino.it
@@ -15694,6 +15683,7 @@
 0.0.0.0 server.bittads.com
 0.0.0.0 server.cpmstar.com
 0.0.0.0 server.zoiets.be
+0.0.0.0 server2.as5000.com
 0.0.0.0 server2.mediajmp.com
 0.0.0.0 server44.dubhosting.co.uk
 0.0.0.0 server821.com
@@ -15724,7 +15714,6 @@
 0.0.0.0 sexzavod.com
 0.0.0.0 seyatosan.iaigiri.com
 0.0.0.0 sfads.osdn.com
-0.0.0.0 sg.adserver.yahoo.com
 0.0.0.0 sg3.beap.gemini.yahoo.com
 0.0.0.0 sgs001.adtech.fr
 0.0.0.0 sgs001.adtech.us
@@ -16003,7 +15992,6 @@
 0.0.0.0 t.mdn2015x3.com
 0.0.0.0 t.silvinst.com
 0.0.0.0 t1.adserver.com
-0.0.0.0 t2.junbi-tracker.com
 0.0.0.0 t8t7frium3.s.ad6media.fr
 0.0.0.0 taboola.com
 0.0.0.0 taboola.com.edgekey.net
@@ -16415,7 +16403,6 @@
 0.0.0.0 wm.baidu.com
 0.0.0.0 wmedia.adk2x.com
 0.0.0.0 wms-eu.amazon-adsystem.com
-0.0.0.0 wms-na.amazon-adsystem.com
 0.0.0.0 wonderlandads.com
 0.0.0.0 worden.samenresultaat.nl
 0.0.0.0 work-offer.com
@@ -17750,7 +17737,6 @@
 0.0.0.0 oascentral.sfweekly.com
 0.0.0.0 oascentral.sina.com
 0.0.0.0 oascentral.sina.com.hk
-0.0.0.0 oascentral.sparknotes.com
 0.0.0.0 oascentral.starbulletin.com
 0.0.0.0 oascentral.surfline.com
 0.0.0.0 oascentral.thechronicleherald.ca
@@ -17765,7 +17751,6 @@
 0.0.0.0 oascentral.trutv.com
 0.0.0.0 oascentral.upi.com
 0.0.0.0 oascentral.villagevoice.com
-0.0.0.0 oascentral.virtualtourist.com
 0.0.0.0 oascentral.washtimes.com
 0.0.0.0 oascentral.wciv.com
 0.0.0.0 oascentral.westword.com
@@ -17790,7 +17775,6 @@
 0.0.0.0 te.newsday.com
 0.0.0.0 te.nytdigital.com
 0.0.0.0 te.scrippsnetworksprivacy.com
-0.0.0.0 te.scrippsnewspapersprivacy.com
 0.0.0.0 te.sfgate.com
 0.0.0.0 te.signonsandiego.com
 0.0.0.0 te.stamfordadvocate.com
@@ -18173,7 +18157,6 @@
 0.0.0.0 soma.3xforum.ro
 0.0.0.0 sonata.1.p2l.info
 0.0.0.0 spyware-removers.shengen.ru
-0.0.0.0 sq7.co.uk
 0.0.0.0 stop-smoking.1.p2l.info
 0.0.0.0 supplements.1.p2l.info
 0.0.0.0 sx.nazari.org
@@ -18925,6 +18908,7 @@
 0.0.0.0 s93.cnzz.com
 0.0.0.0 s94.cnzz.com
 0.0.0.0 s95.cnzz.com
+0.0.0.0 s96.cnzz.com
 0.0.0.0 s97.cnzz.com
 0.0.0.0 s98.cnzz.com
 0.0.0.0 s99.cnzz.com
@@ -19879,7 +19863,6 @@
 0.0.0.0 img.ad.zhangyue.com
 0.0.0.0 m.ad.zhangyue.com
 0.0.0.0 push.zhangyue.com
-0.0.0.0 sys.zhangyue.com
 0.0.0.0 ad.51wnl.com
 0.0.0.0 ad-android.51wnl.com
 0.0.0.0 cdn1.lbesec.com
@@ -20467,7 +20450,6 @@
 0.0.0.0 pvtest.zol.com.cn
 0.0.0.0 stat.zol.com.cn
 0.0.0.0 wappv.zol.com.cn
-0.0.0.0 ydjs.zol.com.cn
 0.0.0.0 afp.zol-img.com.cn
 0.0.0.0 pic.zol-img.com.cn
 0.0.0.0 ca.w8.com.cn
@@ -20648,6 +20630,7 @@
 0.0.0.0 click.tianyaui.com
 0.0.0.0 pf.pchome.net
 0.0.0.0 pf-2.pchome.net
+0.0.0.0 ad.doubanio.com
 0.0.0.0 at1.doubanio.com
 0.0.0.0 at2.doubanio.com
 0.0.0.0 erebor.douban.com
@@ -20727,6 +20710,7 @@
 0.0.0.0 www.zamplus.com
 0.0.0.0 cm.fancyapi.com
 0.0.0.0 as.mgtv.com
+0.0.0.0 audit.aaa.mgtv.com
 0.0.0.0 cdn.cmop.mgtv.com
 0.0.0.0 cmop.mgtv.com
 0.0.0.0 imgaliyun.res.mgtv.com
@@ -21332,7 +21316,6 @@
 0.0.0.0 hnnzwhyy.com
 0.0.0.0 hoisin.coocaatv.com
 0.0.0.0 honpu1.dianqiweixiu.net
-0.0.0.0 html.yuntzs.com
 0.0.0.0 httpdns.c.cdnhwc2.com
 0.0.0.0 huishenghuiying.com
 0.0.0.0 hv.code.tanwanyx.com
@@ -21446,6 +21429,7 @@
 0.0.0.0 js412.yqjxzw.com
 0.0.0.0 js4163.yongkang6.com
 0.0.0.0 js5162.yongkang6.com
+0.0.0.0 js74.yqjxzw.com
 0.0.0.0 js84.enyayinxiang.com
 0.0.0.0 js883.yongkang6.com
 0.0.0.0 js9318.bllzgqbyp.com
@@ -22179,6 +22163,7 @@
 0.0.0.0 www.diediao.com
 0.0.0.0 www.doulaikanapp.com
 0.0.0.0 www.dqsft.com
+0.0.0.0 www.dulaiduapp.com
 0.0.0.0 www.duobaoqj.com
 0.0.0.0 www.ere3j2e001.com
 0.0.0.0 www.ewtyewj.com
@@ -22552,7 +22537,6 @@
 0.0.0.0 hao549.com
 0.0.0.0 www.i1236.net
 0.0.0.0 hk.jtsh123.com
-0.0.0.0 hao.7654.com
 0.0.0.0 p.sdu8cvc.com
 0.0.0.0 n.a.mosenni.com
 0.0.0.0 c.minisplat.cn
@@ -22560,6 +22544,7 @@
 0.0.0.0 l.minisplat.cn
 0.0.0.0 o.minisplat.cn
 0.0.0.0 u0.s.minisplat.cn
+0.0.0.0 u1.s.minisplat.cn
 0.0.0.0 u2.s.minisplat.cn
 0.0.0.0 144.dragonparking.com
 0.0.0.0 930.dragonparking.com
@@ -22846,7 +22831,6 @@
 0.0.0.0 8chzga.v.admaster.com.cn
 0.0.0.0 8dcyqu.c.admaster.com.cn
 0.0.0.0 c.admaster.com.cn
-0.0.0.0 click.admaster.com.cn
 0.0.0.0 letv.axp.admaster.com.cn
 0.0.0.0 pptv.adx.admaster.com.cn
 0.0.0.0 rtb.admaster.com.cn
@@ -23415,6 +23399,7 @@
 0.0.0.0 d.yoyi.tv
 0.0.0.0 g.d.yoyi.tv
 0.0.0.0 js.yoyi.tv
+0.0.0.0 t.d.yoyi.tv
 0.0.0.0 aim.yoyi.com.cn
 0.0.0.0 air.yoyi.com.cn
 0.0.0.0 amps.yoyi.com.cn
@@ -23553,6 +23538,7 @@
 0.0.0.0 www.criteo.com
 0.0.0.0 afp.csbew.com
 0.0.0.0 afptrack.csbew.com
+0.0.0.0 csbew.com
 0.0.0.0 s.csbew.com
 0.0.0.0 static.csbew.com
 0.0.0.0 tga.csbew.com
@@ -23562,6 +23548,7 @@
 0.0.0.0 hk-cdn.effectivemeasure.net
 0.0.0.0 me-cdn.effectivemeasure.net
 0.0.0.0 s.effectivemeasure.net
+0.0.0.0 sg-cdn.effectivemeasure.net
 0.0.0.0 www9.effectivemeasure.net
 0.0.0.0 ads.exdynsrv.com
 0.0.0.0 main.exdynsrv.com
@@ -23867,7 +23854,6 @@
 0.0.0.0 cdn-rtb.sape.ru
 0.0.0.0 dispenser-rtb.sape.ru
 0.0.0.0 ssp-rtb.sape.ru
-0.0.0.0 mg.yadro.ru
 0.0.0.0 st.yandexadexchange.net
 0.0.0.0 rtb.com.ru
 0.0.0.0 sync.1dmp.io
@@ -24362,6 +24348,7 @@
 0.0.0.0 cruiser.bayescom.cn
 0.0.0.0 ad.cacafly.com
 0.0.0.0 mrbs.cacafly.com
+0.0.0.0 rp3.cacafly.com
 0.0.0.0 nativeads.cacafly.com
 0.0.0.0 rp.cacafly.com
 0.0.0.0 appx.cacafly.com
@@ -24486,59 +24473,28 @@
 54.212.138.116      cdn.cloudflare.steamstatic.com
 23.66.66.221        steam-chat.com
 23.45.51.162 upos-hz-mirrorakam.akamaized.net
-104.111.167.111 contentstorage.osi.office.net
-13.107.42.13 onedrive.live.com
-40.126.35.87 login.live.com
-13.107.42.12 d.docs.live.net
-52.109.48.34 contentsync.onenote.com
-52.109.48.27 hierarchyapi.onenote.com
-52.109.124.112 ocws.officeapps.live.com
-52.109.48.0 www.onenote.com
-13.107.42.16 config.edge.skype.com
-52.109.124.115 roaming.officeapps.live.com
-52.109.48.4 pagecontentsync.onenote.com
-118.123.101.208 c1-onenote-15.cdn.office.net
-13.107.42.12 docs.live.net
-131.253.14.230 storage.live.com
-20.197.71.89 skydrive.wns.windows.com
-20.198.162.78 client.wns.windows.com
-51.11.192.49 mobile.pipe.aria.microsoft.com
-23.57.114.164 oneclient.sfx.ms
-157.55.109.232 skydrivesync.policies.live.net
-13.107.42.12 api.onedrive.com
-13.107.42.12 public.bn.files.1drv.com
-13.107.42.12 public.dm.files.1drv.com
-104.111.162.163 cdn.onenote.net
-157.240.199.14 ad.atdmt.com
-117.18.232.200 officeimg.vo.msecnd.net
-13.107.6.171 onenote.officeapps.live.com
-40.99.10.98 outlook.office365.com
-52.98.90.178 substrate.office.com
-140.82.112.4                  alive.github.com
-140.82.112.4                  live.github.com
-34.220.84.180                 github.githubassets.com
-140.82.112.4                  central.github.com
-52.12.16.202                  desktop.githubusercontent.com
-140.82.112.4                  assets-cdn.github.com
-34.214.3.217                  camo.githubusercontent.com
+140.82.114.4                  alive.github.com
+140.82.114.4                  live.github.com
+54.89.218.7                   github.githubassets.com
+140.82.114.4                  assets-cdn.github.com
+34.229.172.247                camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
-140.82.112.4                  gist.github.com
+140.82.114.4                  gist.github.com
 185.199.108.153               github.io
-140.82.112.4                  github.com
+140.82.114.4                  github.com
 192.0.66.2                    github.blog
-140.82.112.4                  api.github.com
-54.212.138.116                raw.githubusercontent.com
-34.220.84.180                 user-images.githubusercontent.com
-54.148.71.44                  favicons.githubusercontent.com
-52.38.222.102                 avatars5.githubusercontent.com
-54.190.53.13                  avatars4.githubusercontent.com
-54.148.71.44                  avatars3.githubusercontent.com
-52.36.81.8                    avatars2.githubusercontent.com
-35.90.232.118                 avatars1.githubusercontent.com
-35.87.39.3                    avatars0.githubusercontent.com
-52.36.81.8                    avatars.githubusercontent.com
-140.82.112.4                  codeload.github.com
+140.82.114.4                  api.github.com
+54.236.10.228                 raw.githubusercontent.com
+3.235.176.219                 user-images.githubusercontent.com
+52.91.176.47                  favicons.githubusercontent.com
+44.192.89.181                 avatars5.githubusercontent.com
+54.161.186.31                 avatars4.githubusercontent.com
+44.197.187.72                 avatars3.githubusercontent.com
+34.230.64.45                  avatars2.githubusercontent.com
+3.239.20.224                  avatars0.githubusercontent.com
+34.239.174.105                avatars.githubusercontent.com
+140.82.114.4                  codeload.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
 72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
@@ -24547,7 +24503,38 @@
 185.199.108.153               githubstatus.com
 64.71.144.211                 github.community
 23.100.27.125                 github.dev
-140.82.112.4                  collector.github.com
-35.87.39.3                    pipelines.actions.githubusercontent.com
-54.190.53.13                  media.githubusercontent.com
-35.90.232.118                 objects.githubusercontent.com
+140.82.114.4                  collector.github.com
+44.197.187.72                 pipelines.actions.githubusercontent.com
+3.236.16.212                  media.githubusercontent.com
+52.91.176.47                  cloud.githubusercontent.com
+3.238.85.96                   objects.githubusercontent.com
+104.111.167.111 contentstorage.osi.office.net
+13.107.42.13 onedrive.live.com
+20.190.166.2 login.live.com
+40.90.133.99 skyapi.onedrive.live.com
+13.107.42.12 d.docs.live.net
+52.109.48.34 contentsync.onenote.com
+52.109.48.27 hierarchyapi.onenote.com
+52.109.56.86 ocws.officeapps.live.com
+52.109.48.0 www.onenote.com
+13.107.42.16 config.edge.skype.com
+52.109.124.115 roaming.officeapps.live.com
+52.109.48.4 pagecontentsync.onenote.com
+23.57.112.223 c1-onenote-15.cdn.office.net
+13.107.42.12 docs.live.net
+131.253.14.229 storage.live.com
+20.197.71.89 skydrive.wns.windows.com
+20.197.71.89 client.wns.windows.com
+20.189.173.15 mobile.pipe.aria.microsoft.com
+23.57.114.164 oneclient.sfx.ms
+40.90.136.163 skydrivesync.policies.live.net
+13.107.42.12 api.onedrive.com
+13.107.42.12 public.bn.files.1drv.com
+13.107.42.12 public.dm.files.1drv.com
+104.111.162.163 cdn.onenote.net
+157.240.199.14 ad.atdmt.com
+117.18.232.200 officeimg.vo.msecnd.net
+13.107.6.171 onenote.officeapps.live.com
+40.99.10.34 outlook.office365.com
+52.98.33.226 substrate.office.com
+40.99.10.114 to-do.live.com
