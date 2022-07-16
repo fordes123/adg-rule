@@ -1,4 +1,4 @@
-# Update time: 2022-07-16 02:18:46
+# Update time: 2022-07-16 09:25:50
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 cnhv.co
@@ -7722,7 +7722,10 @@
 127.0.0.1 log-collector.svctr.zynga.com
 0.0.0.0 1oavsblobprodcus350.blob.core.windows.net
 0.0.0.0 37bvsblobprodcus311.blob.core.windows.net
+0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
+0.0.0.0 a.ads2.msn.com
+0.0.0.0 a.rad.msn.com
 0.0.0.0 ac3.msn.com
 0.0.0.0 adnexus.net
 0.0.0.0 adnxs.com
@@ -11356,8 +11359,6 @@
 0.0.0.0 a.adorika.net
 0.0.0.0 a.adready.com
 0.0.0.0 a.adroll.com
-0.0.0.0 a.ads1.msn.com
-0.0.0.0 a.ads2.msn.com
 0.0.0.0 a.adstome.com
 0.0.0.0 a.adtng.com
 0.0.0.0 a.applvn.com
@@ -11374,7 +11375,6 @@
 0.0.0.0 a.o333o.com
 0.0.0.0 a.prisacom.com
 0.0.0.0 a.rad.live.com
-0.0.0.0 a.rad.msn.com
 0.0.0.0 a.spolecznosci.net
 0.0.0.0 a.ss34.on9mail.com
 0.0.0.0 a.total-media.net
@@ -13511,7 +13511,6 @@
 0.0.0.0 col.mobileads.msn.com
 0.0.0.0 colddry.com
 0.0.0.0 collegiogeometri.it
-0.0.0.0 com.htmlwww.youfck.com
 0.0.0.0 comcastresidentialservices.tt.omtrdc.net
 0.0.0.0 commerce.www.ibm.com
 0.0.0.0 companion.adap.tv
@@ -14086,7 +14085,6 @@
 0.0.0.0 go.padstm.com
 0.0.0.0 go.pl.bbelements.com
 0.0.0.0 go.spaceshipads.com
-0.0.0.0 go.stirshakead.com
 0.0.0.0 go.verymuchad.com
 0.0.0.0 go2.hit.gemius.pl
 0.0.0.0 go2page.net
@@ -14169,7 +14167,6 @@
 0.0.0.0 histock.info
 0.0.0.0 hit.8digits.com
 0.0.0.0 hit4.hotlog.ru
-0.0.0.0 hk.adserver.yahoo.com
 0.0.0.0 hlcc.ca
 0.0.0.0 hlok.qertewrt.com
 0.0.0.0 hm.baidu.com
@@ -14948,7 +14945,6 @@
 0.0.0.0 nlink.com.br
 0.0.0.0 no.adserver.yahoo.com
 0.0.0.0 nofreezingmac.space
-0.0.0.0 nofreezingmac.work
 0.0.0.0 nospartenaires.com
 0.0.0.0 notification-browser.com
 0.0.0.0 notify.beap.gemini.yahoo.com
@@ -15589,7 +15585,6 @@
 0.0.0.0 s.moatads.com
 0.0.0.0 s.ntv.io
 0.0.0.0 s.optnx.com
-0.0.0.0 s.oroll.com
 0.0.0.0 s.ppjol.net
 0.0.0.0 s.rev2pub.com
 0.0.0.0 s.skimresources.com
@@ -15699,7 +15694,6 @@
 0.0.0.0 server.bittads.com
 0.0.0.0 server.cpmstar.com
 0.0.0.0 server.zoiets.be
-0.0.0.0 server2.as5000.com
 0.0.0.0 server2.mediajmp.com
 0.0.0.0 server44.dubhosting.co.uk
 0.0.0.0 server821.com
@@ -18370,7 +18364,6 @@
 0.0.0.0 htracker3.zmzfile.com
 0.0.0.0 htracker4.zmzfile.com
 0.0.0.0 htracker5.zmzfile.com
-0.0.0.0 file.apicvn.com
 0.0.0.0 ether-pack.pangolin-sdk-toutiao.com
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
 0.0.0.0 p1-be-endcard.pglstatp-toutiao.com
@@ -18545,7 +18538,6 @@
 0.0.0.0 cms.tanx.com
 0.0.0.0 df.tanx.com
 0.0.0.0 ecpm.tanx.com
-0.0.0.0 ef-dongfeng.tanx.com
 0.0.0.0 opehs.tanx.com
 0.0.0.0 p.tanx.com
 0.0.0.0 pcookie.tanx.com
@@ -19191,7 +19183,6 @@
 0.0.0.0 2016.sina.cn
 0.0.0.0 9ibbcq2d.sina.cn
 0.0.0.0 adimg.mobile.sina.cn
-0.0.0.0 click.uve.mobile.sina.cn
 0.0.0.0 cm.dmp.sina.cn
 0.0.0.0 cre-dp.sina.cn
 0.0.0.0 cre.dp.sina.cn
@@ -20658,7 +20649,6 @@
 0.0.0.0 click.tianyaui.com
 0.0.0.0 pf.pchome.net
 0.0.0.0 pf-2.pchome.net
-0.0.0.0 ad.doubanio.com
 0.0.0.0 at1.doubanio.com
 0.0.0.0 at2.doubanio.com
 0.0.0.0 erebor.douban.com
@@ -20738,7 +20728,6 @@
 0.0.0.0 www.zamplus.com
 0.0.0.0 cm.fancyapi.com
 0.0.0.0 as.mgtv.com
-0.0.0.0 audit.aaa.mgtv.com
 0.0.0.0 cdn.cmop.mgtv.com
 0.0.0.0 cmop.mgtv.com
 0.0.0.0 imgaliyun.res.mgtv.com
@@ -21458,7 +21447,6 @@
 0.0.0.0 js412.yqjxzw.com
 0.0.0.0 js4163.yongkang6.com
 0.0.0.0 js5162.yongkang6.com
-0.0.0.0 js74.yqjxzw.com
 0.0.0.0 js84.enyayinxiang.com
 0.0.0.0 js883.yongkang6.com
 0.0.0.0 js9318.bllzgqbyp.com
@@ -22192,7 +22180,6 @@
 0.0.0.0 www.diediao.com
 0.0.0.0 www.doulaikanapp.com
 0.0.0.0 www.dqsft.com
-0.0.0.0 www.dulaiduapp.com
 0.0.0.0 www.duobaoqj.com
 0.0.0.0 www.ere3j2e001.com
 0.0.0.0 www.ewtyewj.com
@@ -23431,7 +23418,6 @@
 0.0.0.0 d.yoyi.tv
 0.0.0.0 g.d.yoyi.tv
 0.0.0.0 js.yoyi.tv
-0.0.0.0 t.d.yoyi.tv
 0.0.0.0 aim.yoyi.com.cn
 0.0.0.0 air.yoyi.com.cn
 0.0.0.0 amps.yoyi.com.cn
@@ -23570,7 +23556,6 @@
 0.0.0.0 www.criteo.com
 0.0.0.0 afp.csbew.com
 0.0.0.0 afptrack.csbew.com
-0.0.0.0 csbew.com
 0.0.0.0 s.csbew.com
 0.0.0.0 static.csbew.com
 0.0.0.0 tga.csbew.com
@@ -23580,7 +23565,6 @@
 0.0.0.0 hk-cdn.effectivemeasure.net
 0.0.0.0 me-cdn.effectivemeasure.net
 0.0.0.0 s.effectivemeasure.net
-0.0.0.0 sg-cdn.effectivemeasure.net
 0.0.0.0 www9.effectivemeasure.net
 0.0.0.0 ads.exdynsrv.com
 0.0.0.0 main.exdynsrv.com
@@ -24382,7 +24366,6 @@
 0.0.0.0 cruiser.bayescom.cn
 0.0.0.0 ad.cacafly.com
 0.0.0.0 mrbs.cacafly.com
-0.0.0.0 rp3.cacafly.com
 0.0.0.0 nativeads.cacafly.com
 0.0.0.0 rp.cacafly.com
 0.0.0.0 appx.cacafly.com
@@ -24498,53 +24481,15 @@
 0.0.0.0 tsis.jpush.cn
 23.204.9.127        steamcommunity.com
 23.204.9.127        www.steamcommunity.com
-23.204.30.72        store.steampowered.com
-23.204.30.72        api.steampowered.com
-35.175.106.202      steamcdn-a.akamaihd.net
-44.204.199.58       cdn.akamai.steamstatic.com
-3.222.245.0         community.akamai.steamstatic.com
-3.85.214.152        store.akamai.steamstatic.com
-3.238.255.198       cdn.cloudflare.steamstatic.com
+23.3.117.102        store.steampowered.com
+23.3.117.102        api.steampowered.com
+52.37.157.48        steamcdn-a.akamaihd.net
+34.215.64.23        cdn.akamai.steamstatic.com
+34.219.123.215      community.akamai.steamstatic.com
+50.112.53.27        store.akamai.steamstatic.com
+54.212.138.116      cdn.cloudflare.steamstatic.com
 23.66.66.221        steam-chat.com
 23.45.51.162 upos-hz-mirrorakam.akamaized.net
-140.82.113.4                  alive.github.com
-140.82.113.4                  live.github.com
-34.201.143.93                 github.githubassets.com
-140.82.113.4                  central.github.com
-100.27.32.126                 desktop.githubusercontent.com
-140.82.113.4                  assets-cdn.github.com
-18.208.109.214                camo.githubusercontent.com
-151.101.1.6                   github.map.fastly.net
-151.101.1.6                   github.global.ssl.fastly.net
-140.82.113.4                  gist.github.com
-185.199.108.153               github.io
-140.82.113.4                  github.com
-192.0.66.2                    github.blog
-140.82.113.4                  api.github.com
-44.197.119.54                 raw.githubusercontent.com
-44.197.207.126                user-images.githubusercontent.com
-18.232.140.192                favicons.githubusercontent.com
-3.209.12.104                  avatars5.githubusercontent.com
-54.175.48.144                 avatars4.githubusercontent.com
-3.83.234.60                   avatars3.githubusercontent.com
-3.235.251.109                 avatars2.githubusercontent.com
-54.159.105.26                 avatars1.githubusercontent.com
-3.88.52.181                   avatars0.githubusercontent.com
-44.201.249.207                avatars.githubusercontent.com
-140.82.113.4                  codeload.github.com
-72.21.206.80                  github-cloud.s3.amazonaws.com
-72.21.206.80                  github-com.s3.amazonaws.com
-72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
-72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
-72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.108.153               githubstatus.com
-64.71.144.211                 github.community
-23.100.27.125                 github.dev
-140.82.113.4                  collector.github.com
-54.163.208.41                 pipelines.actions.githubusercontent.com
-3.215.185.192                 media.githubusercontent.com
-3.91.67.95                    cloud.githubusercontent.com
-54.146.102.237                objects.githubusercontent.com
 104.111.167.111 contentstorage.osi.office.net
 13.107.42.13 onedrive.live.com
 40.126.35.87 login.live.com
@@ -24573,3 +24518,40 @@
 13.107.6.171 onenote.officeapps.live.com
 40.99.10.98 outlook.office365.com
 52.98.90.178 substrate.office.com
+140.82.113.4                  alive.github.com
+140.82.113.4                  live.github.com
+3.238.79.209                  github.githubassets.com
+140.82.113.4                  central.github.com
+18.208.135.184                desktop.githubusercontent.com
+140.82.113.4                  assets-cdn.github.com
+3.238.79.209                  camo.githubusercontent.com
+151.101.1.6                   github.map.fastly.net
+151.101.1.6                   github.global.ssl.fastly.net
+140.82.113.4                  gist.github.com
+185.199.108.153               github.io
+140.82.113.4                  github.com
+192.0.66.2                    github.blog
+140.82.113.4                  api.github.com
+34.239.174.105                user-images.githubusercontent.com
+34.227.143.102                favicons.githubusercontent.com
+54.198.81.63                  avatars5.githubusercontent.com
+54.146.102.237                avatars4.githubusercontent.com
+54.89.154.220                 avatars3.githubusercontent.com
+44.192.89.181                 avatars2.githubusercontent.com
+34.203.234.229                avatars1.githubusercontent.com
+3.83.85.97                    avatars0.githubusercontent.com
+54.87.18.202                  avatars.githubusercontent.com
+140.82.113.4                  codeload.github.com
+72.21.206.80                  github-cloud.s3.amazonaws.com
+72.21.206.80                  github-com.s3.amazonaws.com
+72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
+72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
+72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.108.153               githubstatus.com
+64.71.144.211                 github.community
+23.100.27.125                 github.dev
+140.82.113.4                  collector.github.com
+3.87.202.93                   pipelines.actions.githubusercontent.com
+54.236.10.228                 media.githubusercontent.com
+44.200.65.190                 cloud.githubusercontent.com
+35.173.250.6                  objects.githubusercontent.com
