@@ -18,6 +18,7 @@ rule:
     - 'https://onedrive-hosts.learningman.top/' #OneDrive Hosts
     - 'https://cdn.jsdelivr.net/gh/pboymt/Steam520/hosts' #Steam Hosts
     - 'https://anti-ad.net/easylist.txt' #anti-ad AdGuardHome
+    - 'https://gitlab.com/ineo6/hosts/-/raw/master/next-hosts' #GithubHost
   #本地规则
   local:
     - 'mylist.txt'
