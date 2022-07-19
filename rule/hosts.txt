@@ -1,4 +1,4 @@
-# Update time: 2022-07-19 09:43:51
+# Update time: 2022-07-19 14:19:09
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 cnhv.co
@@ -7722,18 +7722,11 @@
 127.0.0.1 log-collector.svctr.zynga.com
 0.0.0.0 1oavsblobprodcus350.blob.core.windows.net
 0.0.0.0 37bvsblobprodcus311.blob.core.windows.net
-0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
-0.0.0.0 a.ads2.msn.com
-0.0.0.0 a.rad.msn.com
 0.0.0.0 ac3.msn.com
 0.0.0.0 adnexus.net
-0.0.0.0 adnxs.com
 0.0.0.0 ads.msn.com
-0.0.0.0 ads1.msads.net
-0.0.0.0 ads1.msn.com
 0.0.0.0 aidps.atdmt.com
-0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 alpha.telemetry.microsoft.com
 0.0.0.0 api.cortana.ai
 0.0.0.0 api.edgeoffer.microsoft.com
@@ -7741,7 +7734,6 @@
 0.0.0.0 azwancan.trafficmanager.net
 0.0.0.0 b.ads1.msn.com
 0.0.0.0 b.ads2.msads.net
-0.0.0.0 b.rad.msn.com
 0.0.0.0 bingads.microsoft.com
 0.0.0.0 blobcollector.events.data.trafficmanager.net
 0.0.0.0 bn2-ris-ap-prod-atm.trafficmanager.net
@@ -7785,7 +7777,6 @@
 0.0.0.0 bn4sch101123202.wns.windows.com
 0.0.0.0 bn4sch102110124.wns.windows.com
 0.0.0.0 browser.pipe.aria.microsoft.com
-0.0.0.0 bs.serving-sys.com
 0.0.0.0 c.atdmt.com
 0.0.0.0 c.msn.com
 0.0.0.0 ca.telemetry.microsoft.com
@@ -11363,6 +11354,8 @@
 0.0.0.0 a.adorika.net
 0.0.0.0 a.adready.com
 0.0.0.0 a.adroll.com
+0.0.0.0 a.ads1.msn.com
+0.0.0.0 a.ads2.msn.com
 0.0.0.0 a.adstome.com
 0.0.0.0 a.adtng.com
 0.0.0.0 a.applvn.com
@@ -11379,6 +11372,7 @@
 0.0.0.0 a.o333o.com
 0.0.0.0 a.prisacom.com
 0.0.0.0 a.rad.live.com
+0.0.0.0 a.rad.msn.com
 0.0.0.0 a.spolecznosci.net
 0.0.0.0 a.ss34.on9mail.com
 0.0.0.0 a.total-media.net
@@ -11863,6 +11857,7 @@
 0.0.0.0 adnetwork.nextgen.net
 0.0.0.0 adnetwork.rovicorp.com
 0.0.0.0 adnetworkperformance.com
+0.0.0.0 adnxs.com
 0.0.0.0 adnxs.revsci.net
 0.0.0.0 adobe.tt.omtrdc.net
 0.0.0.0 adobee.com
@@ -12395,6 +12390,8 @@
 0.0.0.0 ads1.destructoid.com
 0.0.0.0 ads1.erotism.com
 0.0.0.0 ads1.jev.co.za
+0.0.0.0 ads1.msads.net
+0.0.0.0 ads1.msn.com
 0.0.0.0 ads1.performancingads.com
 0.0.0.0 ads1.realcities.com
 0.0.0.0 ads1.revenue.net
@@ -12832,6 +12829,7 @@
 0.0.0.0 ak.buyservices.com
 0.0.0.0 ak.maxserving.com
 0.0.0.0 ak.sail-horizon.com
+0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 aka-cdn-ns.adtechus.com
 0.0.0.0 aka-cdn.adtechus.com
 0.0.0.0 aka.ms-ads.co
@@ -13002,6 +13000,7 @@
 0.0.0.0 b.liquidustv.com
 0.0.0.0 b.myspace.com
 0.0.0.0 b.rad.live.com
+0.0.0.0 b.rad.msn.com
 0.0.0.0 b.recwwcc5.info
 0.0.0.0 b1fe8a95ae27823.com
 0.0.0.0 b34rightym.com
@@ -13188,6 +13187,7 @@
 0.0.0.0 browserprotecter.com
 0.0.0.0 browsesentinel.com
 0.0.0.0 brxfinance.com
+0.0.0.0 bs.serving-sys.com
 0.0.0.0 bs.url.tw
 0.0.0.0 bsnj.eyeblaster.akadns.net
 0.0.0.0 btbuyerapp.com
@@ -13515,6 +13515,7 @@
 0.0.0.0 col.mobileads.msn.com
 0.0.0.0 colddry.com
 0.0.0.0 collegiogeometri.it
+0.0.0.0 com.htmlwww.youfck.com
 0.0.0.0 comcastresidentialservices.tt.omtrdc.net
 0.0.0.0 commerce.www.ibm.com
 0.0.0.0 companion.adap.tv
@@ -14172,6 +14173,7 @@
 0.0.0.0 histock.info
 0.0.0.0 hit.8digits.com
 0.0.0.0 hit4.hotlog.ru
+0.0.0.0 hk.adserver.yahoo.com
 0.0.0.0 hlcc.ca
 0.0.0.0 hlok.qertewrt.com
 0.0.0.0 hm.baidu.com
@@ -14950,6 +14952,7 @@
 0.0.0.0 nlink.com.br
 0.0.0.0 no.adserver.yahoo.com
 0.0.0.0 nofreezingmac.space
+0.0.0.0 nofreezingmac.work
 0.0.0.0 nospartenaires.com
 0.0.0.0 notification-browser.com
 0.0.0.0 notify.beap.gemini.yahoo.com
@@ -15700,6 +15703,7 @@
 0.0.0.0 server.bittads.com
 0.0.0.0 server.cpmstar.com
 0.0.0.0 server.zoiets.be
+0.0.0.0 server2.as5000.com
 0.0.0.0 server2.mediajmp.com
 0.0.0.0 server44.dubhosting.co.uk
 0.0.0.0 server821.com
@@ -18126,6 +18130,7 @@
 0.0.0.0 paxil.1.p2l.info
 0.0.0.0 payday-loans.now-cash.com
 0.0.0.0 pe.5.p2l.info
+0.0.0.0 peter-north-cum-shot.blogspot.com
 0.0.0.0 pets.finaltips.com
 0.0.0.0 pharmacy-canada.forsearch.net
 0.0.0.0 pharmacy-news.blogspot.com
@@ -18359,6 +18364,7 @@
 0.0.0.0 gz-data.com
 0.0.0.0 gozendata.com
 0.0.0.0 gzads.com
+0.0.0.0 tracker1.zmzfile.com
 0.0.0.0 tracker2.zmzfile.com
 0.0.0.0 tracker3.zmzfile.com
 0.0.0.0 tracker4.zmzfile.com
@@ -18368,6 +18374,7 @@
 0.0.0.0 htracker3.zmzfile.com
 0.0.0.0 htracker4.zmzfile.com
 0.0.0.0 htracker5.zmzfile.com
+0.0.0.0 file.apicvn.com
 0.0.0.0 ether-pack.pangolin-sdk-toutiao.com
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
 0.0.0.0 p1-be-endcard.pglstatp-toutiao.com
@@ -18470,6 +18477,7 @@
 0.0.0.0 s.appjiagu.com
 0.0.0.0 haostat.qihoo.com
 0.0.0.0 res.qhupdate.com
+0.0.0.0 tran.news.so.com
 0.0.0.0 spro.so.com
 0.0.0.0 u.api.look.360.cn
 0.0.0.0 ad.dev.360.cn
@@ -18738,6 +18746,7 @@
 0.0.0.0 gsp0.baidu.com
 0.0.0.0 ms.cmcm.com
 0.0.0.0 cmcdl.cmcm.com
+0.0.0.0 dl.cm.ksmobile.com
 0.0.0.0 andmlbf.tj.ijinshan.com
 0.0.0.0 apns.ios.ijinshan.com
 0.0.0.0 bp.mobad.ijinshan.com
@@ -18927,6 +18936,7 @@
 0.0.0.0 s93.cnzz.com
 0.0.0.0 s94.cnzz.com
 0.0.0.0 s95.cnzz.com
+0.0.0.0 s96.cnzz.com
 0.0.0.0 s97.cnzz.com
 0.0.0.0 s98.cnzz.com
 0.0.0.0 s99.cnzz.com
@@ -19013,6 +19023,7 @@
 0.0.0.0 material-ssl.mediav.com
 0.0.0.0 material.mediav.com
 0.0.0.0 max-l.mediav.com
+0.0.0.0 max.mediav.com
 0.0.0.0 mvp.mediav.com
 0.0.0.0 pages-juxiao.mediav.com
 0.0.0.0 pages.juxiao.mediav.com
@@ -19180,9 +19191,11 @@
 0.0.0.0 sbeacon.sina.com.cn
 0.0.0.0 slog.sina.com.cn
 0.0.0.0 staticadm.leju.sina.com.cn
+0.0.0.0 pfpip.sina.com
 0.0.0.0 2016.sina.cn
 0.0.0.0 9ibbcq2d.sina.cn
 0.0.0.0 adimg.mobile.sina.cn
+0.0.0.0 click.uve.mobile.sina.cn
 0.0.0.0 cm.dmp.sina.cn
 0.0.0.0 cre-dp.sina.cn
 0.0.0.0 cre.dp.sina.cn
@@ -19195,6 +19208,7 @@
 0.0.0.0 qgnu18wo.sina.cn
 0.0.0.0 r.dmp.sina.cn
 0.0.0.0 sax.sina.cn
+0.0.0.0 saxs.sina.cn
 0.0.0.0 sdkapp.mobile.sina.cn
 0.0.0.0 sdkclick.mobile.sina.cn
 0.0.0.0 slog.sina.cn
@@ -19363,6 +19377,7 @@
 0.0.0.0 img.wan.sogou.com
 0.0.0.0 iwan.sogou.com
 0.0.0.0 wan.sogou.com
+0.0.0.0 eavs02.eqifa.com
 0.0.0.0 p.yiqifa.com
 0.0.0.0 image.yiqifa.com
 0.0.0.0 www.yiqifa.com
@@ -19679,6 +19694,7 @@
 0.0.0.0 agn.aty.cp45.ott.cibntv.net
 0.0.0.0 m.aty.cp45.ott.cibntv.net
 0.0.0.0 mmg.aty.cp45.ott.cibntv.net
+0.0.0.0 agn.aty.snmsohu.aisee.tv
 0.0.0.0 m.aty.snmsohu.aisee.tv
 0.0.0.0 mmg.aty.snmsohu.aisee.tv
 0.0.0.0 g.dtv.cn.miaozhen.com
@@ -19878,6 +19894,7 @@
 0.0.0.0 img.ad.zhangyue.com
 0.0.0.0 m.ad.zhangyue.com
 0.0.0.0 push.zhangyue.com
+0.0.0.0 sys.zhangyue.com
 0.0.0.0 ad.51wnl.com
 0.0.0.0 ad-android.51wnl.com
 0.0.0.0 cdn1.lbesec.com
@@ -20171,6 +20188,7 @@
 0.0.0.0 tj.u17t.com
 0.0.0.0 s.cdn.u17t.com
 0.0.0.0 adsapi.manhuaren.com
+0.0.0.0 dps.shouji56.com
 0.0.0.0 tongji.tt.shouji56.com
 0.0.0.0 xz.tongji.shouji56.com
 0.0.0.0 s.abcache.com
@@ -20465,6 +20483,7 @@
 0.0.0.0 pvtest.zol.com.cn
 0.0.0.0 stat.zol.com.cn
 0.0.0.0 wappv.zol.com.cn
+0.0.0.0 ydjs.zol.com.cn
 0.0.0.0 afp.zol-img.com.cn
 0.0.0.0 pic.zol-img.com.cn
 0.0.0.0 ca.w8.com.cn
@@ -20645,6 +20664,7 @@
 0.0.0.0 click.tianyaui.com
 0.0.0.0 pf.pchome.net
 0.0.0.0 pf-2.pchome.net
+0.0.0.0 ad.doubanio.com
 0.0.0.0 at1.doubanio.com
 0.0.0.0 at2.doubanio.com
 0.0.0.0 erebor.douban.com
@@ -20724,6 +20744,7 @@
 0.0.0.0 www.zamplus.com
 0.0.0.0 cm.fancyapi.com
 0.0.0.0 as.mgtv.com
+0.0.0.0 audit.aaa.mgtv.com
 0.0.0.0 cdn.cmop.mgtv.com
 0.0.0.0 cmop.mgtv.com
 0.0.0.0 imgaliyun.res.mgtv.com
@@ -20745,6 +20766,7 @@
 0.0.0.0 x.da.mgtv.com
 0.0.0.0 y.da.mgtv.com
 0.0.0.0 ys.da.mgtv.com
+0.0.0.0 log.da.hunantv.com
 0.0.0.0 log.event.hunantv.com
 0.0.0.0 log.p2p.hunantv.com
 0.0.0.0 log.rc.hunantv.com
@@ -20791,6 +20813,7 @@
 0.0.0.0 1.letvlive.com
 0.0.0.0 2.letvlive.com
 0.0.0.0 libs.tvmao.cn
+0.0.0.0 slib.tvmao.cn
 0.0.0.0 aazcio.cn
 0.0.0.0 sboite.cn
 0.0.0.0 wpan.sc2yun.com
@@ -20807,6 +20830,7 @@
 0.0.0.0 1234xm.com
 0.0.0.0 1495039.com
 0.0.0.0 181ue.com
+0.0.0.0 2.1010pic.com
 0.0.0.0 2.92caijing.com
 0.0.0.0 2.bashenghuo.com
 0.0.0.0 2017img.myxh999.com
@@ -20898,6 +20922,7 @@
 0.0.0.0 ads.vipbaihe.com
 0.0.0.0 adsc.wasu.tv
 0.0.0.0 adsdk.vivo.com.cn
+0.0.0.0 adservice.google.com.hk
 0.0.0.0 adsin.zhangyoubao.com
 0.0.0.0 adsmind.ugdtimg.com
 0.0.0.0 adstore-index-1252524079.file.myqcloud.com
@@ -21077,6 +21102,7 @@
 0.0.0.0 cmz2.stm65i8.com
 0.0.0.0 cn.lakdc.top
 0.0.0.0 cndjs-1251973891.coshk.myqcloud.com
+0.0.0.0 cnm.xlcktv.com
 0.0.0.0 cnx.xu7b.com
 0.0.0.0 cnyibs.com
 0.0.0.0 code.bianxianwu.com
@@ -21190,6 +21216,7 @@
 0.0.0.0 e.hogyp.com
 0.0.0.0 e.huaas.com
 0.0.0.0 e.huoas.com
+0.0.0.0 e.hyzui.com
 0.0.0.0 e.ihais.com
 0.0.0.0 e.ishowms.com
 0.0.0.0 e.joyxv.com
@@ -21229,6 +21256,7 @@
 0.0.0.0 ee.hdboping.com
 0.0.0.0 ee.i36mf.cn
 0.0.0.0 ee.j5s9b.cn
+0.0.0.0 ee.s47e8.cn
 0.0.0.0 ee.u0r9.cn
 0.0.0.0 ee.u4q2.cn
 0.0.0.0 ee.w82ph.cn
@@ -21324,6 +21352,7 @@
 0.0.0.0 hnnzwhyy.com
 0.0.0.0 hoisin.coocaatv.com
 0.0.0.0 honpu1.dianqiweixiu.net
+0.0.0.0 html.yuntzs.com
 0.0.0.0 httpdns.c.cdnhwc2.com
 0.0.0.0 huishenghuiying.com
 0.0.0.0 hv.code.tanwanyx.com
@@ -21820,6 +21849,7 @@
 0.0.0.0 qipskd.cn
 0.0.0.0 qiyem.aiwen.cc
 0.0.0.0 qiyem.ejunshi.com
+0.0.0.0 qiyezs.aiwen.cc
 0.0.0.0 qiyezs.ejunshi.com
 0.0.0.0 qj.borsendental.com
 0.0.0.0 qlisv.siemens6es7.com
@@ -21888,6 +21918,7 @@
 0.0.0.0 sdktmp.hubcloud.com.cn
 0.0.0.0 seordl.cn
 0.0.0.0 servicer.adskeeper.co.uk
+0.0.0.0 services.zozoplatform.com
 0.0.0.0 settlef.com
 0.0.0.0 setqre.cn
 0.0.0.0 sfk.t58b.com
@@ -22087,6 +22118,7 @@
 0.0.0.0 wangdq.com
 0.0.0.0 wap.138lm.com
 0.0.0.0 wap.bytdzsw.com
+0.0.0.0 wap.tanwan.com
 0.0.0.0 wap.txwdn.com
 0.0.0.0 wap.utmei.cn
 0.0.0.0 wbf9k9.com
@@ -22306,6 +22338,7 @@
 0.0.0.0 www.yqjxzw.com
 0.0.0.0 www.yueyelive.com
 0.0.0.0 www.yzaosite.com
+0.0.0.0 www.zshacker.com
 0.0.0.0 wxb.wxbdfm.com
 0.0.0.0 wxtz.houmags.com
 0.0.0.0 wxr.kebi1.top
@@ -22323,6 +22356,7 @@
 0.0.0.0 xg4ken.com
 0.0.0.0 xia.chemdraw.com
 0.0.0.0 xiaoshuo.kp53.cn
+0.0.0.0 xiazai.cdren.com
 0.0.0.0 xinghao89.com
 0.0.0.0 xj.zjhim.com
 0.0.0.0 xji.qwxcs.com
@@ -22530,6 +22564,7 @@
 0.0.0.0 r.pixgold.com
 0.0.0.0 ad.unimhk.com
 0.0.0.0 pixel-hk.pixelinteractivemedia.com
+0.0.0.0 snap.snapmobile.asia
 0.0.0.0 static.snapmobile.asia
 0.0.0.0 adx.adxglobal.com
 0.0.0.0 lndnserror6.wo.com.cn
@@ -22541,6 +22576,7 @@
 0.0.0.0 hao549.com
 0.0.0.0 www.i1236.net
 0.0.0.0 hk.jtsh123.com
+0.0.0.0 hao.7654.com
 0.0.0.0 p.sdu8cvc.com
 0.0.0.0 n.a.mosenni.com
 0.0.0.0 c.minisplat.cn
@@ -22548,12 +22584,14 @@
 0.0.0.0 l.minisplat.cn
 0.0.0.0 o.minisplat.cn
 0.0.0.0 u0.s.minisplat.cn
+0.0.0.0 u1.s.minisplat.cn
 0.0.0.0 u2.s.minisplat.cn
 0.0.0.0 144.dragonparking.com
 0.0.0.0 930.dragonparking.com
 0.0.0.0 track.dragonparking.com
 0.0.0.0 cdn.dragonstatic.com
 0.0.0.0 dl.9xu.com
+0.0.0.0 js.union-wifi.com
 0.0.0.0 rcv.union-wifi.com
 0.0.0.0 817.dopa.com
 0.0.0.0 818.dopa.com
@@ -22603,6 +22641,7 @@
 0.0.0.0 ss.he9630.com
 0.0.0.0 xs.he9630.com
 0.0.0.0 bcjjg.bugsevent.com
+0.0.0.0 bcjxf.bugsevent.com
 0.0.0.0 adx3.iq39.com
 0.0.0.0 m.cudaojia.com
 0.0.0.0 yun.sifuhe.cn
@@ -22636,6 +22675,7 @@
 0.0.0.0 m.analytics.126.net
 0.0.0.0 news.push.126.net
 0.0.0.0 haitaoad.nosdn.127.net
+0.0.0.0 analytics.hz.netease.com
 0.0.0.0 h5.analytics.126.net
 0.0.0.0 statis.push.netease.com
 0.0.0.0 mr.da.netease.com
@@ -22687,6 +22727,7 @@
 0.0.0.0 fclick.baidu.com
 0.0.0.0 fexclick.baidu.com
 0.0.0.0 g.baidu.com
+0.0.0.0 release.baidu.com
 0.0.0.0 sclick.baidu.com
 0.0.0.0 share.baidu.com
 0.0.0.0 tuijian.baidu.com
@@ -22704,10 +22745,12 @@
 0.0.0.0 api8.tuisong.baidu.com
 0.0.0.0 api9.tuisong.baidu.com
 0.0.0.0 sa.tuisong.baidu.com
+0.0.0.0 sa0.tuisong.baidu.com
 0.0.0.0 sa1.tuisong.baidu.com
 0.0.0.0 sa3.tuisong.baidu.com
 0.0.0.0 hdj.baidu.com
 0.0.0.0 mssp.baidu.com
+0.0.0.0 nlog.baidu.com
 0.0.0.0 ad.player.baidu.com
 0.0.0.0 dd713.bj.bcebos.com
 0.0.0.0 vv84.bj.bcebos.com
@@ -22831,6 +22874,7 @@
 0.0.0.0 8chzga.v.admaster.com.cn
 0.0.0.0 8dcyqu.c.admaster.com.cn
 0.0.0.0 c.admaster.com.cn
+0.0.0.0 click.admaster.com.cn
 0.0.0.0 letv.axp.admaster.com.cn
 0.0.0.0 pptv.adx.admaster.com.cn
 0.0.0.0 rtb.admaster.com.cn
@@ -22879,6 +22923,7 @@
 0.0.0.0 i.adsame.com
 0.0.0.0 ifeng.adsame.com
 0.0.0.0 jfdaily.adsame.com
+0.0.0.0 jrj.adsame.com
 0.0.0.0 jsmedia.adsame.com
 0.0.0.0 mail.adsame.com
 0.0.0.0 material.jfdaily.adsame.com
@@ -22981,6 +23026,7 @@
 0.0.0.0 www.behe.com
 0.0.0.0 cm.api.baifendian.com
 0.0.0.0 ds.api.baifendian.com
+0.0.0.0 ds10.api.baifendian.com
 0.0.0.0 m.api.baifendian.com
 0.0.0.0 rec.api.baifendian.com
 0.0.0.0 static.baifendian.com
@@ -23101,6 +23147,7 @@
 0.0.0.0 impression.gridsumdissector.com
 0.0.0.0 recv-vd.gridsumdissector.com
 0.0.0.0 recv-wd.gridsumdissector.com
+0.0.0.0 sso-cas.gridsumdissector.com
 0.0.0.0 static.gridsumdissector.com
 0.0.0.0 api.growingio.com
 0.0.0.0 assets.growingio.com
@@ -23165,6 +23212,7 @@
 0.0.0.0 www.keydot.net
 0.0.0.0 www.51link.com
 0.0.0.0 ulink.cc
+0.0.0.0 keyrun.cn
 0.0.0.0 kxlogo.knet.cn
 0.0.0.0 rr.knet.cn
 0.0.0.0 ss.knet.cn
@@ -23282,6 +23330,7 @@
 0.0.0.0 pub.sitetag.us
 0.0.0.0 track.sitetag.us
 0.0.0.0 img.ma.social-touch.com
+0.0.0.0 analytics.talkingdata.net
 0.0.0.0 gaandroid.talkingdata.net
 0.0.0.0 jic.talkingdata.com
 0.0.0.0 tdcv3.talkingdata.net
@@ -23382,6 +23431,7 @@
 0.0.0.0 a3.img.static.youmi.net
 0.0.0.0 au.youmi.net
 0.0.0.0 notifiter.youmi.net
+0.0.0.0 t.youmi.net
 0.0.0.0 youmi.net
 0.0.0.0 www.youmi.net
 0.0.0.0 ad1.img.static.youmi.net
@@ -23536,6 +23586,7 @@
 0.0.0.0 www.criteo.com
 0.0.0.0 afp.csbew.com
 0.0.0.0 afptrack.csbew.com
+0.0.0.0 csbew.com
 0.0.0.0 s.csbew.com
 0.0.0.0 static.csbew.com
 0.0.0.0 tga.csbew.com
@@ -23548,6 +23599,7 @@
 0.0.0.0 www9.effectivemeasure.net
 0.0.0.0 ads.exdynsrv.com
 0.0.0.0 main.exdynsrv.com
+0.0.0.0 a.exoclick.com
 0.0.0.0 ads.exoclick.com
 0.0.0.0 origin-ads.exoclick.com
 0.0.0.0 syndication-evo.exoclick.com
@@ -23746,6 +23798,7 @@
 0.0.0.0 i.liadm.com
 0.0.0.0 i.ssix.io
 0.0.0.0 load77.exelator.com
+0.0.0.0 stags.bluekai.com
 0.0.0.0 sync.crwdcntrl.net
 0.0.0.0 server.exposebox.com
 0.0.0.0 api-secure.solvemedia.com
@@ -23849,6 +23902,7 @@
 0.0.0.0 cdn-rtb.sape.ru
 0.0.0.0 dispenser-rtb.sape.ru
 0.0.0.0 ssp-rtb.sape.ru
+0.0.0.0 mg.yadro.ru
 0.0.0.0 st.yandexadexchange.net
 0.0.0.0 rtb.com.ru
 0.0.0.0 sync.1dmp.io
@@ -24027,6 +24081,7 @@
 0.0.0.0 paopao1.qiyipic.com
 0.0.0.0 paopao2.qiyipic.com
 0.0.0.0 paopao3.qiyipic.com
+0.0.0.0 count.game.pps.tv
 0.0.0.0 game.pps.tv
 0.0.0.0 static.g.ppstream.com
 0.0.0.0 qosp.msg.71.am
@@ -24213,6 +24268,7 @@
 0.0.0.0 8b26nu.viqiyi.admaster.com.cn
 0.0.0.0 8b6fqu.vyk.admaster.com.cn
 0.0.0.0 8b6fxa.viqiyi.admaster.com.cn
+0.0.0.0 8b8a4a.viqiyi.admaster.com.cn
 0.0.0.0 8b8a6a.vsohu.admaster.com.cn
 0.0.0.0 8b8a7u.vyk.admaster.com.cn
 0.0.0.0 8c8vqu.vyk.admaster.com.cn
@@ -24343,6 +24399,7 @@
 0.0.0.0 cruiser.bayescom.cn
 0.0.0.0 ad.cacafly.com
 0.0.0.0 mrbs.cacafly.com
+0.0.0.0 rp3.cacafly.com
 0.0.0.0 nativeads.cacafly.com
 0.0.0.0 rp.cacafly.com
 0.0.0.0 appx.cacafly.com
@@ -24460,46 +24517,12 @@
 23.222.195.237      www.steamcommunity.com
 72.247.49.115       store.steampowered.com
 72.247.49.115       api.steampowered.com
-54.208.53.205       steamcdn-a.akamaihd.net
-3.89.61.163         cdn.akamai.steamstatic.com
-18.206.86.2         community.akamai.steamstatic.com
-3.225.221.116       store.akamai.steamstatic.com
-3.236.79.167        cdn.cloudflare.steamstatic.com
+3.91.88.54          steamcdn-a.akamaihd.net
+18.207.240.224      cdn.akamai.steamstatic.com
+34.238.168.247      community.akamai.steamstatic.com
+3.91.88.54          store.akamai.steamstatic.com
+44.201.137.109      cdn.cloudflare.steamstatic.com
 23.66.66.221        steam-chat.com
-185.199.109.154              github.githubassets.com
-140.82.112.21                central.github.com
-185.199.108.133              desktop.githubusercontent.com
-185.199.109.153              assets-cdn.github.com
-185.199.109.133              camo.githubusercontent.com
-185.199.108.133              github.map.fastly.net
-151.101.65.194               github.global.ssl.fastly.net
-140.82.112.3                 gist.github.com
-185.199.110.153              github.io
-192.30.255.112               github.com
-140.82.114.6                 api.github.com
-185.199.111.133              raw.githubusercontent.com
-185.199.109.133              user-images.githubusercontent.com
-185.199.108.133              favicons.githubusercontent.com
-185.199.108.133              avatars5.githubusercontent.com
-185.199.109.133              avatars4.githubusercontent.com
-185.199.108.133              avatars3.githubusercontent.com
-185.199.110.133              avatars2.githubusercontent.com
-185.199.110.133              avatars1.githubusercontent.com
-185.199.109.133              avatars0.githubusercontent.com
-185.199.109.133              avatars.githubusercontent.com
-140.82.113.9                 codeload.github.com
-52.217.8.68                  github-cloud.s3.amazonaws.com
-54.231.172.121               github-com.s3.amazonaws.com
-52.217.234.1                 github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.38.212                github-production-user-asset-6210df.s3.amazonaws.com
-52.217.236.137               github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.109.153              githubstatus.com
-64.71.144.211                github.community
-185.199.110.133              media.githubusercontent.com
-185.199.111.133              objects.githubusercontent.com
-185.199.111.133              raw.github.com
-20.84.233.211                copilot-proxy.githubusercontent.com
-23.45.51.162 upos-hz-mirrorakam.akamaized.net
 104.111.167.111 contentstorage.osi.office.net
 13.107.42.13 onedrive.live.com
 40.126.16.167 login.live.com
@@ -24529,3 +24552,36 @@
 40.99.10.50 outlook.office365.com
 52.98.33.226 substrate.office.com
 40.99.10.82 to-do.live.com
+185.199.111.154              github.githubassets.com
+140.82.114.21                central.github.com
+185.199.110.133              desktop.githubusercontent.com
+185.199.111.153              assets-cdn.github.com
+185.199.110.133              camo.githubusercontent.com
+185.199.109.133              github.map.fastly.net
+151.101.1.194                github.global.ssl.fastly.net
+140.82.113.4                 gist.github.com
+185.199.110.153              github.io
+140.82.113.4                 github.com
+140.82.114.6                 api.github.com
+185.199.110.133              raw.githubusercontent.com
+185.199.108.133              user-images.githubusercontent.com
+185.199.111.133              favicons.githubusercontent.com
+185.199.109.133              avatars5.githubusercontent.com
+185.199.111.133              avatars4.githubusercontent.com
+185.199.109.133              avatars3.githubusercontent.com
+185.199.109.133              avatars2.githubusercontent.com
+185.199.108.133              avatars1.githubusercontent.com
+185.199.110.133              avatars0.githubusercontent.com
+185.199.111.133              avatars.githubusercontent.com
+140.82.114.10                codeload.github.com
+52.216.86.75                 github-cloud.s3.amazonaws.com
+54.231.232.209               github-com.s3.amazonaws.com
+54.231.204.1                 github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.68.188                github-production-user-asset-6210df.s3.amazonaws.com
+52.217.140.145               github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.108.153              githubstatus.com
+64.71.144.211                github.community
+185.199.108.133              media.githubusercontent.com
+185.199.111.133              raw.github.com
+20.109.240.231               copilot-proxy.githubusercontent.com
+23.45.51.162 upos-hz-mirrorakam.akamaized.net
