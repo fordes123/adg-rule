@@ -1,4 +1,4 @@
-# Update time: 2022-07-22 09:38:22
+# Update time: 2022-07-22 14:21:11
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 cnhv.co
@@ -13907,6 +13907,7 @@
 0.0.0.0 igrs.ca
 0.0.0.0 ih.adscale.de
 0.0.0.0 ih2.gamecopyworld.com
+0.0.0.0 iijls.com
 0.0.0.0 ilinks.industrybrains.com
 0.0.0.0 ilovemobi.com
 0.0.0.0 im.52441.com
@@ -15382,6 +15383,7 @@
 0.0.0.0 service002.adtech.fr
 0.0.0.0 service002.adtech.us
 0.0.0.0 service003.adtech.fr
+0.0.0.0 service003.adtech.us
 0.0.0.0 service004.adtech.fr
 0.0.0.0 service004.adtech.us
 0.0.0.0 service00x.adtech.fr
@@ -17799,6 +17801,7 @@
 0.0.0.0 paxil.1.p2l.info
 0.0.0.0 payday-loans.now-cash.com
 0.0.0.0 pe.5.p2l.info
+0.0.0.0 peter-north-cum-shot.blogspot.com
 0.0.0.0 pets.finaltips.com
 0.0.0.0 pharmacy-canada.forsearch.net
 0.0.0.0 pharmacy-news.blogspot.com
@@ -18366,7 +18369,6 @@
 0.0.0.0 gz-data.com
 0.0.0.0 gozendata.com
 0.0.0.0 gzads.com
-0.0.0.0 tracker1.zmzfile.com
 0.0.0.0 tracker2.zmzfile.com
 0.0.0.0 tracker3.zmzfile.com
 0.0.0.0 tracker4.zmzfile.com
@@ -18376,7 +18378,6 @@
 0.0.0.0 htracker3.zmzfile.com
 0.0.0.0 htracker4.zmzfile.com
 0.0.0.0 htracker5.zmzfile.com
-0.0.0.0 file.apicvn.com
 0.0.0.0 ether-pack.pangolin-sdk-toutiao.com
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
 0.0.0.0 p1-be-endcard.pglstatp-toutiao.com
@@ -18409,7 +18410,6 @@
 0.0.0.0 origin-mc.corel.com
 0.0.0.0 iws.corel.com
 0.0.0.0 ipm.corel.com
-0.0.0.0 sws.corel.com
 0.0.0.0 dam.corel.com
 0.0.0.0 dbregistration.cuteftp.com
 0.0.0.0 activation.cyberlink.com
@@ -18426,11 +18426,9 @@
 0.0.0.0 registration.presonus.com
 0.0.0.0 license.piriform.com
 0.0.0.0 licensing.tableausoftware.com
-0.0.0.0 activation.cloud.techsmith.com
 0.0.0.0 binaryage-leechgate.herokuapp.com
 0.0.0.0 updates-s3.binaryage.com
 0.0.0.0 reg.wisecleaner.com
-0.0.0.0 cbs.wondershare.com
 0.0.0.0 img1.126.net
 0.0.0.0 img3.126.net
 0.0.0.0 pimg1.126.net
@@ -18479,7 +18477,6 @@
 0.0.0.0 s.appjiagu.com
 0.0.0.0 haostat.qihoo.com
 0.0.0.0 res.qhupdate.com
-0.0.0.0 tran.news.so.com
 0.0.0.0 spro.so.com
 0.0.0.0 u.api.look.360.cn
 0.0.0.0 ad.dev.360.cn
@@ -18551,7 +18548,6 @@
 0.0.0.0 cms.tanx.com
 0.0.0.0 df.tanx.com
 0.0.0.0 ecpm.tanx.com
-0.0.0.0 ef-dongfeng.tanx.com
 0.0.0.0 opehs.tanx.com
 0.0.0.0 p.tanx.com
 0.0.0.0 pcookie.tanx.com
@@ -18613,7 +18609,6 @@
 0.0.0.0 aecpm.alicdn.com
 0.0.0.0 alimama.alicdn.com
 0.0.0.0 gen.alicdn.com
-0.0.0.0 strip.alicdn.com
 0.0.0.0 i.ipinyou.com
 0.0.0.0 ipinyou.com
 0.0.0.0 s.ipinyou.com
@@ -18640,7 +18635,6 @@
 0.0.0.0 init.phpwind.com
 0.0.0.0 nt.phpwind.com
 0.0.0.0 s.phpwind.com
-0.0.0.0 click.tanx.com
 0.0.0.0 cmc.tanx.com
 0.0.0.0 cms.opendsp.tanx.com
 0.0.0.0 ef.opendsp.tanx.com
@@ -18690,7 +18684,6 @@
 0.0.0.0 als.baidu.com
 0.0.0.0 api.share.baidu.com
 0.0.0.0 api.tuisong.baidu.com
-0.0.0.0 bdimg.share.baidu.com
 0.0.0.0 caclick.baidu.com
 0.0.0.0 cbjs.baidu.com
 0.0.0.0 cm.baidu.com
@@ -18749,7 +18742,6 @@
 0.0.0.0 gsp0.baidu.com
 0.0.0.0 ms.cmcm.com
 0.0.0.0 cmcdl.cmcm.com
-0.0.0.0 dl.cm.ksmobile.com
 0.0.0.0 andmlbf.tj.ijinshan.com
 0.0.0.0 apns.ios.ijinshan.com
 0.0.0.0 bp.mobad.ijinshan.com
@@ -18766,7 +18758,6 @@
 0.0.0.0 help.cnzz.com
 0.0.0.0 hm2.cnzz.com
 0.0.0.0 hm3.cnzz.com
-0.0.0.0 hqs1.cnzz.com
 0.0.0.0 hqs4.cnzz.com
 0.0.0.0 hqs7.cnzz.com
 0.0.0.0 hqs9.cnzz.com
@@ -18802,7 +18793,6 @@
 0.0.0.0 quanjing.cnzz.com
 0.0.0.0 s1.cnzz.com
 0.0.0.0 s10.cnzz.com
-0.0.0.0 s11.cnzz.com
 0.0.0.0 s13.cnzz.com
 0.0.0.0 s100.cnzz.com
 0.0.0.0 s101.cnzz.com
@@ -18822,7 +18812,6 @@
 0.0.0.0 s115.cnzz.com
 0.0.0.0 s116.cnzz.com
 0.0.0.0 s117.cnzz.com
-0.0.0.0 s118.cnzz.com
 0.0.0.0 s119.cnzz.com
 0.0.0.0 s12.cnzz.com
 0.0.0.0 s120.cnzz.com
@@ -18865,7 +18854,6 @@
 0.0.0.0 s26.cnzz.com
 0.0.0.0 s27.cnzz.com
 0.0.0.0 s28.cnzz.com
-0.0.0.0 s29.cnzz.com
 0.0.0.0 s3.cnzz.com
 0.0.0.0 s30.cnzz.com
 0.0.0.0 s31.cnzz.com
@@ -18951,7 +18939,6 @@
 0.0.0.0 v14.cnzz.com
 0.0.0.0 v2.cnzz.com
 0.0.0.0 v3.cnzz.com
-0.0.0.0 v4.cnzz.com
 0.0.0.0 v5.cnzz.com
 0.0.0.0 v6.cnzz.com
 0.0.0.0 v7.cnzz.com
@@ -18966,7 +18953,6 @@
 0.0.0.0 z2.cnzz.com
 0.0.0.0 z4.cnzz.com
 0.0.0.0 z5.cnzz.com
-0.0.0.0 z6.cnzz.com
 0.0.0.0 z7.cnzz.com
 0.0.0.0 z8.cnzz.com
 0.0.0.0 z9.cnzz.com
@@ -19001,7 +18987,6 @@
 0.0.0.0 union.dangdang.com
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 ade.googlesyndication.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 static.googleadsserving.cn
 0.0.0.0 www.googletagmanager.com
@@ -19013,7 +18998,6 @@
 0.0.0.0 u-x.jd.com
 0.0.0.0 u.x.jd.com
 0.0.0.0 x.jd.com
-0.0.0.0 360fenxi.mediav.com
 0.0.0.0 3m.mediav.com
 0.0.0.0 cjhd.mediav.com
 0.0.0.0 ckmap.mediav.com
@@ -19164,7 +19148,6 @@
 0.0.0.0 d0.sina.com.cn
 0.0.0.0 d00.sina.com.cn
 0.0.0.0 d1.sina.com.cn
-0.0.0.0 d4.sina.com.cn
 0.0.0.0 d5.sina.com.cn
 0.0.0.0 d6.sina.com.cn
 0.0.0.0 d7.sina.com.cn
@@ -19189,7 +19172,6 @@
 0.0.0.0 sax7.sina.com.cn
 0.0.0.0 sax8.sina.com.cn
 0.0.0.0 sax9.sina.com.cn
-0.0.0.0 saxn.sina.com.cn
 0.0.0.0 saxs.sina.com.cn
 0.0.0.0 sbeacon.sina.com.cn
 0.0.0.0 slog.sina.com.cn
@@ -19197,7 +19179,6 @@
 0.0.0.0 2016.sina.cn
 0.0.0.0 9ibbcq2d.sina.cn
 0.0.0.0 adimg.mobile.sina.cn
-0.0.0.0 click.uve.mobile.sina.cn
 0.0.0.0 cm.dmp.sina.cn
 0.0.0.0 cre-dp.sina.cn
 0.0.0.0 cre.dp.sina.cn
@@ -19210,7 +19191,6 @@
 0.0.0.0 qgnu18wo.sina.cn
 0.0.0.0 r.dmp.sina.cn
 0.0.0.0 sax.sina.cn
-0.0.0.0 saxs.sina.cn
 0.0.0.0 sdkapp.mobile.sina.cn
 0.0.0.0 sdkclick.mobile.sina.cn
 0.0.0.0 slog.sina.cn
@@ -19229,7 +19209,6 @@
 0.0.0.0 d2.sinaimg.cn
 0.0.0.0 d3.sinaimg.cn
 0.0.0.0 d6.sinaimg.cn
-0.0.0.0 d7.sinaimg.cn
 0.0.0.0 d8.sinaimg.cn
 0.0.0.0 dd.iask.cn
 0.0.0.0 adm.leju.com
@@ -19477,7 +19456,6 @@
 0.0.0.0 download.sj.qq.com
 0.0.0.0 c.gj.qq.com
 0.0.0.0 t.sj.qq.com
-0.0.0.0 ws.sj.qq.com
 0.0.0.0 www.winbaicai.com
 0.0.0.0 down.winbaicai.com
 0.0.0.0 u.diannaodian.com
@@ -19536,7 +19514,6 @@
 0.0.0.0 etl.xlmc.sec.miui.com
 0.0.0.0 wtradv.market.xiaomi.com
 0.0.0.0 cloudservice12.kingsoft-office-service.com
-0.0.0.0 cloudservice13.kingsoft-office-service.com
 0.0.0.0 cloudservice22.kingsoft-office-service.com
 0.0.0.0 cloudservice27.kingsoft-office-service.com
 0.0.0.0 moupdate1.kingsoft-office-service.com
@@ -19625,7 +19602,6 @@
 0.0.0.0 img-ad.oupeng.com
 0.0.0.0 c.adbxb.cn
 0.0.0.0 opgirl-tmp.adbxb.cn
-0.0.0.0 t.adbxb.cn
 0.0.0.0 spap.adingo.jp
 0.0.0.0 spap.adingo.jp.eimg.jp
 0.0.0.0 adfuri.socdm.com
@@ -19680,7 +19656,6 @@
 0.0.0.0 aa0.pub.funshion.com
 0.0.0.0 aa1.pub.funshion.com
 0.0.0.0 conf.funshion.com
-0.0.0.0 pub.funshion.com
 0.0.0.0 vs.funshion.com
 0.0.0.0 rt.funshion.net
 0.0.0.0 stat.funshion.net
@@ -19805,7 +19780,6 @@
 0.0.0.0 www.feixin2.com
 0.0.0.0 adui.tg.meitu.com
 0.0.0.0 rabbit.tg.meitu.com
-0.0.0.0 meitubeauty.meitudata.com
 0.0.0.0 dc.meitustat.com
 0.0.0.0 mdc.meitustat.com
 0.0.0.0 rabbit.meitustat.com
@@ -19829,7 +19803,6 @@
 0.0.0.0 iis1.deliver.ifeng.com
 0.0.0.0 iis3g.deliver.ifeng.com
 0.0.0.0 stadig.ifeng.com
-0.0.0.0 stadig0.ifeng.com
 0.0.0.0 c0.ifengimg.com
 0.0.0.0 c1.ifengimg.com
 0.0.0.0 e1.feather.ifeng.com
@@ -19895,7 +19868,6 @@
 0.0.0.0 img.ad.zhangyue.com
 0.0.0.0 m.ad.zhangyue.com
 0.0.0.0 push.zhangyue.com
-0.0.0.0 sys.zhangyue.com
 0.0.0.0 ad.51wnl.com
 0.0.0.0 ad-android.51wnl.com
 0.0.0.0 cdn1.lbesec.com
@@ -19912,7 +19884,6 @@
 0.0.0.0 cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 cootek-file.cdn.cootekservice.com
 0.0.0.0 data-news.cdn.cootekservice.com
-0.0.0.0 dialer.cdn.cootekservice.com
 0.0.0.0 ws2.cootekservice.com
 0.0.0.0 data-pic.cdn.cootekservice.com
 0.0.0.0 lottery.kuaiya.cn
@@ -19945,7 +19916,6 @@
 0.0.0.0 2012.8684.com
 0.0.0.0 bdfpb1.8684.com
 0.0.0.0 bdfpb2.8684.com
-0.0.0.0 js.2011.8684.com
 0.0.0.0 media.2011.8684.com
 0.0.0.0 ad.12306.cn
 0.0.0.0 newswifiapi.dfshurufa.com
@@ -19996,7 +19966,6 @@
 0.0.0.0 duomilm.com
 0.0.0.0 ounion.openadx.com
 0.0.0.0 aaa.zxglpj.cn
-0.0.0.0 api.0530hz.cn
 0.0.0.0 l.glrcy.cn
 0.0.0.0 img.hywly.com
 0.0.0.0 m.qmlcdlo.cn
@@ -20097,7 +20066,6 @@
 0.0.0.0 ida.cnool.net
 0.0.0.0 go.hangzhou.com.cn
 0.0.0.0 bd-js.baixing.net
-0.0.0.0 bd-s.baixing.net
 0.0.0.0 static.baixingcdn.com
 0.0.0.0 tu.baixing.com
 0.0.0.0 y.pzclw.cn
@@ -20125,11 +20093,9 @@
 0.0.0.0 53m.kuk8.com
 0.0.0.0 53s.kuk8.com
 0.0.0.0 union.duizhuang.com
-0.0.0.0 8131.qizhihaotian.cn
 0.0.0.0 8132.qizhihaotian.cn
 0.0.0.0 jsjs.jbzj.com
 0.0.0.0 icws.jb51.net
-0.0.0.0 ad.egou.com
 0.0.0.0 a.dangdang.com
 0.0.0.0 click.dangdang.com
 0.0.0.0 ads.union.jd.com
@@ -20190,7 +20156,6 @@
 0.0.0.0 tj.u17t.com
 0.0.0.0 s.cdn.u17t.com
 0.0.0.0 adsapi.manhuaren.com
-0.0.0.0 dps.shouji56.com
 0.0.0.0 tongji.tt.shouji56.com
 0.0.0.0 xz.tongji.shouji56.com
 0.0.0.0 s.abcache.com
@@ -20263,7 +20228,6 @@
 0.0.0.0 itv.hexun.com
 0.0.0.0 utrack.hexun.com
 0.0.0.0 8.jrj.com
-0.0.0.0 8.jrj.com.cn
 0.0.0.0 midas.rong360.com
 0.0.0.0 bduserlog.eastmoney.com
 0.0.0.0 bddtlog.eastmoney.com
@@ -20298,7 +20262,6 @@
 0.0.0.0 analytics.wanmei.com
 0.0.0.0 gg.stargame.com
 0.0.0.0 img1.18183.com
-0.0.0.0 zpe.klre.18183.com
 0.0.0.0 dev.tg.youxi.com
 0.0.0.0 urchin.5173.com
 0.0.0.0 5y9nfpes.52pk.com
@@ -20335,7 +20298,6 @@
 0.0.0.0 stat-y.xywy.com
 0.0.0.0 stat-z.xywy.com
 0.0.0.0 stat.xywy.com
-0.0.0.0 static.front.xywy.com
 0.0.0.0 adnetpub.yaolan.com
 0.0.0.0 adpub.yaolan.com
 0.0.0.0 adpubs.yaolan.com
@@ -20402,7 +20364,6 @@
 0.0.0.0 logs.51cto.com
 0.0.0.0 eezdx.erc.18183.com
 0.0.0.0 outer.anquan.org
-0.0.0.0 static.anquan.org
 0.0.0.0 fd.anzhi.com
 0.0.0.0 pv.anzhi.com
 0.0.0.0 www.pikacn.com
@@ -20485,7 +20446,6 @@
 0.0.0.0 pvtest.zol.com.cn
 0.0.0.0 stat.zol.com.cn
 0.0.0.0 wappv.zol.com.cn
-0.0.0.0 ydjs.zol.com.cn
 0.0.0.0 afp.zol-img.com.cn
 0.0.0.0 pic.zol-img.com.cn
 0.0.0.0 ca.w8.com.cn
@@ -20559,7 +20519,6 @@
 0.0.0.0 www.mairuan.com
 0.0.0.0 logoshejishi.com
 0.0.0.0 www.logoshejishi.com
-0.0.0.0 keyshot.cc
 0.0.0.0 www.keyshot.cc
 0.0.0.0 flstudiochina.com
 0.0.0.0 www.flstudiochina.com
@@ -20592,7 +20551,6 @@
 0.0.0.0 ntfsformac.cn
 0.0.0.0 www.ntfsformac.cn
 0.0.0.0 beyondcompare.cc
-0.0.0.0 www.beyondcompare.cc
 0.0.0.0 easyrecoverychina.com
 0.0.0.0 www.easyrecoverychina.com
 0.0.0.0 hypersnap.net
@@ -20632,7 +20590,6 @@
 0.0.0.0 x.infzm.com
 0.0.0.0 sgg.southcn.com
 0.0.0.0 pmm.people.com.cn
-0.0.0.0 tmisc.home.news.cn
 0.0.0.0 webd.home.news.cn
 0.0.0.0 gao.ynet.com
 0.0.0.0 trace.ynet.com
@@ -20766,7 +20723,6 @@
 0.0.0.0 web2.da.mgtv.com
 0.0.0.0 x.da.mgtv.com
 0.0.0.0 y.da.mgtv.com
-0.0.0.0 ys.da.mgtv.com
 0.0.0.0 log.event.hunantv.com
 0.0.0.0 log.p2p.hunantv.com
 0.0.0.0 log.rc.hunantv.com
@@ -20813,7 +20769,6 @@
 0.0.0.0 1.letvlive.com
 0.0.0.0 2.letvlive.com
 0.0.0.0 libs.tvmao.cn
-0.0.0.0 slib.tvmao.cn
 0.0.0.0 aazcio.cn
 0.0.0.0 sboite.cn
 0.0.0.0 wpan.sc2yun.com
@@ -20830,9 +20785,7 @@
 0.0.0.0 1234xm.com
 0.0.0.0 1495039.com
 0.0.0.0 181ue.com
-0.0.0.0 2.1010pic.com
 0.0.0.0 2.92caijing.com
-0.0.0.0 2.bashenghuo.com
 0.0.0.0 2017img.myxh999.com
 0.0.0.0 2341.a.dlads.cn
 0.0.0.0 244019.cc
@@ -20922,7 +20875,6 @@
 0.0.0.0 ads.vipbaihe.com
 0.0.0.0 adsc.wasu.tv
 0.0.0.0 adsdk.vivo.com.cn
-0.0.0.0 adservice.google.com.hk
 0.0.0.0 adsin.zhangyoubao.com
 0.0.0.0 adsmind.ugdtimg.com
 0.0.0.0 adstore-index-1252524079.file.myqcloud.com
@@ -20948,7 +20900,6 @@
 0.0.0.0 anfeng.com
 0.0.0.0 api.aixifan.com
 0.0.0.0 api.hfyhjg.cn
-0.0.0.0 api.jsfc8.cn
 0.0.0.0 api.mlinks.co
 0.0.0.0 api.ppoi.org
 0.0.0.0 api.ssp.zxrtb.com
@@ -20986,7 +20937,6 @@
 0.0.0.0 b3.jandan.net
 0.0.0.0 b3.jiasudu666.com
 0.0.0.0 b9g4.nxwfhjvi.cn
-0.0.0.0 ba.fqzds.com
 0.0.0.0 baby.yf898.com
 0.0.0.0 bad.maienyanjing.cn
 0.0.0.0 bad1.51gxqm.com
@@ -21119,7 +21069,6 @@
 0.0.0.0 cs.twcczhu.com
 0.0.0.0 css.asitend.com
 0.0.0.0 cubiq.org
-0.0.0.0 cx.v5cam.com
 0.0.0.0 cz.ifeng0.com
 0.0.0.0 cz75pw.kl0ru78.xyz
 0.0.0.0 czf.cchfjz.com
@@ -21231,7 +21180,6 @@
 0.0.0.0 e.tdtsd.com
 0.0.0.0 e.uissm.com
 0.0.0.0 e.uwmoghx.cn
-0.0.0.0 e.vaxyz.com
 0.0.0.0 e.vcaif.com
 0.0.0.0 e.vchim.com
 0.0.0.0 e.vjuei.com
@@ -21243,7 +21191,6 @@
 0.0.0.0 e.xkqpco.com.com
 0.0.0.0 e.xmgysweb.com
 0.0.0.0 e.xxkio.com
-0.0.0.0 e.zkwsdf.com
 0.0.0.0 eco.myt7th.xyz
 0.0.0.0 ee.0pi84.cn
 0.0.0.0 ee.1s8pj.cn
@@ -21256,7 +21203,6 @@
 0.0.0.0 ee.hdboping.com
 0.0.0.0 ee.i36mf.cn
 0.0.0.0 ee.j5s9b.cn
-0.0.0.0 ee.s47e8.cn
 0.0.0.0 ee.u0r9.cn
 0.0.0.0 ee.u4q2.cn
 0.0.0.0 ee.w82ph.cn
@@ -21264,7 +21210,6 @@
 0.0.0.0 ee.xfya3.cn
 0.0.0.0 ee.xr883.cn
 0.0.0.0 eed.ntjrh.com
-0.0.0.0 efe25.t7wl8.cn
 0.0.0.0 efo25978.eeo1h1.cn
 0.0.0.0 eg.gitpapa.com
 0.0.0.0 ehdj.njguluyu.cn
@@ -21316,7 +21261,6 @@
 0.0.0.0 gdgy56.com
 0.0.0.0 gfd.huigoushop.com
 0.0.0.0 gg.1whour.com
-0.0.0.0 gg.kkcaicai.com
 0.0.0.0 ggcode.2345.com
 0.0.0.0 gho.ysbjgjwh.com
 0.0.0.0 global.ymtracking.com
@@ -21352,7 +21296,6 @@
 0.0.0.0 hnnzwhyy.com
 0.0.0.0 hoisin.coocaatv.com
 0.0.0.0 honpu1.dianqiweixiu.net
-0.0.0.0 html.yuntzs.com
 0.0.0.0 httpdns.c.cdnhwc2.com
 0.0.0.0 huishenghuiying.com
 0.0.0.0 hv.code.tanwanyx.com
@@ -21467,12 +21410,10 @@
 0.0.0.0 js412.yqjxzw.com
 0.0.0.0 js4163.yongkang6.com
 0.0.0.0 js5162.yongkang6.com
-0.0.0.0 js74.yqjxzw.com
 0.0.0.0 js84.enyayinxiang.com
 0.0.0.0 js883.yongkang6.com
 0.0.0.0 js9318.bllzgqbyp.com
 0.0.0.0 jsc.adskeeper.com
-0.0.0.0 jscdn.99pps.com
 0.0.0.0 jscode.jbzj.com
 0.0.0.0 json.gewuwen.com
 0.0.0.0 jspassport.ssl.qhimg.com
@@ -21572,7 +21513,6 @@
 0.0.0.0 m.dante2007.com
 0.0.0.0 m.dceni.com
 0.0.0.0 m.du1du.org
-0.0.0.0 m.duias.com
 0.0.0.0 m.dydd.xyz
 0.0.0.0 m.ecenf.com
 0.0.0.0 m.ediun.com
@@ -21609,7 +21549,6 @@
 0.0.0.0 m.hissq.com
 0.0.0.0 m.hjues.com
 0.0.0.0 m.hogyp.com
-0.0.0.0 m.hyzui.com
 0.0.0.0 m.i36mf.cn
 0.0.0.0 m.ienkdaged.cn
 0.0.0.0 m.ihais.com
@@ -21628,7 +21567,6 @@
 0.0.0.0 m.lusrg.cn
 0.0.0.0 m.m19ud.cn
 0.0.0.0 m.mLabf.cn
-0.0.0.0 m.maiduoer.com
 0.0.0.0 m.mcnnic.com
 0.0.0.0 m.miaoxinqipei.com
 0.0.0.0 m.msujd.cn
@@ -21673,7 +21611,6 @@
 0.0.0.0 m.wonwg.com
 0.0.0.0 m.wsxxu.com
 0.0.0.0 m.wuqutu.com
-0.0.0.0 m.wywna.cn
 0.0.0.0 m.wz382.cn
 0.0.0.0 m.xeihy.com
 0.0.0.0 m.xfya3.cn
@@ -21779,7 +21716,6 @@
 0.0.0.0 p.hnnzwhyy.com
 0.0.0.0 p.kf3msfm.com
 0.0.0.0 p.lexph.com
-0.0.0.0 p.m5bn.com
 0.0.0.0 p.mendoc.cn
 0.0.0.0 p.niudashu.com
 0.0.0.0 p.qfmzys.com
@@ -21850,7 +21786,6 @@
 0.0.0.0 qipskd.cn
 0.0.0.0 qiyem.aiwen.cc
 0.0.0.0 qiyem.ejunshi.com
-0.0.0.0 qiyezs.aiwen.cc
 0.0.0.0 qiyezs.ejunshi.com
 0.0.0.0 qj.borsendental.com
 0.0.0.0 qlisv.siemens6es7.com
@@ -21885,7 +21820,6 @@
 0.0.0.0 rtbbnr.com
 0.0.0.0 rte.fuoo1.top
 0.0.0.0 rwq.youle55.com
-0.0.0.0 s.652748.com
 0.0.0.0 s.adyun.com
 0.0.0.0 s.bipian.top
 0.0.0.0 s.ddgjjj.com
@@ -21943,7 +21877,6 @@
 0.0.0.0 ssl86.pjshw.cn
 0.0.0.0 ssp.1rtb.com
 0.0.0.0 sss.jusha.com
-0.0.0.0 static.1j1j.com
 0.0.0.0 static.apptrack.cn
 0.0.0.0 static.beilamusi.com
 0.0.0.0 static.zctx8.com
@@ -21967,7 +21900,6 @@
 0.0.0.0 sy.sxjxhg.com
 0.0.0.0 sycnzz.17tanwan.com
 0.0.0.0 symaj.cn
-0.0.0.0 szb.aiyole.com
 0.0.0.0 t.2d-c.cn
 0.0.0.0 t.3apf.com
 0.0.0.0 t.58xs.com
@@ -21990,7 +21922,6 @@
 0.0.0.0 ta.trs.cn
 0.0.0.0 tb.code.twyxi.com
 0.0.0.0 td.xue63.com
-0.0.0.0 te.xclvq.cn
 0.0.0.0 tech.hellobya.cn
 0.0.0.0 tech.qgdvyvd.cn
 0.0.0.0 tect.hellobya.cn
@@ -22011,7 +21942,6 @@
 0.0.0.0 tj.tt1386.com
 0.0.0.0 tjpv.twh5.com
 0.0.0.0 tmp.hnshanju.com
-0.0.0.0 toateeli.net
 0.0.0.0 toblog.ctobsnssdk.com
 0.0.0.0 tongji.bohe.cn
 0.0.0.0 tongji.coccccc.cc
@@ -22082,7 +22012,6 @@
 0.0.0.0 vgf.zuihuixuan.com
 0.0.0.0 vhd23.cnsanheng.cn
 0.0.0.0 vhec.jhjhyn.cn
-0.0.0.0 vip.hyz86.com
 0.0.0.0 vip.pai76.com
 0.0.0.0 vip.qqxwf.com
 0.0.0.0 vip.zhuba8.com
@@ -22147,7 +22076,6 @@
 0.0.0.0 www.222627.com
 0.0.0.0 www.3388pjdc.com
 0.0.0.0 www.360shopping.com.cn
-0.0.0.0 www.4207008.com
 0.0.0.0 www.5066.net
 0.0.0.0 www.51dql.com
 0.0.0.0 www.5293.com
@@ -22171,7 +22099,6 @@
 0.0.0.0 www.aafanke.cc
 0.0.0.0 www.abovede6.com
 0.0.0.0 www.ad5lm.net
-0.0.0.0 www.afj0.com
 0.0.0.0 www.aliyoo999.com
 0.0.0.0 www.anyangruisi.com
 0.0.0.0 www.aoyou1.top
@@ -22338,7 +22265,6 @@
 0.0.0.0 www.yqjxzw.com
 0.0.0.0 www.yueyelive.com
 0.0.0.0 www.yzaosite.com
-0.0.0.0 www.zshacker.com
 0.0.0.0 wxb.wxbdfm.com
 0.0.0.0 wxtz.houmags.com
 0.0.0.0 wxr.kebi1.top
@@ -22368,7 +22294,6 @@
 0.0.0.0 xn--wxtr9fwyxk9c.top
 0.0.0.0 xn--xhq9mt12cf5v.art
 0.0.0.0 xn--xhq9mt12cf5v.ink
-0.0.0.0 xn--xhq9mt12cf5v.xn--io0a7i
 0.0.0.0 xnt.di2y21.top
 0.0.0.0 xsapp.cdn.bcebos.com
 0.0.0.0 xsweb.pxuns.com
@@ -22386,7 +22311,6 @@
 0.0.0.0 yahafda.qivsod.com
 0.0.0.0 yds.kebi1.top
 0.0.0.0 yihuifu.cn
-0.0.0.0 yijuxie.com
 0.0.0.0 yiqitiao.chushoushijian.cn
 0.0.0.0 ymjs.adutp.com
 0.0.0.0 ynwqls.com
@@ -22402,7 +22326,6 @@
 0.0.0.0 yxyhtea.com
 0.0.0.0 z1.cnywst.com
 0.0.0.0 z1.yunl1.com
-0.0.0.0 z1.zhishidu.com
 0.0.0.0 z2.cnywst.com
 0.0.0.0 z2.yunl1.com
 0.0.0.0 z2.zhishidu.com
@@ -22418,7 +22341,6 @@
 0.0.0.0 ztd.szkdst.com
 0.0.0.0 zx.docin.com
 0.0.0.0 zxcs.ggwan.com
-0.0.0.0 zxcs.linghit.com
 0.0.0.0 zxgghn.25ku.com
 0.0.0.0 zxr.fzxrjx.com
 0.0.0.0 zzcw.office-mall.net
@@ -22495,7 +22417,6 @@
 0.0.0.0 ad0.bigmir.net
 0.0.0.0 ad1.bigmir.net
 0.0.0.0 ad4.bigmir.net
-0.0.0.0 ad5.bigmir.net
 0.0.0.0 ad6.bigmir.net
 0.0.0.0 ad7.bigmir.net
 0.0.0.0 adi.bigmir.net
@@ -22512,7 +22433,6 @@
 0.0.0.0 adasad.myweb.hinet.net
 0.0.0.0 blogad01.myweb.hinet.net
 0.0.0.0 blogad02.myweb.hinet.net
-0.0.0.0 mobileeventad-hamivideo.cdn.hinet.net
 0.0.0.0 mobilevodad-hamivideo.cdn.hinet.net
 0.0.0.0 cdnonetag-onead.cdn.hinet.net
 0.0.0.0 imagead-gtut.cdn.hinet.net
@@ -22527,7 +22447,6 @@
 0.0.0.0 cdnpixel-onead.cdn.hinet.net
 0.0.0.0 cdnstaging-onead.cdn.hinet.net
 0.0.0.0 wdm-onead.cdn.hinet.net
-0.0.0.0 cdncreative-onead.cdn.hinet.net
 0.0.0.0 cdnadspecs-onead.cdn.hinet.net
 0.0.0.0 odm-onead.cdn.hinet.net
 0.0.0.0 wsm-onead.cdn.hinet.net
@@ -22574,7 +22493,6 @@
 0.0.0.0 hao549.com
 0.0.0.0 www.i1236.net
 0.0.0.0 hk.jtsh123.com
-0.0.0.0 hao.7654.com
 0.0.0.0 p.sdu8cvc.com
 0.0.0.0 n.a.mosenni.com
 0.0.0.0 c.minisplat.cn
@@ -22651,7 +22569,6 @@
 0.0.0.0 www.cqsta.com
 0.0.0.0 www.jiubuhua.com
 0.0.0.0 dd.wx16999.com
-0.0.0.0 weixin.renrenying.com
 0.0.0.0 jump.ishop789.com
 0.0.0.0 xmrminer.cc
 0.0.0.0 www.coinhive.com
@@ -22672,7 +22589,6 @@
 0.0.0.0 m.analytics.126.net
 0.0.0.0 news.push.126.net
 0.0.0.0 haitaoad.nosdn.127.net
-0.0.0.0 analytics.hz.netease.com
 0.0.0.0 h5.analytics.126.net
 0.0.0.0 statis.push.netease.com
 0.0.0.0 mr.da.netease.com
@@ -22745,7 +22661,6 @@
 0.0.0.0 sa3.tuisong.baidu.com
 0.0.0.0 hdj.baidu.com
 0.0.0.0 mssp.baidu.com
-0.0.0.0 nlog.baidu.com
 0.0.0.0 ad.player.baidu.com
 0.0.0.0 dd713.bj.bcebos.com
 0.0.0.0 vv84.bj.bcebos.com
@@ -22807,7 +22722,6 @@
 0.0.0.0 adsdk.9imobi.com
 0.0.0.0 a.oadz.com
 0.0.0.0 a751.oadz.com
-0.0.0.0 dns1.oadz.com
 0.0.0.0 dns2.oadz.com
 0.0.0.0 a1.oadz.com
 0.0.0.0 a1015.oadz.com
@@ -22869,7 +22783,6 @@
 0.0.0.0 8chzga.v.admaster.com.cn
 0.0.0.0 8dcyqu.c.admaster.com.cn
 0.0.0.0 c.admaster.com.cn
-0.0.0.0 click.admaster.com.cn
 0.0.0.0 letv.axp.admaster.com.cn
 0.0.0.0 pptv.adx.admaster.com.cn
 0.0.0.0 rtb.admaster.com.cn
@@ -22885,7 +22798,6 @@
 0.0.0.0 www.admaster.com.cn
 0.0.0.0 xunlei.adx.admaster.com.cn
 0.0.0.0 js.admin6.com
-0.0.0.0 conversion.adpro.cn
 0.0.0.0 m.adpro.cn
 0.0.0.0 x.adpro.cn
 0.0.0.0 adpro.pro.cn
@@ -23129,7 +23041,6 @@
 0.0.0.0 v-sence.gentags.net
 0.0.0.0 www.gentags.com
 0.0.0.0 debugreport.mobiledissector.com
-0.0.0.0 recv-vd.gridsumdissector.cn
 0.0.0.0 cfg-md.gridsumdissector.com
 0.0.0.0 cfg-vd.gridsumdissector.com
 0.0.0.0 click.gridsumdissector.com
@@ -23204,7 +23115,6 @@
 0.0.0.0 www.keydot.net
 0.0.0.0 www.51link.com
 0.0.0.0 ulink.cc
-0.0.0.0 keyrun.cn
 0.0.0.0 kxlogo.knet.cn
 0.0.0.0 rr.knet.cn
 0.0.0.0 ss.knet.cn
@@ -23312,7 +23222,6 @@
 0.0.0.0 77kb.qucaigg.com
 0.0.0.0 80s.qucaigg.com
 0.0.0.0 bttt.qucaigg.com
-0.0.0.0 g.qucaigg.com
 0.0.0.0 gg.qucaigg.com
 0.0.0.0 mp4ba.qucaigg.com
 0.0.0.0 ph.qucaigg.com
@@ -23322,7 +23231,6 @@
 0.0.0.0 pub.sitetag.us
 0.0.0.0 track.sitetag.us
 0.0.0.0 img.ma.social-touch.com
-0.0.0.0 analytics.talkingdata.net
 0.0.0.0 gaandroid.talkingdata.net
 0.0.0.0 jic.talkingdata.com
 0.0.0.0 tdcv3.talkingdata.net
@@ -23422,7 +23330,6 @@
 0.0.0.0 a2.img.static.youmi.net
 0.0.0.0 a3.img.static.youmi.net
 0.0.0.0 au.youmi.net
-0.0.0.0 notifiter.youmi.net
 0.0.0.0 youmi.net
 0.0.0.0 www.youmi.net
 0.0.0.0 ad1.img.static.youmi.net
@@ -23436,7 +23343,6 @@
 0.0.0.0 api.youxiaoad.com
 0.0.0.0 source.youxiaoad.com
 0.0.0.0 ssp.youxiaoad.com
-0.0.0.0 d.yoyi.tv
 0.0.0.0 g.d.yoyi.tv
 0.0.0.0 js.yoyi.tv
 0.0.0.0 t.d.yoyi.tv
@@ -23449,7 +23355,6 @@
 0.0.0.0 g.rs.yoyi.com.cn
 0.0.0.0 h.sora.yoyi.com.cn
 0.0.0.0 log2.air.yoyi.com.cn
-0.0.0.0 m.yoyi.com.cn
 0.0.0.0 mapping.yoyi.com.cn
 0.0.0.0 z.sora.yoyi.com.cn
 0.0.0.0 www.yoyi.com.cn
@@ -23638,7 +23543,6 @@
 0.0.0.0 adsite.hot-mob.com
 0.0.0.0 cdn.hyperpromote.com
 0.0.0.0 cdnas.hyperpromote.com
-0.0.0.0 cdnis.hyperpromote.com
 0.0.0.0 cdnpa.hyperpromote.com
 0.0.0.0 sc.iasds01.com
 0.0.0.0 secure-asia.imrworldwide.com
@@ -23706,7 +23610,6 @@
 0.0.0.0 adp.propellerads.com
 0.0.0.0 native.propellerads.com
 0.0.0.0 pixel.quantserve.com
-0.0.0.0 cdn1.srv.revdepo.com
 0.0.0.0 srv.revdepo.com
 0.0.0.0 tags4.revdepo.com
 0.0.0.0 pd7-imp.revsci.net
@@ -23740,7 +23643,6 @@
 0.0.0.0 rto.steelhousemedia.com
 0.0.0.0 imprhkmp.taboola.com
 0.0.0.0 cdn.taboola.com.cn
-0.0.0.0 tapjoy.cn
 0.0.0.0 tapjoy.com
 0.0.0.0 tapjoyads.com
 0.0.0.0 ws.tapjoyads.com
@@ -23805,7 +23707,6 @@
 0.0.0.0 p215223.inclk.com
 0.0.0.0 n.ads3-adnow.com
 0.0.0.0 st-n.ads3-adnow.com
-0.0.0.0 p215223.clksite.com
 0.0.0.0 p215223.mycdn2.co
 0.0.0.0 lbstatic-a.akamaihd.net
 0.0.0.0 pix.tagcdn.com
@@ -23850,7 +23751,6 @@
 0.0.0.0 spad.i-mobile.co.jp
 0.0.0.0 spcdnpc.i-mobile.co.jp
 0.0.0.0 spcnv.i-mobile.co.jp
-0.0.0.0 spdeliver.i-mobile.co.jp
 0.0.0.0 spdmg-backend.i-mobile.co.jp
 0.0.0.0 spdmg.i-mobile.co.jp
 0.0.0.0 spnet2-1.i-mobile.co.jp
@@ -23869,7 +23769,6 @@
 0.0.0.0 m-hayakawa.ad.dev.nend.net
 0.0.0.0 yamada2-dev.nend.net
 0.0.0.0 ad3.nend.net
-0.0.0.0 rtb.tamura.ad.dev.nend.net
 0.0.0.0 hsts.rtb.tamura.ad.dev.nend.net
 0.0.0.0 yamada.ad.dev.nend.net
 0.0.0.0 api.nend.net
@@ -23893,7 +23792,6 @@
 0.0.0.0 cdn-rtb.sape.ru
 0.0.0.0 dispenser-rtb.sape.ru
 0.0.0.0 ssp-rtb.sape.ru
-0.0.0.0 mg.yadro.ru
 0.0.0.0 st.yandexadexchange.net
 0.0.0.0 rtb.com.ru
 0.0.0.0 sync.1dmp.io
@@ -23976,7 +23874,6 @@
 0.0.0.0 pj50.com
 0.0.0.0 pl108258.puserving.com
 0.0.0.0 redpaper-10006092.cos.myqcloud.com
-0.0.0.0 script.crazyegg.com
 0.0.0.0 static.hotjar.com
 0.0.0.0 suedai.com
 0.0.0.0 tactics.bainv.net
@@ -24062,7 +23959,6 @@
 0.0.0.0 api.cupid.ptqy.gitv.tv
 0.0.0.0 msg.video.ptqy.gitv.tv
 0.0.0.0 msg2.video.ptqy.gitv.tv
-0.0.0.0 nl.rcd.ptqy.gitv.tv
 0.0.0.0 msg.c002.ottcn.com
 0.0.0.0 emoticon.sns.iqiyi.com
 0.0.0.0 hotchat-im.iqiyi.com
@@ -24078,7 +23974,6 @@
 0.0.0.0 msga.71.am
 0.0.0.0 noxagile.duapp.com
 0.0.0.0 api.cupid.qiyi.com
-0.0.0.0 msg.video.qiyi.com
 0.0.0.0 msg2.video.qiyi.com
 0.0.0.0 n.mark.letv.com
 0.0.0.0 static.app.m.letv.com
@@ -24119,7 +24014,6 @@
 0.0.0.0 lstat.youku.com
 0.0.0.0 m.yes.youku.com
 0.0.0.0 mb.atm.youku.com
-0.0.0.0 mi.atm.youku.com
 0.0.0.0 miaozhen.atm.youku.com
 0.0.0.0 mo.atm.youku.com
 0.0.0.0 mp.atm.youku.com
@@ -24178,7 +24072,6 @@
 0.0.0.0 bds.snssdk.com
 0.0.0.0 cdn-adn-https-share.rayjump.com
 0.0.0.0 da.anythinktech.com
-0.0.0.0 gd-stats.jpush.cn
 0.0.0.0 imp-toutiao-data.37.com.cn
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 ios.bugly.qq.com
@@ -24227,7 +24120,6 @@
 0.0.0.0 static.taboola.com
 0.0.0.0 tracker.taboola.com
 0.0.0.0 tracking.taboola.com
-0.0.0.0 trc0.taboola.com
 0.0.0.0 trc-china.taboola.com
 0.0.0.0 trc-events.taboola.com
 0.0.0.0 trctest.taboola.com
@@ -24258,7 +24150,6 @@
 0.0.0.0 8b26nu.viqiyi.admaster.com.cn
 0.0.0.0 8b6fqu.vyk.admaster.com.cn
 0.0.0.0 8b6fxa.viqiyi.admaster.com.cn
-0.0.0.0 8b8a4a.viqiyi.admaster.com.cn
 0.0.0.0 8b8a6a.vsohu.admaster.com.cn
 0.0.0.0 8b8a7u.vyk.admaster.com.cn
 0.0.0.0 8c8vqu.vyk.admaster.com.cn
@@ -24302,11 +24193,9 @@
 0.0.0.0 track-help.admaster.com.cn
 0.0.0.0 track.admaster.com.cn
 0.0.0.0 ty.viqiyi.admaster.com.cn
-0.0.0.0 ty.vletv.admaster.com.cn
 0.0.0.0 vfs.admaster.com.cn
 0.0.0.0 vspa.admaster.com.cn
 0.0.0.0 vtyqy.admaster.com.cn
-0.0.0.0 www.vyk.admaster.com.cn
 0.0.0.0 albtest.applovin.com
 0.0.0.0 a-support.applovin.com
 0.0.0.0 data.applovin.com
@@ -24443,7 +24332,6 @@
 0.0.0.0 ads-ap.adaptv.advertising.com
 0.0.0.0 ads-ec.adaptv.advertising.com
 0.0.0.0 ads-eu.adaptv.advertising.com
-0.0.0.0 ads-wc.adaptv.advertising.com
 0.0.0.0 adserver-as.adtech.advertising.com
 0.0.0.0 adserver-eu.adtech.advertising.com
 0.0.0.0 adserver.adtech.advertising.com
@@ -24479,7 +24367,6 @@
 0.0.0.0 n3.zuoyebang.cc
 0.0.0.0 n4.zuoyebang.cc
 0.0.0.0 n5.zuoyebang.cc
-0.0.0.0 sdk.appadhoc.com
 0.0.0.0 experiment.appadhoc.com
 0.0.0.0 upgrade.api.my7v.com
 0.0.0.0 ads.api.my7v.com
@@ -24501,49 +24388,37 @@
 0.0.0.0 api.ads.tvb.com
 0.0.0.0 img.ads.tvb.com
 0.0.0.0 config.jpush.cn
-0.0.0.0 config-junion.jpush.cn
 0.0.0.0 tsis.jpush.cn
-23.207.223.139      steamcommunity.com
-23.207.223.139      www.steamcommunity.com
-72.247.49.115       store.steampowered.com
-72.247.49.115       api.steampowered.com
-35.91.241.141       steamcdn-a.akamaihd.net
-34.209.48.49        cdn.akamai.steamstatic.com
-54.68.78.227        community.akamai.steamstatic.com
-35.90.66.131        store.akamai.steamstatic.com
-34.217.47.144       cdn.cloudflare.steamstatic.com
-23.66.66.221        steam-chat.com
-185.199.108.154              github.githubassets.com
-140.82.113.22                central.github.com
-185.199.111.133              desktop.githubusercontent.com
-185.199.110.153              assets-cdn.github.com
-185.199.111.133              camo.githubusercontent.com
-185.199.110.133              github.map.fastly.net
-151.101.1.194                github.global.ssl.fastly.net
-140.82.112.4                 gist.github.com
+185.199.110.154              github.githubassets.com
+140.82.114.21                central.github.com
+185.199.110.133              desktop.githubusercontent.com
+185.199.109.153              assets-cdn.github.com
+185.199.108.133              camo.githubusercontent.com
+185.199.111.133              github.map.fastly.net
+151.101.193.194              github.global.ssl.fastly.net
+140.82.113.3                 gist.github.com
 185.199.109.153              github.io
-140.82.114.3                 github.com
-185.199.109.133              raw.githubusercontent.com
-185.199.110.133              user-images.githubusercontent.com
-185.199.109.133              favicons.githubusercontent.com
+140.82.112.3                 github.com
+140.82.114.5                 api.github.com
+185.199.108.133              raw.githubusercontent.com
+185.199.111.133              user-images.githubusercontent.com
+185.199.111.133              favicons.githubusercontent.com
 185.199.108.133              avatars5.githubusercontent.com
-185.199.109.133              avatars4.githubusercontent.com
-185.199.111.133              avatars3.githubusercontent.com
-185.199.111.133              avatars2.githubusercontent.com
-185.199.108.133              avatars1.githubusercontent.com
+185.199.108.133              avatars3.githubusercontent.com
+185.199.108.133              avatars2.githubusercontent.com
 185.199.110.133              avatars0.githubusercontent.com
-185.199.110.133              avatars.githubusercontent.com
-140.82.114.9                 codeload.github.com
-52.216.22.3                  github-cloud.s3.amazonaws.com
-52.216.16.216                github-com.s3.amazonaws.com
-52.217.41.236                github-production-release-asset-2e65be.s3.amazonaws.com
-54.231.167.113               github-production-user-asset-6210df.s3.amazonaws.com
-52.217.171.161               github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.111.153              githubstatus.com
+185.199.108.133              avatars.githubusercontent.com
+140.82.113.10                codeload.github.com
+52.217.128.169               github-cloud.s3.amazonaws.com
+52.217.128.169               github-com.s3.amazonaws.com
+52.216.171.3                 github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.177.251               github-production-user-asset-6210df.s3.amazonaws.com
+52.217.128.169               github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.110.153              githubstatus.com
 64.71.144.211                github.community
-185.199.108.133              media.githubusercontent.com
+185.199.110.133              media.githubusercontent.com
 185.199.109.133              objects.githubusercontent.com
-185.199.111.133              raw.github.com
+185.199.110.133              raw.github.com
 20.84.29.177                 copilot-proxy.githubusercontent.com
 104.111.167.111 contentstorage.osi.office.net
 13.107.42.13 onedrive.live.com
@@ -24574,3 +24449,13 @@
 40.99.10.82 outlook.office365.com
 52.98.33.162 substrate.office.com
 40.99.10.114 to-do.live.com
+23.204.9.127        steamcommunity.com
+23.204.9.127        www.steamcommunity.com
+72.247.49.115       store.steampowered.com
+72.247.49.115       api.steampowered.com
+44.200.134.42       steamcdn-a.akamaihd.net
+3.236.72.250        cdn.akamai.steamstatic.com
+34.236.37.148       community.akamai.steamstatic.com
+3.91.83.110         store.akamai.steamstatic.com
+3.239.16.174        cdn.cloudflare.steamstatic.com
+23.66.66.221        steam-chat.com
